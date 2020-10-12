@@ -15,16 +15,16 @@ def time_in_minutes( time ):
 # ===========================================================================
 
 class talk:
-    """
-    A talk object has the information about one talk 
-    (all are strings, unless noted):
-    - conference : "cppcon" etc.
-    - year : the year the conference took place
-    - title: the title of the talk
-    - speakers : (python list of strings) the speaker(s)
-    - video: url of the video (on youtuibe)
-    - duration: (int) length of the video in minutes
-    """
+   """
+   A talk object has the information about one talk 
+   (all are strings, unless noted):
+      - conference : "cppcon" etc.
+      - year : the year the conference took place
+      - title: the title of the talk
+      - speakers : (python list of strings) the speaker(s)
+      - video: url of the video (on youtuibe)
+      - duration: (int) length of the video in minutes
+   """
 
    def __init__( self, title, conference, year, speakers, google ):
       self.conference = conference
@@ -35,14 +35,14 @@ class talk:
       self.duration = 0
       
       if google and ( self.video == None ):
-         search = title + " " + conference + " " + year + " ".join( speakers )
+         search = title + " " + conference + " " + year + " " + " ".join( speakers )
          match = YoutubeSearch( search, max_results = 1 ).to_dict()
          if len( match ) > 0:
             match = match[ 0 ]
             self.duration = time_in_minutes( match[ "duration" ] )
             self.video = "https://youtube.com" + match[ "url_suffix" ]
          else:
-            print( "not found [%s]" % search
+            print( "not found [%s]" % search )
       
    def __str__( self ):
       return "%s : [%s]" % ( self.speakers, self.title )
@@ -126,7 +126,7 @@ def cppcon( year, progress, google ):
       return talks      
    state = 0
    nr = 0
-   file_name = year + ".txt"
+   file_name = "cppcon/" + year + ".txt"
    for line in open( file_name, "r", encoding='utf-8', errors='replace' ).readlines():
       nr = nr + 1
       line = make_ascii( line )
@@ -165,6 +165,24 @@ def write_talks( file_name, talks ):
    for t in talks: 
       f.write( t.html() )
    f.close()   
+
+   
+# ===========================================================================
+
+
     
-talks = cppcon( [ "2014", "2015", "2016", "2017", "2018", "2019" ], progress = True, google = True )      
-write_talks( "index.html", talks )
+#talks = cppcon( [ "2014", "2015", "2016", "2017", "2018", "2019" ], progress = True, google = True )      
+#write_talks( "index.html", talks )
+
+if __name__ == "__main__":
+   progress = True
+   google = True
+   if len( sys.argv ) < 3:
+      printf( "usage: build <conference> <edition>" )
+   elif sys.argv[ 1 ] == "cppcon":
+      write_talks( 
+         "index.html", cppcon( sys.argv[ 2 ], 
+         progress = progress, google = google ))
+   else:
+      print( "unknown conference '%s'", sys.argv[ 1 ] )
+      
