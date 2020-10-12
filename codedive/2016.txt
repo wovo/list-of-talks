@@ -1,0 +1,92 @@
+(R)evolution Of C++
+Łukasz Ziobroń
+Agility At Scale With LeSS
+Jacek Bochenek
+An Alternative Approach To Customization Points: Type Classes
+Vicente Botet
+Asynchronous, Yet Readable, Code
+Kamil Witecki
+Better Code
+Sean Parent
+Better Code: Concurrency
+Sean Parent
+C++ Nasal Demons - What Undefined Behavior Is All About?
+Sławomir Zborowski
+C++ Template Metaprogramming - Practical Approach
+Szymon Gutaj
+C++ WAT (LT)
+Piotr Padlewski
+C++17, Will It Be Great Or Just OK (and C++ Future For Heterogeneous Dispatch To Self-driving Cars)
+Michael Wong
+Clang-tidy: Write Your Own Linting Tool
+Piotr Padlewski  Jakub Staroń
+Clean Coders Hate What Happens To Your Code When You Use These Enterprise Programming Tricks
+Kevlin Henney
+Critical Code Analysis With Observer Pattern
+Adam Badura
+Experimental Comparison Of Software Development Methods On A Commercial Project For The Industry
+Konrad Grochowski  Bartosz Papis  Kamil Subzda
+Fewer Bugs
+Andrzej Krzemieński
+Functional Programming - A Pragmatic Approach
+Michał Łoś
+Functional Programming In C++
+Bartosz Kwaśniewski
+Fundamentals Of Type-Dependent Code Reuse
+Mark Isaacson
+Future Of Communications: Nokia Bell Labs Perspective
+Agnieszka Szufarska
+Hardware Aided Computing
+Przemysław Bida
+How Evil Macros Can Be? (LT)
+Sławomir Zborowski
+How To Get Rid Of Obsession?
+Sebastian Malaca
+Internet Of Things. Building Machine Vision System Supported By Artificial Intelligence
+Dawid Borycki
+IT Support A.k.a. Disservice (LT)
+Sławomir Zborowski
+JavaScript from C++ developer perspective (LT)
+Sławomir Zborowski
+Machine Learning For The Rescue
+Mariusz Gil
+Making C++ Easier, Faster, And Safer With Tools - Part 1
+Chandler Carruth
+Making C++ Easier, Faster, And Safer With Tools - Part 2
+Chandler Carruth
+Mobile Edge Clouds – Specific Application Fields, Key Challenges, And Solutions
+Patrick Marsch
+Modern C++ Quiz - Part 1 (LT)
+Łukasz Ziobroń
+Modern C++ Quiz - Part 2 (LT)
+Kamil Szatkowski
+Modern Embedded APIs, Bare Metal Should Cause Less Pain
+Odin Holmes
+Panel-style Extended Q&A / AmA
+Chandler Carruth
+Product Types
+Vicente Botet
+Property Based Testing In C++ (LT)
+Patryk Malek
+Refactoring Hacked
+Sebastian Malaca
+Role Of Product Management In Software Development
+Zain Ul Abidin
+Small Lie In Big O
+Mateusz Pusz
+std::shared_ptr - (Not So) Smart Hammer For Every Pointy Nail
+Mateusz Pusz
+The Set Of Natural Code
+Mark Isaacson
+The Taming Of The Software: C++, Embedded... And More
+Bartosz Szurgot
+Thinking Outside The Synchronisation Quadrant
+Kevlin Henney
+ThinLTO Scalable And Incremental LTO (LT)
+Piotr Padlewski
+Undefined Behaviour Is Awesome! Understanding C++ Guarantees And Optimizations Limitations
+Piotr Padlewski
+Understanding Compiler Optimization
+Chandler Carruth
+Working On Modular Project With Git
+Kamil Szatkowski

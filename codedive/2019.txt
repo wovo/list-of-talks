@@ -1,0 +1,92 @@
+A Short Life span For a Regular Mess
+Victor Ciura
+Agile the hard(ware) way
+Karol Przybylski
+AI in Healthcare
+Pablo Ribalta
+An Agile (hi)story
+Zbigniew Piecuch
+AsyncIO and Music
+Łukasz Langa
+Better Algorithm Intuition
+Conor Hoekstra
+Black-box performance analysis
+Dmitriy Trukhanov
+Build for everyday programmers and why should they care
+Mathieu Ropert
+Building conversational voice bots – lessons learned
+Jakub Janczyk
+C++ as Assembly 2.0 - Hello Nim
+Viktor Kirilov
+C++ Code Smells
+Jason Turner
+C++20 Coroutines: Asynchronity reimagined
+Miłosz Warzecha
+C++20 Coroutines: Generators, and Brain Unrolling Sweetness
+Adi Shavit
+C++20 Coroutines: Introduction
+Marcin Grzebieluch
+C++20 Coroutines: What's next?
+Dawid Pilarski
+C++: λ Demystified
+Andreas Fertig
+Cache consistency and the C++ memory model: writing code to real hardware
+Yossi Moalem
+Cloud Native C++: Modern architecture for modernized language
+Piotr Gaczkowski
+Dependency management in C++
+Xavier Bonaventura
+Diagnose your Golang App anytime anywhere!
+Mateusz Dymiński
+Faster than memcpy
+Mateusz Brzeszcz
+Hate yourself? Keep using Python 2
+Oleksii Pilkevych
+How bananas could save your project. Understanding UX
+Arletta Jasonek
+Introduction to gRPC
+Michał Pawlik
+Making Fast Incremental Compiler for Huge Codebase
+Michał Bartkowiak
+Modern techniques for keeping your code DRY
+Björn Fahller
+No more coffee breaks - reducing C/C++ project compilation time
+Piotr Osiewicz
+Practical Aspects of Microservice Architecture
+Remigiusz Michułka
+Preconditions, postconditions, invariants – how they help write robust programs
+Andrzej Krzemieński
+Project managing in Data Science teams
+Tereza Iofciu
+Resilience patterns in practice
+Tomasz Skowroński
+Rethinking Usage of C++ Templates
+Mateusz Pusz
+Should I care about CPU cache?
+Kamil Witecki
+Software is feeding the World
+Christian Barra
+Status quo: clang-tidy & AddressSanitizer on Windows
+Victor Ciura
+Story of autonomous drone racing
+Piotr Padlewski
+The Life of a CPU Instruction
+Borislav Stanimirov
+Thinking outside of the framework
+Mateusz Nowak
+Trusting your Raspberry Pi - An introduction to the TPM and IoT
+Ian Oliver
+Undefined Behavior is Not an Error
+Barbara Geller  Ansel Sermersheim
+What do you mean by "cache friendly"?
+Björn Fahller
+What does it mean to trust your boot process?
+Gabriela Limonta
+When Python Practices Go Wrong
+Brandon Rhodes
+When warnings become errors. A case-study of latent bugs discovered by modernizing toolchain
+Łukasz Kucharski
+Why you should start to think about compiling your code into web assembly
+Sambath Logakrishnan
+You can run but you can’t hide from it: Edge cloud is here, now!
+Adrian Peret

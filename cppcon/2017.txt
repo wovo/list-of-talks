@@ -1,0 +1,549 @@
+Saturday, September 23
+ 
+9:00am PDT
+Lightning Talks
+Concurrent Thinking in C++
+Anthony Williams
+Modern C++ Template Programming
+Stephen Dewhurst
+Modernizing Your C++
+Michael Caisse
+Programming with Qt/Widgets
+Giuseppe D'Angelo
+The Standard Library from Scratch
+Arthur O'Dwyer
+
+5:30pm PDT
+Volunteers Dinner
+
+ 
+Sunday, September 24
+ 
+9:00am PDT
+Concurrent Thinking in C++
+Anthony Williams
+Modern C++ Template Programming
+Stephen Dewhurst
+Modernizing Your C++
+Michael Caisse
+Moving to C++17: The New Language and Library Features
+Nicolai Josuttis
+Programming with Qt/Widgets
+Giuseppe D'Angelo
+The Standard Library from Scratch
+Arthur O'Dwyer
+
+10:30am PDT
+Boeing Future of Flight Field Trip
+
+11:30am PDT
+Boeing Future of Flight Field Trip
+
+5:30pm PDT
+Tee Shirt Night Dinner
+
+8:00pm PDT
+Registration Reception
+
+ 
+Monday, September 25
+ 
+8:00am PDT
+Registration
+
+9:00am PDT
+Learning and Teaching Modern C++
+Bjarne Stroustrup
+
+11:00am PDT
+constexpr ALL the Things!
+Ben Deane • Jason Turner
+Coroutines: What can't they do?
+Toby Allsopp
+C++ Constraints: Background, Utility, and Gotchas
+Walter E. Brown
+The Quiet Little Gem in Modern C++: ＜system_error＞
+Charley Bay
+Modern C++ Interfaces: Complexity, Emergent Simplicity, SFINAE, and Second Order Properties of Types
+Stephen Dewhurst
+EA’s Secret Weapon: Packages and Modules
+Scott Wardle
+Time Travel Debugging: Root Causing Bugs in Commercial Scale Software
+James McNellis • Jordi Mola • Ken Sykes
+
+12:00pm PDT
+Book Signing: Scott Meyers
+Scott Meyers
+
+12:30pm PDT
+The Programmer CEO: Tales From Starting a Company Aimed at C++ Developers
+Greg Law
+Trainers Panel I
+Jon Kalb • Giuseppe D'Angelo • Stephen Dewhurst • Kate Gregory • Scott Meyers • Anthony Williams
+
+1:35pm PDT
+Book Signing: Anthony Williams
+Anthony Williams
+
+2:00pm PDT
+C++17 Features (part 1 of 2)
+Bryce Adelstein Lelbach
+The landscape of parallel programming models: is it still hard or just OK? (part 1 of 2)
+Paul E. McKenney • Maged Michael • Michael Wong
+Unicode Strings: Why the Implementation Matters
+Barbara Geller • Ansel Sermersheim
+Almost Unlimited Modern C++ in Kernel-Mode Applications
+Billy Baker
+When a Microsecond Is an Eternity: High Performance Trading Systems in C++
+Carl Cook
+Which Machine Am I Coding To?
+Patrice Roy
+New standards to the rescue: the view through an IDE’s glasses
+Anastasia Kazakova
+
+3:15pm PDT
+A modern formatting library for C++
+Victor Zverovich
+C++17 Features (part 2 of 2)
+Bryce Adelstein Lelbach
+The landscape of parallel programming models: is it still hard or just OK? (part 2 of 2)
+Paul E. McKenney • Maged Michael • Michael Wong
+An allocator model for std2
+Alisdair Meredith
+Deconstructing the OS: the Devil’s In the Side Effects
+Alfred Bratterud
+C++ Development with Visual Studio Code
+Rong Lu
+What's New and Upcoming in Visual Studio 2017 Updates
+Steve Carroll • Daniel Moth
+
+4:45pm PDT
+From security to performance to GPU programming: exploring modern allocators
+Sergey Zubkov
+Building Better Worlds: Developing a Procedural City Tool for Alien: Covenant
+Alan Bucior
+Migrating a C++03 library to C++11 case study: Wt 4
+Roel Standaert
+Enhanced Support for Value Semantics in C++17
+Michael Park
+C++ atomics, from basic to advanced - what do they do and what do they really do?
+Fedor Pikus
+Esoteric Data Structures and Where to Find Them
+Allan Deutsch
+Faster Delivery of Large C/C++ Projects with Conan Package Manager and Efficient Continuous Integration
+Luis Martinez de Bartolome • Diego Rodriguez-Losada Gonzalez
+
+5:20pm PDT
+folly::Function: A Non-copyable Alternative to std::function
+Sven Over
+Just Enough x86 Assembly to Be Dangerous
+Charles Bailey
+Fuzz or lose: why and how to make fuzzing a standard practice for C++
+Kostya Serebryany
+
+8:30pm PDT
+Grill the Committee
+Jon Kalb • Louis Dionne • Eric Niebler • Gor Nishanov • Gabriel Dos Reis • Bjarne Stroustrup • Herb Sutter • Andrew Sutton • Ville Voutilainen • Titus Winters
+
+ 
+Tuesday, September 26
+ 
+8:00am PDT
+Package management for C++ OSS libraries on Windows with vcpkg
+Eric Mittelette • Robert Schumacher
+
+9:00am PDT
+C++17 ParallelSTL: A Standardization Experience Report for CPU and GPU on SYCL
+Gordon Brown • Ruyman Reyes • Michael Wong
+Function default arguments: Slingshot or Shotgun?
+Michael Price
+Mocking Frameworks considered harmful
+Peter Sommerlad
+Design Patterns for Low-Level Real-Time Rendering
+Nicolas Guillemot
+Cross-Platform Apps with Dropbox’s Djinni: In-Production Architecture Examples
+Stephen Spann
+The Nightmare of Move Semantics for Trivial Classes
+Nicolai Josuttis
+Everything You Ever Wanted to Know about DLLs
+James McNellis
+
+10:05am PDT
+Book Signing: Bjarne Stroustrup
+Bjarne Stroustrup
+
+10:30am PDT
+C++ as a "Live at Head" Language
+Titus Winters
+
+12:30pm PDT
+CppCon Program Committee
+Jon Kalb • Bryce Adelstein Lelbach
+Recruiters Panel
+Nicole Mazzuca • Kevin P. Fleming • Randal Matthias • Andrew Pardoe • Prashant Singh • Sylvie Tehbelian
+
+2:00pm PDT
+Practical C++17
+Jason Turner
+Multithreading is the answer. What is the question? (part 1 of 2)
+Ansel Sermersheim
+Local ('Arena') Memory Allocators (part 1 of 2)
+John Lakos
+Postmodern C++
+Tony Van Eerd
+MPark.Patterns: Pattern Matching in C++
+Michael Park
+dynamic_cast From Scratch
+Arthur O'Dwyer
+Using Modern CMake Patterns to Enforce a Good Modular Design
+Mathieu Ropert
+
+3:15pm PDT
+Class Template Argument Deduction: A New Abstraction
+Zhihao Yuan
+Multithreading is the answer. What is the question? (part 2 of 2)
+Ansel Sermersheim
+Local ('Arena') Memory Allocators (part 2 of 2)
+John Lakos
+Designing A Feature That Doesn't Fit
+Patrice Roy
+Using Functional Programming Patterns to build a clean and simple HTTP routing API
+Jeremy Demeule • Quentin Duval
+Tools from the C++ eco-system to save a leg
+Anastasia Kazakova
+
+4:45pm PDT
+Concurrency, Parallelism and Coroutines
+Anthony Williams
+Delegate this!
+Alfred Bratterud
+Hands-On With Google's Common Libraries
+Titus Winters
+Recreational C++
+Alisdair Meredith
+Agent based class design, C++ with a robot glue gun
+Odin Holmes
+CNL: A Compositional Numeric Library
+John McFarlane
+ThinLTO: Building C++ Applications with Scalable Whole Program Optimization
+Teresa Johnson
+
+7:00pm PDT
+Boost Community Dinner
+
+8:30pm PDT
+Lightning Talks
+Michael Caisse
+C++ in Academia
+Chuck Allison • Andrew Lumsdaine • Patrice Roy • Bjarne Stroustrup
+
+ 
+Wednesday, September 27
+ 
+8:00am PDT
+Emulating a BBC Micro in Javascript
+Matt Godbolt
+
+8:30am PDT
+ISO SG14 Working Meeting FULL
+Herb Sutter • Michael Wong
+
+9:00am PDT
+Boost Your Program’s Health by Adding Fibers to your Coroutine
+David Sackstein
+Seventeenification
+Roland Bock
+10 Core Guidelines You Need to Start Using Now
+Kate Gregory
+Using IncludeOS to Write Fast and Secure Web Applications
+Lukas Bergdoll
+API & ABI Versioning: How to Handle Compatibility With Your C++ Libraries
+Mathieu Ropert
+Bringing Clang-tidy Magic to Visual Studio C++ Developers
+Victor Ciura
+
+10:30am PDT
+Meta: Thoughts on generative C++
+Herb Sutter
+
+12:30pm PDT
+C++ Community Building Birds of a Feather
+Jon Kalb • Jens Weller
+Lightning Talks
+Michael Caisse
+Optimizations and Debug Quality
+Samy Al Bahra
+
+1:00pm PDT
+ISO SG14 Working Meeting FULL
+Herb Sutter • Michael Wong
+
+1:10pm PDT
+Captioning and Translating C++ Videos
+Robin Kuzmin
+
+2:00pm PDT
+Driving Into the Future With Modern C++: A Look at Adaptive Autosar
+Jan Babst
+Read, Copy, Update, then what? RCU for non-kernel programmers
+Fedor Pikus
+Naivety of Creating Cross-Platform, Modern C++ Libraries: A Tour Of Our Challenges and Successes
+Jonathan Henson
+C++ Templates Revised
+Nicolai Josuttis
+Language support for compile-time reflection
+Andrew Sutton
+Undefined Behavior in 2017 (part 1 of 2)
+John Regehr
+
+3:15pm PDT
+Practical Patterns with the Networking TS
+Michael Caisse
+Reader-Writer Lock versus Mutex - Understanding a Lost Bet
+Jeffrey Mendelsohn
+Make Classes Great Again! (Using Concepts for Customization Points)
+Vinnie Falco
+Effective Qt (2017 edition)
+Giuseppe D'Angelo
+Undefined Behavior in 2017 (part 2 of 2)
+John Regehr
+There Will Be Build Systems: I Configure Your Milkshake
+Isabella Muerte
+
+3:30pm PDT
+ISO SG14 Working Meeting FILLING
+Herb Sutter • Michael Wong
+
+4:45pm PDT
+Designing C++ Hardware
+Olivier Giroux
+An Interesting Lock-free Queue - Part 2 of N
+Tony Van Eerd
+Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step
+Matt Kulukundis
+A Soupçon of SFINAE
+Arthur O'Dwyer
+A Type, by Any Other Name
+Jon Cohen
+Tools and Techniques To Stay Up-to-date With Modern C++
+Ingve Vormestrand
+
+6:00pm PDT
+Qt Happy Hour
+
+8:30pm PDT
+Lightning Talks
+Michael Caisse
+Learning C++ Isn't Difficult -- Teaching C++ Is The Trick
+Christopher Di Bella
+Optimizing Code Speed and Space with Build Time Switches
+Brett Searles • Chandler Carruth • Matt Godbolt • Jim Radigan
+
+ 
+Thursday, September 28
+ 
+8:00am PDT
+Open Content Sessions: TBA
+
+9:00am PDT
+A Test a Day Keeps Your Manager Away!
+Rian Quinn
+Game Audio Programming in C++
+Guy Somberg
+Language Support for Metaprogramming in C++
+Andrew Sutton
+Runtime Polymorphism: Back to the Basics
+Louis Dionne
+Type Punning in C++17: Avoiding Pun-defined Behavior
+Scott Schurr
+Building C++ Modules
+Boris Kolpackov
+
+10:30am PDT
+Qt as a C++ Framework: History, Present State and Future
+Lars Knoll
+
+12:05pm PDT
+Book Signing: Herb Sutter
+Herb Sutter
+
+12:30pm PDT
+Lightning Talks
+Michael Caisse
+Trainers Panel II
+Jon Kalb • Michael Caisse • Nicolai Josuttis • Thomas McGuire • Dan Saks • Jason Turner
+
+1:35pm PDT
+Book Signing: Nicolai Josuttis
+Nicolai Josuttis
+
+2:00pm PDT
+The Asynchronous C++ Parallel Programming Model
+Hartmut Kaiser
+How to Write a Custom Allocator
+Bob Steagall
+How to Write Effective Documentation for C++ Libraries with Minimal Effort
+Robert Ramey
+Mix Tests and Production Code With Doctest - Implementing and Using the Fastest Modern C++ Testing Framework
+Viktor Kirilov
+Objects, Lifetimes, and References, oh my: the C++ Object Model, and Why it Matters to You
+Nicole Mazzuca
+Practical Techniques for Improving C++ Build Times
+Dmitry Panin
+
+3:15pm PDT
+A Tour of Deep Learning With C++
+Peter Goldsborough
+Naked coroutines live (with networking)
+Gor Nishanov
+C++ and Persistent Memory Technologies, Like Intel's 3D-XPoint
+Tomasz Kapela
+Microcontrollers in Micro-increments : A Test-driven C++ Workflow for Embedded Systems
+Mike Ritchie
+I Wish I Could Use C++ 1x/y/z :(
+Joel Falcou
+
+4:45pm PDT
+Fantastic Algorithms and Where To Find Them
+Nicholas Ormrod
+LauncherOne rocket with C++ engine
+Diego Franco
+C++17 Parallel Algorithms
+Dietmar Kühl
+Postmodern immutable data structures
+Juan Pedro Bolivar Puente
+How to break an ABI and keep your users happy
+Gennadiy Rozental
+So, you inherited a large code base...
+David Sankel
+
+6:45pm PDT
+Meet the Speakers Dinner
+
+8:30pm PDT
+CppCon 2018 Kick-off Meeting
+Jon Kalb • Bryce Adelstein Lelbach
+Lightning Talks
+Michael Caisse
+AMD ROCm and the Heterogeneous System Architecture for HW accelerated C++ and high level languages
+Paul Blinzer
+C++ in the Internet of Things
+Brett Searles • Jelani Brandon • Sara Chipps • Lloyd Moore • Patrice Roy • Dan Saks • Ewerton Scaboro da Silva
+
+ 
+Friday, September 29
+ 
+9:00am PDT
+Eight Ways to Handle Non-blocking Returns in Message-passing Programs: from C++98 via C++11 to C++20
+Sergey Ignatchenko
+Modern Allocators: The Good Parts
+Pablo Halpern
+The Holy Grail - A Hash Array Mapped Trie for C++
+Phil Nash
+C++ Exceptions and Stack Unwinding
+David Watson
+Performance Benchmarking with Celero
+John Farrier
+Undefined Behaviour is awesome!
+Piotr Padlewski
+
+10:30am PDT
+What C++ developers should know about globals (and the linker)
+Nir Friedman
+Understanding the runtime behaviors of C++ programs using uftrace tool
+Honggyu Kim
+Optimizing compilation times of Generated Code with Templates
+Eddie Elizondo
+Traveling the Solar System with C++: Programming Rocket Science
+Juan Arrieta
+Designing a Unified Interface for Execution
+Gordon Brown • Michael Wong
+Higher-order Functions in C++: Techniques and Applications
+Michał Dominiak
+
+11:05am PDT
+End-to-end Deadlock Debugging Tools at Facebook
+Kenny Yu
+Howling at the Moon: Lua for C++ Programmers
+Andreas Weis
+Inside the Qt Object Model
+Simon Hausmann
+
+12:00pm PDT
+CppCon 2018 Planning Committee Work Session
+Jon Kalb • Bryce Adelstein Lelbach
+C++ in High Performance Computing BoF
+Bryce Adelstein Lelbach • Andrew Lumsdaine
+
+1:30pm PDT
+The Point of Views: Multidimensional Index Sets for Data Locality in HPC Applications
+Tobias Fuchs
+Customizing the Standard Containers
+Marshall Clow
+Curiously Recurring Bug Patterns in C++ at Facebook
+Louis Brandy
+Free Your Functions!
+Klaus Iglberger
+Compile-time reflection, Serialization and ORM Examples
+Yu Qi
+Going Nowhere Faster
+Chandler Carruth
+
+2:45pm PDT
+Unbolting the Compiler's Lid: What Has My Compiler Done for Me Lately?
+Matt Godbolt
+
+4:45pm PDT
+Building for the Best of Us: Design and Development with Kids in Mind
+Sara Chipps
+The Future of Texture Compression
+Rich Geldreich • Stephanie Hurlburt
+Implementing C++ Modules in G++
+Nathan Sidwell
+C++/WinRT and the Future of C++ on Windows
+Scott Jones • Kenny Kerr
+My Little Object File: How Linkers Implement C++
+Michael Spencer
+
+5:30pm PDT
+Kid-Friendly Buffet
+
+6:30pm PDT
+Jewelbots Build Workshop (1 of 2)
+Sara Chipps
+
+7:30pm PDT
+Jewelbots Build Workshop (2 of 2)
+Sara Chipps
+
+ 
+Saturday, September 30
+ 
+9:00am PDT
+C++ Best Practices
+Jason Turner
+Crafting Embedded Software in C++
+Dan Saks
+Debugging and Profiling C++ Code on Linux
+Thomas McGuire
+Exploring the C++ Standard Library
+Christopher Di Bella
+Move Semantics: Everything You Always Wanted to Know, But Were Afraid to Ask
+Nicolai Josuttis
+Practical Modern C++
+Patrice Roy
+
+ 
+Sunday, October 1
+ 
+9:00am PDT
+C++ Best Practices
+Jason Turner
+Crafting Embedded Software in C++
+Dan Saks
+Debugging and Profiling C++ Code on Linux
+Thomas McGuire
+Exploring the C++ Standard Library
+Christopher Di Bella
+Practical Modern C++
+Patrice Roy

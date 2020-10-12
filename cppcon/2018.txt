@@ -1,0 +1,601 @@
+Saturday, September 22
+ 
+09:00 PDT
+Advanced and Modern C++ Programming: The Tricky Parts
+Nicolai Josuttis
+Concurrency with Modern C++
+Rainer Grimm
+Interface Design for Modern C++
+Bob Steagall
+Modern C++ Template Programming
+Stephen Dewhurst
+Modernizing Your C++
+Michael Caisse
+Thinking Small
+Patrice Roy
+
+ 
+Sunday, September 23
+ 
+09:00 PDT
+Advanced and Modern C++ Programming: The Tricky Parts
+Nicolai Josuttis
+Concurrency with Modern C++
+Rainer Grimm
+Engage, Entertain, Educate: Technical Speaking that Works
+Andrei Alexandrescu • Kate Gregory • Scott Meyers
+Interface Design for Modern C++
+Bob Steagall
+Modern C++ Template Programming
+Stephen Dewhurst
+Modernizing Your C++
+Michael Caisse
+Thinking Small
+Patrice Roy
+
+17:30 PDT
+Tee Shirt Night Dinner
+
+20:00 PDT
+Registration Reception
+
+ 
+Monday, September 24
+ 
+08:00 PDT
+Registration
+
+09:00 PDT
+Concepts: The Future of Generic Programming (the future is here)
+Bjarne Stroustrup
+
+11:00 PDT
+C++ Dependency Management: from Package Consumption to Project Development
+Boris Kolpackov
+The C++ Execution Model
+Bryce Adelstein Lelbach
+Enough string_view to Hang Ourselves
+Victor Ciura
+How to Teach C++ and Influence a Generation
+Christopher Di Bella
+Concepts and Contracts: When, What, and How
+Michael Price
+Text Formatting For a Future Range-Based Standard Library
+Arno Schoedl
+
+12:05 PDT
+Book Signing: Herb Sutter
+Herb Sutter
+
+12:30 PDT
+Trainers Panel I
+Jon Kalb • Nicolai Josuttis • Scott Meyers • Michael Caisse • Stephen Dewhurst
+
+13:35 PDT
+Book Signing: Scott Meyers
+Scott Meyers
+
+14:00 PDT
+Modern C++ Design (part 1 of 2)
+Titus Winters
+C++ Function Templates: How Do They Really Work?
+Walter E. Brown
+Contract Programming in C++(20) (part 1 of 2)
+Alisdair Meredith
+Crafting Embedded Domain-Specific Language (EDSL) In C++ using Metaprogramming, Operator Overloading, and Lambda Expressions
+Gilang Hamidy
+Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (part 1 of 2)
+Matthew Butler
+Modern C++ Testing with Catch2
+Phil Nash
+How to Write Well-Behaved Value Wrappers
+Simon Brand
+
+15:15 PDT
+High-Radix Concurrent C++
+Olivier Giroux
+An Allocator is a Handle to a Heap
+Arthur O'Dwyer
+Modern C++ Design (part 2 of 2)
+Titus Winters
+Contract Programming in C++(20) (part 2 of 2)
+Alisdair Meredith
+The Nightmare of Initialization in C++
+Nicolai Josuttis
+Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (part 2 of 2)
+Matthew Butler
+How C++ Debuggers Work
+Simon Brand
+
+16:45 PDT
+Git, CMake, Conan - How to ship and reuse our C++ projects
+Mateusz Pusz
+A Modern C++ Programming Model for GPUs using Khronos SYCL
+Gordon Brown • Michael Wong
+Emulating the Nintendo 3DS: Generative & Declarative Programming in Action
+Tony Wasserka
+Unwinding the Stack: Exploring How C++ Exceptions Work on Windows
+James McNellis
+Expect the Expected
+Andrei Alexandrescu
+Surprises in Object Lifetime
+Jason Turner
+Debug C++ Without Running
+Anastasiia Kazakova
+
+17:00 PDT
+Speaker Portraits
+Zoetica Ebb
+
+20:30 PDT
+Grill the Committee
+Jon Kalb • Marshall Clow • Olivier Giroux • Howard Hinnant • Bjarne Stroustrup • Herb Sutter • Ville Voutilainen • Titus Winters
+
+ 
+Tuesday, September 25
+ 
+08:00 PDT
+minidumps: gdb-compatible, software controlled core dumps
+Matthew Fleming
+
+09:00 PDT
+What Do We Mean When We Say Nothing At All?
+Kate Gregory
+Compile Time Regular Expressions
+Hana Dusíková
+Source Instrumentation for Monitoring C++ in Production
+Steven Simpson
+DynaMix: A New Take on Polymorphism
+Borislav Stanimirov
+Avoiding Disasters with Strongly Typed C++
+Arno Lepisk
+Fancy Pointers for Fun and Profit
+Bob Steagall
+Regular Types and Why Do I Care ?
+Victor Ciura
+
+10:30 PDT
+Patterns and Techniques Used in the Houdini 3D Graphics Application
+Mark Elendt
+
+12:05 PDT
+Book Signing: Bjarne Stroustrup
+Bjarne Stroustrup
+
+12:30 PDT
+Make World: The Most Miserable Place In C++
+Jason Turner • Peter Bindels • Robert Maynard • Isabella Muerte • Jussi Pakkanen
+CppCon Program Committee
+Bryce Adelstein Lelbach • Jon Kalb
+Grill the Résumés
+Michał Dominiak • Steve Carroll • Kai Nelson
+Debuggers for Modern Applications: Performance and Static Analysis
+Samy Al Bahra
+
+13:35 PDT
+Book Signing: Nicolai Josuttis
+Nicolai Josuttis
+
+14:00 PDT
+Speaker Portraits
+Zoetica Ebb
+The Exciting New Future of Safe Reclamation for High Performance
+Paul McKenney • Maged Michael • Michael Wong
+Making New Friends
+Dan Saks
+Operator Overloading: History, Principles and Practice
+Ben Deane
+What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions
+Simon Brand • Phil Nash
+Woes of Scope Guards and Unique Resource - 5+ years in the making
+Peter Sommerlad
+Pessimistic Programming
+Patrice Roy
+More gdb and other Linux debugging wizardry
+Greg Law
+
+15:15 PDT
+A Semi Compile/Run-time Map with (Nearly) Zero Overhead Lookup
+Fabian Renn-Giles
+Touring the "C++ Tip of the Week" Series
+Jon Cohen • Matt Kulukundis
+Overloading: The Bane of All Higher-Order Functions
+Simon Brand
+RVO is Harder than it Looks: the story of -Wreturn-std-move
+Arthur O'Dwyer
+Make It Fixable: Preparing for Security Vulnerability Reports
+Patricia Aas
+Funqual: user-defined statically-checked call tree constraints in C++
+Andrew Nelson
+
+15:50 PDT
+Talking to Typelists
+Stephen Dewhurst
+yomm2 - Fast Orthogonal Open (Multi) Methods
+Jean-Louis Leroy
+Memory Tagging and how it improves C++ memory safety
+Kostya Serebryany
+Teaching Old Compilers New Tricks: Transpiling C++17 to C++11
+Tony Wasserka
+Smart References: There and Back Again
+Erik Valkering
+Why and How to Roll Your Own std::function Implementation
+Tom Poole
+
+16:45 PDT
+Frozen data structures in C++14
+Serge Guelton
+Lightweight 2D graphics with io2d
+Guy Davidson
+Named Arguments in C++ from Scratch
+Richard Powell
+Undefined Behavior is Not an Error
+Barbara Geller • Ansel Sermersheim
+Progress with C++ Modules
+Nathan Sidwell
+The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++
+Robert Leahy
+
+18:00 PDT
+Boost Community Dinner
+
+20:30 PDT
+Lightning Talks
+Michael Caisse
+Embedded C++
+Odin Holmes • Ben Saks • Dan Saks • Brett Searles • Andrew Sloss
+Tool Time
+Phil Nash
+
+ 
+Wednesday, September 26
+ 
+08:00 PDT
+Big Infrastructure at a Small Scale
+Matthew von Arx
+
+08:30 PDT
+ISO SG14 Working Meeting
+Herb Sutter • Michael Wong
+
+09:00 PDT
+Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics
+Bob Steagall
+State Machines Battlefield - Naive vs STL vs Boost
+Kris Jusiak
+These Aren't the COM Objects You're Looking For
+Victor Ciura
+Software Vulnerabilities in C and C++
+Patricia Aas
+Ensuring Exception Safety Through Testing
+Jon Cohen
+Sane and Safe C++ Classes
+Peter Sommerlad
+
+10:30 PDT
+Simplicity: not just for beginners
+Kate Gregory
+
+12:05 PDT
+Book Signing: Andrei Alexandrescu
+Andrei Alexandrescu
+
+12:30 PDT
+Mixing Managed and Unmanaged Code and Targeting Cross Platform Distributions
+Kate Gregory • Lloyd Moore • Aaron R Robinson • Brett Searles
+C++ Community Building Birds of a Feather
+Jon Kalb • Bryce Adelstein Lelbach • Stephan T. Lavavej • Phil Nash • Jens Weller
+Lesser known Linux Kernel APIs
+Hannes Sowa
+Inside yomm2
+Jean-Louis Leroy
+
+13:00 PDT
+ISO SG14 Working Meeting
+Herb Sutter • Michael Wong
+
+14:00 PDT
+What to Expect from a Next-Generation C++ Build System
+Boris Kolpackov
+How to Argue(ment): What Type Should I Use for My Function's Arguments
+Richard Powell
+Compile-time programming and reflection in C++20 and beyond
+Louis Dionne
+Understanding Optimizers: Helping the Compiler Help You
+Nir Friedman
+End of Error - Boost.SafeNumerics
+Robert Ramey
+Latest and Greatest in the Visual Studio Family for C++ Developers 2018
+Steve Carroll • Marian Luparu
+
+15:15 PDT
+Don't package your libraries, write packagable libraries!
+Robert Schumacher
+A Little Order: Delving into the STL sorting algorithms
+Fred Tingaud
+The Embedded Device Under Your Desk: UEFI Applications With Modern C++
+Morris Hafner
+Refactoring Legacy Codebases with LibTooling
+James Bennett
+To Kill a Mocking Framework: Tools and Techniques for Testing Callbacks Using Standard C++
+Alastair Rankine
+What's new in Visual Studio Code for C++ development
+Rong Lu
+
+15:30 PDT
+ISO SG14 Working Meeting
+Herb Sutter • Michael Wong
+
+15:50 PDT
+Compiling Multi-Million Line C++ Code Bases Effortlessly with the Meson Build System
+Jussi Pakkanen
+Easy::Jit: A Just-in-Time compilation library for C++
+Juan Manuel Martinez Caamaño
+Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time
+Niek J. Bouman
+Save $$ Testing Code the Playback-Based Way
+William Clements
+Datum: A Trivially Constructible, Bitwise Copyable Compact Value-semantic Variant Type
+Rishi Wani
+Value Semantics: Fast, Safe, and Correct by Default
+Nicole Mazzuca
+
+16:45 PDT
+Memory Latency Troubles You? Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)
+Gor Nishanov
+105 STL Algorithms in Less Than an Hour
+Jonathan Boccara
+C++ in Elvenland
+Serge Guelton
+Modern C++ in Embedded Systems - The Saga Continues
+Michael Caisse
+Using Compile-time Code Generation to build an LLVM IR Pattern Matcher
+Pablo Halpern
+Accelerating Applications on a GPU with CUDA C++
+Michael Gopshtein
+Parsing C++
+Timur Doumler • Dmitry Kozhevnikov
+
+18:45 PDT
+Cross-platform C++ development is challenging - let tools help!
+Marc Goodner
+
+19:00 PDT
+C++ Audio Meetup
+Timur Doumler • Ed Davies
+
+20:30 PDT
+Lightning Talks
+Optimizing Code Speed and Space with Build Time Switches
+Ian Bearman • Chandler Carruth • Xiang Fan • Brett Searles • Michael Wong
+
+ 
+Thursday, September 27
+ 
+08:00 PDT
+Cpp.Chat - Live Episode! Interview with Nicolai Josuttis.
+Nicolai Josuttis • Jon Kalb • Phil Nash
+Mock Interviews
+Simon Brand
+
+09:00 PDT
+Build Systems: a Simple Solution to a Complicated Problem
+Peter Bindels
+Inside Visual C++' Parallel Algorithms
+Billy O'Neal
+Using Template Magic to Automatically Generate Hybrid CPU/GPU-Code
+Elmar Westphal
+Writing Standard Library Compliant Data Structures and Algorithms
+Marc Gregoire
+Concepts As She Is Spoke
+Arthur O'Dwyer
+Better Tools in Your Clang Toolbox: Extending clang-tidy With Your Custom Checks
+Victor Ciura
+OOP Is Dead, Long Live Data-oriented Design
+Stoyan Nikolov
+
+10:30 PDT
+Thoughts on a More Powerful and Simpler C++ (5 of N)
+Herb Sutter
+
+12:05 PDT
+Book Signing: Arthur O'Dwyer
+Arthur O'Dwyer
+
+12:30 PDT
+Machine Learning with C++ BoF
+Peter Goldsborough
+Trainers Panel II
+Jon Kalb • Rainer Grimm • Dan Saks • Jason Turner
+Software Security
+Patricia Aas • Matthew Butler • Eva Conti • Matt Miller • Michael Wong
+
+13:35 PDT
+Book Signing: Marc Gregoire
+Marc Gregoire
+
+14:00 PDT
+What do you mean "thread-safe"?
+Geoffrey Romer
+From Metaprogramming Tricks to Elegance: Custom Overload Sets and Inline SFINAE for Truly Generic Interfaces
+Vincent Reverdy
+Building a C++ Reflection System in One Weekend Using Clang and LLVM
+Arvid Gerstmann
+Design for Performance: Practical Experience
+Fedor Pikus
+Early Modern C++: How to Handle a C++03 Codebase in $CURRENT_YEAR
+Mathieu Ropert
+Signed integers are two's complement
+JF Bastien
+Implementing the C++ Core Guidelines’ Lifetime Safety Profile in Clang
+Matthias Gehre • Gábor Horváth
+
+15:15 PDT
+C++ Cryptozoology - A Compendium of Cryptic Characters
+Adi Shavit
+Let's Intercept OpenGL Function Calls...for Logging!
+Mike Shah
+Effective replacement of dynamic polymorphism with std::variant
+Mateusz Pusz
+Better C++ using Machine Learning on Large Projects
+Nicolas Fleury • Mathieu Nayrolles
+ConcurrencyCheck - Static Analyzer for Concurrency Issues in Modern C++
+Anna Gringauze
+Co- and Contra-: Adding a Little Variance
+Michał Dominiak
+
+15:50 PDT
+Scaling Financial Transaction using 0MQ and JSON
+Kevin Carpenter
+Interactive C++ Compilation (REPL) Done in a Tiny and Embeddable Way
+Viktor Kirilov
+Dealing with aliasing using contracts
+Gábor Horváth
+C++ Everywhere with WebAssembly
+Damien Buhl
+Engineering Software: integral types
+Andrei Zlate-Podani
+Liberating the Debugging Experience with the GDB Python API
+Jeff Trull
+
+16:00 PDT
+Speaker Portraits
+Zoetica Ebb
+
+16:45 PDT
+Compute More in Less Time Using C++ Simd Wrapper Libraries
+Jefferson Amstutz
+Development strategies: You've written a library - now what?
+Marshall Clow
+Rapid Prototyping of Graphics Shaders in Modern C++
+Valentin Galea
+Class Template Argument Deduction for Everyone
+Stephan T. Lavavej
+Concepts in 60: Everything you need to know and nothing you don't
+Andrew Sutton
+Initialization, Shutdown, and constexpr
+Greg Falcon
+
+18:30 PDT
+Meet the Speakers Dinner
+
+20:30 PDT
+CppCon 2019 Kick-off Meeting
+Bob Steagall
+Lightning Talks
+Michael Caisse
+Creating the Complete Build Package
+Manuel Klimek • Boris Kolpackov • Paddy McDonald • Robert Schumacher • Brett Searles • Titus Winters
+
+ 
+Friday, September 28
+ 
+08:00 PDT
+Cpp.Chat - Live Episode! Interview with Herb Sutter.
+Jon Kalb • Phil Nash • Herb Sutter
+Run-Time Polymorphism BoF
+Norman Birkett
+Emacs BoF
+Jeff Trull
+
+09:00 PDT
+Bringing C++ 17 Parallel Algorithms to a standard library near you
+Thomas Rodgers
+Interfaces matter: High Performance and Heap Allocated Containers
+John Woolverton
+Applied Best Practices
+Jason Turner
+Class template argument deduction in C++17
+Timur Doumler
+C++ Modules and Large-Scale Development
+John Lakos
+Feather: A Modern C++ Web Development Framework
+Yu Qi
+
+10:30 PDT
+Concurrency Challenges of Interrupt Service Routines
+Odin Holmes
+The Bits Between the Bits: How We Get to main()
+Matt Godbolt
+Better Code: Human Interface
+Sean Parent
+Moving Faster: Everyday efficiency in modern C++
+Alan Talbot
+Scripting at the Speed of Thought: Lua and C++ with sol3
+JeanHeyd Meneide
+Large-Scale Changes at Google: Lessons Learned From Five Years of Mass Migrations
+Hyrum Wright
+
+12:00 PDT
+CppCon 2019 Planning Committee Work Session
+Bob Steagall
+Diversity and Inclusion in C++
+Bryce Adelstein Lelbach • Patricia Aas • Barbara Geller • Kate Gregory • JeanHeyd Meneide
+
+13:30 PDT
+Easy to Use, Hard to Misuse: Declarative Style in C++
+Ben Deane
+Standard Library Compatibility Guidelines
+Titus Winters
+The Salami Method for Cross Platform Development
+Adi Shavit
+Clangd: architecture of a scalable C++ language server
+Ilya Biryukov
+The Most Valuable Values
+Juan Pedro Bolivar Puente
+Get rich quick! Using Boost.Beast WebSockets and Networking TS
+Vinnie Falco
+
+14:45 PDT
+Spectre: Secrets, Side-Channels, Sandboxes, and Security
+Chandler Carruth
+
+16:45 PDT
+Closing Panel: Spectre
+Matt Godbolt • Chandler Carruth • Jon Masters • Matt Miller
+
+18:10 PDT
+Academic BoF
+Bryce Adelstein Lelbach • Andrew Sutton
+
+ 
+Saturday, September 29
+ 
+09:00 PDT
+Accelerated TDD: For More Productive C++
+Phil Nash
+C++ Best Practices
+Jason Turner
+Debugging and Profiling C++ Code on Linux
+David Faure
+Essential C++ Design
+Klaus Iglberger
+Generic Programming 2.0 with Concepts and Ranges
+Christopher Di Bella
+Leveraging Modern C++ for Embedded Systems
+Ben Saks • Dan Saks
+Parallel Programming with Modern C++: from CPU to GPU
+Gordon Brown • Michael Wong
+The Standard Library from Scratch
+Arthur O'Dwyer
+
+ 
+Sunday, September 30
+ 
+09:00 PDT
+Accelerated TDD: For More Productive C++
+Phil Nash
+C++ Best Practices
+Jason Turner
+Debugging and Profiling C++ Code on Linux
+David Faure
+Essential C++ Design
+Klaus Iglberger
+Generic Programming 2.0 with Concepts and Ranges
+Christopher Di Bella
+Leveraging Modern C++ for Embedded Systems
+Ben Saks • Dan Saks
+Parallel Programming with Modern C++: from CPU to GPU
+Gordon Brown • Michael Wong
+The Standard Library from Scratch
+Arthur O'Dwyer

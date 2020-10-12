@@ -1,0 +1,120 @@
+3 things they didn't tell you about Agile
+Piotr Kozłowski
+7 reasons to move your C++ code to Visual Studio 2017
+Bat-Ulzii Luvsanbat
+A trusted trip in the cloud – working with trusted hardware in practice
+Gabriela Limonta
+Are you Open enough to Innovate? ;)
+Łukasz Skomra
+Augmented Reality - The State of Play
+Rafał Legiędź
+Basic Web Applications Security
+Grzegorz Goławski
+boost.tmp: Your DSL for Metaprogramming - Part 1 of 2
+Odin Holmes
+boost.tmp: Your DSL for Metaprogramming - Part 2 of 2
+Odin Holmes
+Boosting knowledge sharing
+Zbigniew Piecuch
+Bringing Business Logic Back to C++
+Borislav Stanimirov
+C++ and Memory: Between Correctness and Performance
+Ulrich Drepper
+C++ Cryptozoology - A Compendium of Cryptic Characters
+Adi Shavit
+C/C++ vs Security!
+Gynvael Coldwind
+Character Encodings Hate Us All
+Daniel Kozar
+Choosing the Right Integer Types in C and C++
+Dan Saks
+Clean code in Go
+Mateusz Dymiński
+CPU-Friendly Code
+Borislav Stanimirov
+Data-oriented design in practice
+Stoyan Nikolov
+Dealing with function failures in C++
+Andrzej Krzemieński
+Diving into a large, legacy code::base as a youngster
+Kristóf Kerekes
+Easier said than done. Self-organized teams
+Izabela Krupa  Paweł Słowikowski
+East const but constexpr West
+Dan Saks
+Effective Practices for Engineering Teams
+Serhiy Kostyshyn
+Generic Programming
+Sean Parent
+Getting type name at compile time
+Adam Badura
+Go for DevOps, Go for microservices, and what Go is actually good for
+Björn Rabenstein
+GoLand Tips & Tricks
+Florin Pățan
+How I Learned to Stop Worrying About Generics and Love Go
+Krzysztof Dryś
+How to do practical Data Science? From real-world examples to recommendations
+Artur Suchwałko
+Is your Agile agile?
+Łukasz Olczyk
+JavaScript can get faster, WebAssembly can get even faster
+Sambath Logakrishnan
+Multitype Pool: fixed type allocation
+Chiel Douwes
+Neural networks interactively - right in your browser!
+Piotr Migdał
+Python as C++’s limiting case
+Brandon Rhodes
+Reducing OS noise using offload driver
+Łukasz Daniluk
+Redux Architecture
+Piotr Staniów
+Refactor your codebase with Clang tooling
+Stephen Kelly
+Reuse bill
+Grzegorz Latuszek
+Simplifying control flow
+Zbigniew Skowron
+Site Reliability Engineering
+Michał Pawlik
+Sitting Considered Deadly
+Marek Stój
+Software Engineer in the Machine Learning world
+Tomasz Melcer
+Sphinx won't bite you! Documenting Python code
+Damian Skrzypczak
+Taming dynamic memory - An introduction to custom allocators in C++
+Andreas Weis
+Tarifa… Tarifa, Wrocław here, Roger! How to work effectively being remote
+Ewelina Wyspiańska  Maciej Trojniarz
+The Bad Big Wolf Meets Riding Hood Little Red
+Borislav Stanimirov
+The Hitchhiker's Guide to Faster Builds - Part 1 of 2
+Viktor Kirilov
+The Hitchhiker's Guide to Faster Builds - Part 2 of 2
+Viktor Kirilov
+The Lifecycle of an A/B Test
+Serhiy Kostyshyn
+There is a Better Future
+Felix Petriconi
+Things not to do in Python
+Oleksii Pilkevych
+Time brings all things to pass
+Kamil Witecki
+Virtual assembly for web application
+Sambath Logakrishnan
+Virtual assistants - our journey from extensive documentation and various of tools to smart chatbots
+Michał Pomykała
+What are FPGAs and How Do They Work
+Ulrich Drepper
+What I Talk About When I Talk About Cross Platform Development
+Adi Shavit
+What I Wish They Told Me - Part 1 of 2
+Odin Holmes
+What I Wish They Told Me - Part 2 of 2
+Odin Holmes
+When you hit "Error: memory is not aligned."
+Mateusz Nowak
+Why algebraic data types are important
+Bartosz Milewski

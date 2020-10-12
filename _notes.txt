@@ -1,0 +1,11 @@
+https://isocpp.org/wiki/faq/conferences-worldwide
+
+# pip install youtube-search
+# from https://cppcon.org/cppcon-2019-program/
+
+cppcon - done
+codedive - downloaded
+
+todo
+maak individuele marshalls van de talks
+waarom worden sommige videos niet gevonden?

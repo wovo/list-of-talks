@@ -1,0 +1,24 @@
+Core Principles And Practices For Creating Lightweight Design
+Venkat Subramaniam
+C++ Concepts
+Robert Matusewicz
+CPU Caches And Why You Care
+Scott Meyers
+Functional Programming? Technical Reasons To Adapt
+Venkat Subramaniam
+How To Build Architecture Of Your System
+Jarosław Pałka
+Iron Man Vs Pony. How To Make Your Java Developers Working Efficiently With Designers
+Maciej Mazur
+Model – View – Whatever
+Damian Czernous
+Seeing The Bigger Picture -- Part 1
+Andrzej Krzemieński
+Seeing The Bigger Picture -- Part 2
+Andrzej Krzemieński
+Support For Embedded Programming In C++11 And C++14
+Scott Meyers
+Threading: Dos And Don'ts
+Bartosz Szurgot
+What Is A Good Code
+Bartek Kuczyński

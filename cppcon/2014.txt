@@ -1,0 +1,345 @@
+Sunday, September 7
+ 
+4:00pm PDT
+Registration
+
+8:00pm PDT
+Reception
+
+ 
+Monday, September 8
+ 
+8:00am PDT
+Registration
+
+8:45am PDT
+Conference Welcome
+Jon Kalb
+
+9:15am PDT
+Type Deduction and Why You Care
+Scott Meyers
+
+11:00am PDT
+Emscripten and asm.js: C++'s role in the modern web
+Alon Zakai
+How you can make a Boost C++ Library
+Robert Ramey
+Modernizing Legacy C++ Code
+Kate Gregory • James McNellis
+Overview of Parallel Programming in C++
+Pablo Halpern
+What the committee did next!
+Alisdair Meredith
+
+2:00pm PDT
+An Overview of C++11/14, Part I
+Leor Zolman
+Common-sense acceleration of your MLOC build
+Matt Hargett
+Defensive Programming Done Right, Part I
+John Lakos
+Generic Programming with Concepts Lite, Part I
+Andrew Sutton
+How Facebook's HHVM Uses Modern C++ for Fun and Profit (Literally)
+Drew Paroski
+Lock-Free Programming (or, Juggling Razor Blades), Part I
+Herb Sutter
+
+3:15pm PDT
+cppreference.com: documenting C++ one edit at a time
+Nate Kohl
+An Overview of C++11/14, Part II
+Leor Zolman
+Defensive Programming Done Right, Part II
+John Lakos
+Generic Programming with Concepts Lite, Part II
+Andrew Sutton
+Lock-Free Programming (or, Juggling Razor Blades), Part II
+Herb Sutter
+Persisting C++ Classes in Relational Databases with ODB
+Boris Kolpackov
+
+3:45pm PDT
+Viewing the world through array-shaped glasses
+Łukasz Mendakiewicz
+
+4:45pm PDT
+Adventures in Updating a Legacy Codebase
+Billy Baker
+Efficiency with Algorithms, Performance with Data Structures
+Chandler Carruth
+Introduction to C++ AMP (GPGPU Computing)
+Marc Gregoire
+ODB, Advanced Weapons and Tactics
+Boris Kolpackov
+Rebuilding Boost Date-Time for C++11
+Jeff Garland
+
+8:30pm PDT
+Boost Library Writers Workshop, Part 1
+Robert Ramey
+Mixins
+Roland Bock
+Meet the Authors
+Chandler Carruth • Alex Allain • Kate Gregory • John Lakos • Scott Meyers • Ade Miller • Peter Sommerlad • Herb Sutter • Michael Wong
+
+9:15pm PDT
+Boost Library Writers Workshop, Part 2
+Robert Ramey
+
+ 
+Tuesday, September 9
+ 
+9:00am PDT
+Elevate Your Code to Modern C++11 with Automated Tooling
+Peter Sommerlad
+Practical Functional Programming in C++
+Bryce Adelstein Lelbach
+The Joint Strike Fighter Coding Standard: Using C++ on Mission and Safety Critical Platforms
+Bill Emshoff
+UI prototyping and development for multiple devices in C++
+JT
+Writing Data Parallel Algorithms on GPUs
+Ade Miller
+
+10:30am PDT
+Make Simple Tasks Simple!
+Bjarne Stroustrup
+
+2:00pm PDT
+Another fundamental shift in Parallelism Paradigm? OpenMP 4.0 for GPU/Accelerators and other things
+Michael Wong
+C++11 in the Wild: Techniques from a Real Codebase
+Arthur O'Dwyer
+Exception-Safe Code, Part I
+Jon Kalb
+From the Dropbox Trenches: A Deep Dive into Two Cross-Platform Mobile Apps Written in C++
+Tony Grue • Steven Kabbes
+Implementing wire protocols with Boost Fusion
+Thomas Rodgers
+Modern Template Metaprogramming: A Compendium, Part I
+Walter E. Brown
+
+3:15pm PDT
+Decomposing a Problem for Parallel Execution
+Pablo Halpern
+Embind and Emscripten: Blending C++11, JavaScript, and the Web Browser
+Chad Austin
+Exception-Safe Code, Part II
+Jon Kalb
+How Microsoft Uses C++ to Deliver Office (and More) Across iOS, Android, Windows, and Mac, Part I
+Tony Antoun • Igor Zaika
+Modern Template Metaprogramming: A Compendium, Part II
+Walter E. Brown
+
+4:45pm PDT
+0xBADC0DE
+Jens Weller
+Asynchronous Computation in C++
+Hartmut Kaiser
+Exception-Safe Code, Part III
+Jon Kalb
+How Microsoft Uses C++ to Deliver Office (and More) Across iOS, Android, Windows, and Mac, Part II
+Tony Antoun • Igor Zaika
+Pragmatic Type Erasure: Solving Classic OOP Problems with an Elegant Design Pattern
+Zach Laine
+The Committee Experience
+Alisdair Meredith
+
+8:30pm PDT
+The sqlpp11-connector experiment, Part 1
+Roland Bock
+Coupled Multi-Physics Simulations in the Exascale Era and Its Implications on C++17
+Yahya H. Mirza
+Lightning Talks
+Kate Gregory • Jonathan Caves • Shy Shalom • Julian Smith • Peter Sommerlad • Martin Troxler • Jeff Trull • Michael VanLoon • Jens Weller • Leor Zolman
+
+9:15pm PDT
+Computer Book Publishing Today: The Seven Deadly Sins Revisited
+Gregory Doench
+
+ 
+Wednesday, September 10
+ 
+8:00am PDT
+Lightning Talks
+Kate Gregory • Jonathan Caves • Brett Hall • Michael VanLoon • Andy Webber
+
+9:00am PDT
+Founding C++ User Groups
+Jon Kalb • Jens Weller
+The Canonical Class
+Michael Caisse
+The Philosophy of Google's C++ Code
+Titus Winters
+Your Help Wanted: Language Proposals in Flight
+Walter E. Brown
+
+10:30am PDT
+C++ on Mars: Incorporating C++ into Mars Rover Flight Software
+Mark Maimone
+
+2:00pm PDT
+Boost.Asio and Boost.Serialization: Designs for Object Transmission, Part I
+Bryce Adelstein Lelbach
+How to call C libraries from C++
+Lisa Lippincott
+Making Allocators Work, Part I
+Alisdair Meredith
+Making C++ Code Beautiful
+Kate Gregory • James McNellis
+Meta Techniques: Heterogeneous Polymorphism and Fast Prototyping at Facebook
+Marcelo Juchem
+
+3:15pm PDT
+Boost.Asio and Boost.Serialization: Designs for Object Transmission, Part II
+Bryce Adelstein Lelbach
+C++ Test-driven Development: Unit Testing, Code Assistance and Refactoring
+Peter Sommerlad
+Making Allocators Work, Part II
+Alisdair Meredith
+Multiplatform C++
+Edouard Alligand
+Parallelizing the Standard Algorithms Library
+Jared Hoberock
+The Implementation of Value Types
+Lawrence Crowl
+
+4:45pm PDT
+C++ Memory Model Meets High-Update-Rate Data Structures
+Paul McKenney
+Costless Software Abstractions for Parallel Architectures
+Joel Falcou
+Hourglass Interfaces for C++ APIs
+Stefanus Du Toit
+Large-Scale Refactoring @ Google
+Hyrum Wright
+Pragmatic Unit Testing in C++
+Matt Hargett
+
+8:00pm PDT
+The perils of strict-aliasing
+Andy Webber
+
+8:30pm PDT
+Real world reversible debugging for C/C++ developers on Linux
+Julian Smith
+The JUCE framework - creative C++ coding in large-scale applications
+Julian Storer
+Grill the Committee
+Jon Kalb • Walter E. Brown • Chandler Carruth • Marshall Clow • Pablo Halpern • Howard Hinnant • John Lakos • Stephan T. Lavavej • Nevin Liber • Alisdair Meredith • Herb Sutter • Stefanus Du Toit • Michael Wong • Marshall Clow
+
+ 
+Thursday, September 11
+ 
+8:00am PDT
+Lightning Talks
+Roland Bock • Kevin Carpenter • Boris Kolpackov • Karl Niu • Ken Smith
+
+9:00am PDT
+Polymorphism with Unions
+Jason Lucas
+Practical Type Erasure
+Cheinan Marks
+Quick game development with C++11/C++14
+Vittorio Romeo
+sqlpp11, An SQL Library Worthy Of Modern C++
+Roland Bock
+Using C++ to Connect to Web Services
+Steve Gates
+Where did my performance go? (Scaling Visualization in concurrent C++ programs)
+Fedor Pikus
+
+10:30am PDT
+Data-Oriented Design and C++
+Mike Acton
+
+12:00pm PDT
+Gamers/Interactive High Performance real time Bof
+Michael Wong
+
+2:00pm PDT
+A CTO's guide to Modern C++
+Matt Hargett
+Creative Coding with C++
+Andrew Bell
+Embarcadero Case Study: Bringing CLANG/LLVM To Windows
+JT
+Lock-free by Example
+Tony Van Eerd
+Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL
+Louis Dionne
+STL Features And Implementation Techniques
+Stephan T. Lavavej
+
+3:15pm PDT
+Async sequences and algorithms to compose them
+Kirk Shoop
+C++ in Huge AAA Games
+Nicolas Fleury
+Mo' Hustle Mo' Problems
+Andrei Alexandrescu
+Simulating the Universe using modern C++
+Vincent Reverdy
+Unicode in C++
+James McNellis
+What's New In The C++14 Library
+Alisdair Meredith
+
+4:45pm PDT
+Gamgee: A C++14 library for genomics data processing and analysis
+Mauricio Carneiro
+How Ubisoft Montreal Develops Games for Multicore - Before and After C++11
+Jeff Preshing
+Practical Cross-Platform Mobile C++ Development at Dropbox
+Alex Allain • Andrew Twyman
+Sanitize your C++ code
+Kostya Serebryany
+Types Don't Know #
+Howard Hinnant
+
+8:30pm PDT
+How one might build a compile time format library
+Michael Park
+Software Transactional Memory, For Reals
+Brett Hall
+CppCon 2015 Kick-off Meeting
+Jon Kalb
+
+ 
+Friday, September 12
+ 
+8:00am PDT
+Lightning Talks
+Kate Gregory • Michael Caisse • Marc Eaddy • Lenny Maiorani • Vladimir Morozov
+The sqlpp11-connector experiment, Part 2
+Roland Bock
+
+9:00am PDT
+Accept No Visitors
+Yuriy Solodkyy
+await 2.0: Stackless Resumable Functions
+Gor Nishanov
+Boost: a Bridge from C++98 to C++11; An introduction to using Boost
+Rachel Cheng • Michael VanLoon
+Hardening your code
+Marshall Clow
+What did C++ do for Transactional Memory?
+Michael Wong
+
+10:30am PDT
+Back to the Basics! Essentials of Modern C++ Style
+Herb Sutter
+
+12:00pm PDT
+Game Dev lunch / BoF
+Remy Saville
+
+2:00pm PDT
+Paying for Lunch: C++ in the ManyCore Age
+Herb Sutter • Pablo Halpern • Jared Hoberock • Artur Laksberg • Ade Miller • Gor Nishanov • Michael Wong
+
+3:15pm PDT
+Closing
+Jon Kalb

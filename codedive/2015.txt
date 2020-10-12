@@ -1,0 +1,42 @@
+5G For People And Things – The Key To The Programmable World
+Matthias Hesse
+Big Data Analytics In Telecommunication
+Norbert Kraft
+C++ vs. C: The Embedded Perspective
+Bartosz Szurgot
+C++17: The Upcoming Revolution
+Sławomir Zborowski
+Code Review Process
+Adam Badura
+Concurrency In Cloud Applications Design Crashcourse
+Jakub Derda
+Constrain Yourself
+Andrzej Krzemieński
+HTTP/2 — The Future Of WWW
+Tomasz Kaczmarczyk
+Intelligent Application Configuration Data Management
+Ulrich Drepper
+Machine Learning And Image Processing (Not Only) In Autonomous Vehicles
+Łukasz Ziobroń
+Machine Learning – When Big Data Is Not Enough
+Filip Wójcik
+Motivated Reasoning
+Dan Saks
+Representing Memory-mapped Devices As Objects
+Dan Saks
+Sooner Rather Than Later
+Dan Saks
+The Cost Of 64-bit Pointers
+Ulrich Drepper
+The Internet Of Things: Opportunities And Challenges On The Road Towards The Programmable World
+Vladimir Vukadinovic
+Three Cool Things About D
+Andrei Alexandrescu
+What Is Telco Cloud?
+Przemysław Szufarski
+What You See Is What You Get. How Testing Tools And Level Can Change The Way You See The System
+Rafał Łojek
+Writing Fast Code Part 1
+Andrei Alexandrescu
+Writing Fast Code Part 2
+Andrei Alexandrescu
