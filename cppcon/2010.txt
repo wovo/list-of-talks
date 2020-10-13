@@ -1,0 +1,24 @@
+Sunday, September 7
+ 
+4:00pm PDT
+Registration
+
+8:00pm PDT
+Reception
+
+ 
+Monday, September 8
+ 
+8:00am PDT
+Registration
+
+8:45am PDT
+Conference Welcome
+Jon Kalb
+
+9:15am PDT
+Gamgee A C++14 library for genomics data processing and analysis
+Mauricio Carneiro
+Type Deduction and Why You Care
+Scott Meyers
+
