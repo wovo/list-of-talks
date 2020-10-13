@@ -52,10 +52,15 @@ class YoutubeSearch:
         data = json.loads(json_str)
 
         videos = data["contents"]["twoColumnSearchResultsRenderer"]["primaryContents"][
-            "sectionListRenderer"
-        ]["contents"][0]["itemSectionRenderer"]["contents"]
+            "sectionListRenderer"]["contents"]
+        # [0]["itemSectionRenderer"]["contents"]
 
-        for video in videos:
+        #print(59)
+        for content in videos:
+          #print( 100 * "=" )
+          #print(62, content.keys())
+          if "itemSectionRenderer" in content:
+           for video in content["itemSectionRenderer"]["contents"]:
             res = {}
             if "videoRenderer" in video.keys():
                 video_data = video.get("videoRenderer", {})
@@ -99,23 +104,18 @@ def force_ascii( s ):
 
 # ===========================================================================
 
-nn = 0
-
 def youtube_find( s ):
    """
    use YoutubeSearch to find the recording of a talk.
    Using exponentially increasing pauses seems to be needed.
    """
-   global nn
    n = 1
    sleep = 1
    while n <= 2:
-      time.sleep( sleep )
-      raw = YoutubeSearch( s, max_results = 2 )
+      raw = YoutubeSearch( s, max_results = 1 )
       results = raw.to_dict()
-      nn += 1
-      write_to_file( str( nn ) + ".txt", s + "\n\n" + raw.response )
       if len( results ) > 0: return results
+      time.sleep( sleep )
       print( 
          "youtube search attempt failed attempt=%d delay=%d search=[ %s ]" 
          % ( n, sleep, s ))
