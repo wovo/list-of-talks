@@ -1,0 +1,122 @@
+og in to bookmark your favorites and sync them to your phone or calendar.
+
+Monday, May 11
+ 
+4:00pm MDT
+Conference Registration and Signin
+6:30pm MDT
+Dinner Break
+8:30pm MDT
+Social Event: Informal Gathering
+ 
+Tuesday, May 12
+ 
+8:00am MDT
+General Conference Welcome
+8:15am MDT
+Library in a Week: C++ Application Configuration
+9:00am MDT
+Generic Programming with Concepts
+11:00am MDT
+Parallel Computing: Strategies and ImplicationsTesting Battle.net (before deploying to millions of players)Your CPU Is Binary
+2:30pm MDT
+Functional Geometry: Producing Pure SpacesLessons LearnedType Deduction in C++14
+4:30pm MDT
+Yomm11: Open Multi-Methods for C++11constexpr: C++ At Compile TimeBiicode, a C/C++ dependency manager with a hosting service
+6:30pm MDT
+Dinner Break
+8:30pm MDT
+Boost 2.0
+ 
+Wednesday, May 13
+ 
+8:00am MDT
+Library in a Week: C++ Application Configuration
+9:00am MDT
+Numerical Weather Prediction: Facing the Future with C++
+11:00am MDT
+A Brief History of Time at the Aspen Center for PhysicsOn the design and Boost-based implementation of two new C++ libraries for atmospheric researchThinking Portable: How and why to make your C++ cross platform
+11:45am MDT
+Why in heaven there is no dependency management for C++?Boost.Compute: A library for GPU/parallel-computingDeveloping EDSL's for Boost.Spirit
+12:45pm MDT
+Boost Operations: Community Maintenance Team
+2:30pm MDT
+Back to the FutureLarge-Scale C++: Advanced Levelization Techniques, Part IswitchAny - A Practical Exercise in Template Metaprogramming
+4:30pm MDT
+New Build System for New C++Large-Scale C++: Advanced Levelization Techniques, Part IIThe Price of Shared Pointers or Why Passing them by-reference can be Useful
+6:30pm MDT
+Dinner Break
+8:30pm MDT
+Lightning Talks
+ 
+Thursday, May 14
+ 
+8:00am MDT
+Library in a Week: C++ Application Configuration
+9:00am MDT
+Ranges for the Standard Library
+11:00am MDT
+A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBindRobustness and Security Techniques with Modern C++Type-safe configuration library
+12:45pm MDT
+Boost Operations: Release Management
+2:30pm MDT
+How we reason about procedural programsModern generic programming using the Tick and Fit librariesFunctions Want To Be Free
+4:30pm MDT
+Boostache Exposed - the internals of Boost's template engineLock-free by Example: Towards an Interesting Lock-free MPMC QueueBig Projects, and CMake, and Git, Oh My!
+6:00pm MDT
+Social Event: Picnic
+ 
+Friday, May 15
+ 
+8:00am MDT
+Library in a Week: C++ Application Configuration
+9:00am MDT
+Debugging using an exact recording of a program's execution.Details MatterThe Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate
+11:00am MDT
+Parallelizing the Standard Template Library(STL)C++ metaprogramming: a paradigm shiftFun with C11 generic selection expression
+11:45am MDT
+IIFE In C++ For Performance and Safety
+12:45pm MDT
+Boost Operations: Web Presense
+2:30pm MDT
+Better Code: ConcurrencyUsing Spirit X3, Part I
+4:30pm MDT
+C++17 coroutines for app and library developersAn Overview on Encryption in C++Using Spirit X3, Part II
+6:30pm MDT
+Dinner Break
+8:30pm MDT
+C++Now 2016 Planning Session
+ 
+Saturday, May 16
+ 
+8:00am MDT
+Library in a Week: C++ Application Configuration
+9:00am MDT
+Future of Boost
+ 
+Schedule or People
+ 
+Timezone
+C++Now 2015
+America/Denver
+Filter By Date
+C++Now 2015May 11-16, 2015
+Filter By Venue
+Aspen, CO
+Filter By Type
+business
+keynote
+Lib in a Week
+lightning talks
+panel
+presentation
+registration
+social
+tutorial
+welcome
+workshop
+Recently Active Attendees
+avatar for Billy BakerBilly BakerJMJohn McIveravatar for Jon KalbJon Kalbavatar for Arthur O'DwyerArthur O'Dwyeravatar for Charley BayCharley Bayavatar for Zach LaineZach Laineavatar for Ben DeaneBen Deaneavatar for Zhihao YuanZhihao YuanMore →
+Need help? View Support Guides
+Use Sched for event mobile apps and event management
+©2020 Sched • About • Privacy • Terms

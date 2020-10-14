@@ -1,0 +1,602 @@
+Tuesday 2019-04-09
+Empire	SS Great Britain	Wallace	Concorde	Old Vic
+10:00
+
+Accelerated TDD: For More Productive C++
+
+Phil Nash
+
+Python Best Practices
+
+Austin Bingham
+
+Evolutionary Algorithms in Practice
+
+Christopher Simons
+Frances Buontempo
+
+A Comprehensive Introduction to Rust
+
+Katharina Fey
+
+ACCU Conference 101: an Early Career Tutorial
+
+Gail Ollis
+Roger Orr
+Giovanni Asproni
+Kevlin Henney
+Arjan van Leeuwen
+
+18:00
+
+Break
+
+19:00
+
+Agile Bath & Bristol User Group Meeting (Empire)
+
+Wednesday 2019-04-10
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+Delivering software that is secure and usable - who’s job is it?
+
+M Angela Sasse
+(video)
+
+10:30
+
+Break
+
+11:00
+
+Higher-order functions and function_ref
+
+Vittorio Romeo
+(slides)
+(video)
+
+How C++20 Can Simplify std::tuple
+
+Alisdair Meredith
+(video)
+
+Be your own Threatbuster!
+
+Natalia Oskina
+Giovanni Asproni
+(video)
+
+Have Fun And Learn Kotlin
+
+Uberto Barbini
+
+JSR-385: Learning from the 125 Million Dollar Mars Climate Orbiter Mistake
+
+Filip van laenen
+(video)
+
+12:30
+
+Lunch
+
+14:00
+
+10 Techniques to Understand Code You Don’t Know
+
+Jonathan Boccara
+(slides)
+(video)
+
+An Adventure in Race Conditions
+
+Felix Petriconi
+(slides)
+(video)
+
+Snakes Into Snake Oil - What Blockchains Are And Why They’re Terrible
+
+Jez Higgins
+(slides)
+(video)
+
+(continuation of 180 minute workshop)
+
+Ranges for distributed and asynchronous systems
+
+Ivan Čukić
+(slides)
+(video)
+
+15:30
+
+Break
+
+16:00
+
+Navigating the development and evolution of a library
+
+Marshall Clow
+(slides)
+(video)
+
+How does Git actually work?
+
+Andy Balaam
+CB Bailey
+(slides)
+(video)
+
+The Anatomy of an Exploit
+
+Patricia Aas
+(slides)
+(video)
+
+Helping Developers to Help Each Other
+
+Gail Ollis
+(video)
+
+#Hashing
+
+Dietmar Kühl
+(slides)
+(video)
+
+17:30
+
+Break
+
+18:00
+
+Lightning Talks (1 hour, Bristol Suite)
+
+19:00
+
+Welcome Reception
+
+Thursday 2019-04-11
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+De-fragmenting C++: Making exceptions more affordable and usable
+
+Herb Sutter
+(slides)
+(video)
+
+10:30
+
+Break
+
+11:00
+
+Going Multiplatform with Kotlin
+
+Supriya Srivatsa
+(slides)
+(video)
+
+Here’s my number; call me, maybe. Callbacks in a multithreaded world
+
+Anthony Williams
+(slides)
+(video)
+
+Secure by Design - Security Principles for the Working Developer
+
+Eoin Woods
+(slides)
+(video)
+
+More GDB wizardry and 8 other essential Linux application debugging tools
+
+Greg Law
+(slides)
+(video)
+
+Audio in standard C++
+
+Timur Doumler
+(video)
+
+12:30
+
+Lunch
+
+12:45
+
+Book Signings: Anthony Williams, Frances Buontempo, Ivan Čukić, Jonathan Boccarra (Conservatory)
+
+13:45
+
+14:00
+
+What Do We Mean When We Say Nothing At All?
+
+Kate Gregory
+(slides)
+(video)
+
+Optimising a small real-world C++ application
+
+Hubert Matthews
+(video)
+
+What are hash trees and why you should care
+
+Ahto Truu
+(slides)
+(video)
+
+How Kotlin makes your Java code better
+
+Andy Balaam
+(slides)
+(video)
+
+Leave your C behind: better embedded library interfaces with modern C++
+
+Wouter van Ooijen
+(video)
+
+15:30
+
+Break
+
+16:00
+
+Anchored metadata
+
+Austin Bingham
+(slides)
+(video)
+
+Hello World from Scratch
+
+Peter Bindels
+Simon Brand
+(slides)
+(video)
+
+Monitoring: Turning Noise into Signal
+
+Chris Oldwood
+(slides)
+(video)
+
+Teach Your Computer to Code FizzBuzz
+
+Christopher Simons
+Frances Buontempo
+(slides)
+(video)
+
+C++ Pub Quiz
+
+Felix Petriconi
+(slides)
+
+17:30
+
+Break
+
+18:00
+
+Lightning Talks (1 hour, Bristol Suite)
+
+19:15
+
+Girl Geeks
+(Please register)
+
+Audio Developer Meetup
+
+Friday 2019-04-12
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+From nothing to too much: growing a tech community in the East of England
+
+Paul Grenyer
+(video)
+
+10:30
+
+Break
+
+11:00
+
+Implementing Physical Units Library for C++
+
+Mateusz Pusz
+(slides)
+(video)
+
+Interactive C++ : Meet Jupyter / Cling - The data scientist’s geeky younger sibling
+
+Neil Horlock
+(video)
+
+It’s People! Code is made out of people!
+
+Dom Davis
+(slides)
+(video)
+
+A modern, scalable risk system architecture
+
+Burkhard Kloss
+(slides)
+(video)
+
+It’s DNS, Jim, but not as we know it
+
+Jim Hague
+(slides)
+(video)
+
+12:30
+
+Lunch
+
+12:45
+
+Code Club Workshop (Conservatory) bring your own laptop
+
+13:45
+
+14:00
+
+GPU programming with modern C++
+
+Michael Wong
+(slides)
+(video)
+
+Taming Dynamic Memory - An Introduction to Custom Allocators
+
+Andreas Weis
+(slides)
+(video)
+
+The cell as a computer: Turing complete and massively parallel.
+
+Andy Thomason
+(slides)
+(video)
+
+Fighting Git Workflows
+
+Victor Ciura
+(slides)
+(video)
+
+
+Effective replacement of dynamic polymorphism with std::variant
+
+Mateusz Pusz
+(slides)
+(video)
+
+
+The Story of Villagers, Marbles and Oh, A Blockchain
+
+Supriya Srivatsa
+(slides)
+(video)
+
+
+Assume Worst Intent (Designing for the Abusive Ex)
+
+Alex Chan
+(video)
+
+
+M-PIN Authentication in Vehicle Tracking
+
+Giorgio Zoppi
+(slides)
+(video)
+
+
+Software Visualization: The humane solution
+
+Eberhard Gräther
+(slides)
+(video)
+
+
+Tailored static tooling using Clang: Clazy
+
+Jean-Michaël Celerier
+(video)
+
+
+The Jai Programming Language and What Can We Learn From It
+
+Sas Luca
+(video)
+
+
+15:30
+
+Break
+
+16:00
+
+Programming with Contracts in C++20
+
+Björn Fahller
+(slides)
+(video)
+
+The State of Package Management in C++
+
+Mathieu Ropert
+(slides)
+(video)
+
+Monotron - a 1980s style home computer written in Rust
+
+Jonathan Pallant
+(slides)
+(video)
+
+Elsewhere Memory
+
+Niall Douglas
+(slides)
+(video)
+
+C++ ecosystem: For better, for worse
+
+Anastasia Kazakova
+(slides)
+(video)
+
+17:30
+
+Break
+
+17:45
+
+Lightning Talks (1 hour)
+
+19:45
+
+Conference Dinner (19:45 for drinks, 20:15 service)
+
+22:15
+
+Echoborg
+
+Saturday 2019-04-13
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+Safe and Sane C++ Types
+
+Peter Sommerlad
+(slides)
+(video)
+
+What Do You Mean?
+
+Kevlin Henney
+(slides)
+(video)
+
+The Dawn Of A New Error
+
+Phil Nash
+(video)
+
+Nim - the first natively compiled language with full support for hot code-reloading at runtime
+
+Viktor Kirilov
+(slides)
+(video)
+
+Clean(er) Code for Large Scale Legacy Applications
+
+Arne Mertz
+(slides)
+(video)
+
+11:00
+
+Break
+
+11:30
+
+CPU optimized data structures - more fun with assembler
+
+CB Bailey
+(video)
+
+Windows Native API
+
+Roger Orr
+(slides)
+(video)
+
+Allocator-Aware (AA) Software
+
+John Lakos
+(slides)
+(video)
+
+Haxe: An understated powerhouse for software development
+
+George Corney
+(slides)
+(video)
+
+Regular Types and Why Do I Care ?
+
+Victor Ciura
+(slides)
+(video)
+
+13:00
+
+Lunch
+
+13:30
+
+ACCU AGM, Empire
+
+14:15
+
+14:30
+
+Best practices when accessing Big Data or any other data!
+
+Rosemary Francis
+(slides)
+(video)
+
+Extending clang-tidy in the Present and in the Future
+
+Stephen Kelly
+(video)
+
+How to Teach C++ and Influence a Generation
+
+Christopher Di Bella
+(video)
+
+Bootstrapped by Boost
+
+Thomas Guest
+(video)
+
+A New Open Source Virtual File System – running on Windows in User mode!
+
+James Cain
+(video)
+
+
+Go Get Better
+
+Dom Davis
+(video)
+
+
+16:00
+
+Break
+
+16:30
+
+Emotional Code
+
+Kate Gregory
+(slides)
+(video)
+
+18:00
+
+Close

@@ -1,0 +1,142 @@
+Monday, May 15
+ 
+4:00pm MDT
+Conference Registration and Reception
+6:00pm MDT
+Dinner Break
+8:30pm MDT
+Social Event: Informal Gathering
+ 
+Tuesday, May 16
+ 
+8:00am MDT
+General Conference Welcome
+8:15am MDT
+Library in a Week
+9:00am MDT
+Rust: Hack Without Fear!
+10:30am MDT
+Break
+11:00am MDT
+C++11’s Quiet Little Gem:C++17 FeaturesRethinking Strings
+12:30pm MDT
+Lunch Break
+2:30pm MDT
+Expression Templates Everywhere with C++14 and YapLocal (“Arena”) Memory AllocatorsNetworking TS Workshop (part 1 of 2)
+4:00pm MDT
+Break
+4:30pm MDT
+Containers & Strings: Why the Implementation MattersNetworking TS Workshop (part 2 of 2)constexpr ALL the things!
+6:15pm MDT
+Social Event: Picnic
+ 
+Wednesday, May 17
+ 
+8:00am MDT
+Library in a Week
+9:00am MDT
+Haskell taketh away: limiting side effects for parallel programming
+10:30am MDT
+Break
+11:00am MDT
+A vision for C++20, and std2 (part 1 of 3)Mocking C++ (full-length version)(Ab)using C++17
+12:30pm MDT
+Boost Operations: C++Now Program CommitteeLunch Break
+2:30pm MDT
+Fun with Boost.HanaThe Mathematical Underpinnings of Promises in C++Good FIFOs Make Good Thread Neighbors
+4:00pm MDT
+Break
+4:30pm MDT
+Composite Arithmetic Types Are > the + of Their PartsPostmodern Immutable Data StructuresMultithreading Using Lockless Lists and RCU
+5:20pm MDT
+An easy to use RPC framework implemented in C++11/14Type Based Template Metaprogramming is Not Dead
+6:00pm MDT
+Dinner Break
+8:30pm MDT
+Lightning Talks
+ 
+Thursday, May 18
+ 
+7:00am MDT
+'Meet the Volunteers' Breakfast LIMITED
+8:00am MDT
+Library in a Week
+9:00am MDT
+A look at C++ through the glasses of a language toolCall: A Library that Will Change the Way You Think about Function Invocations (part 1 of 2)Sorting in less than O(n log n): Generalizing and optimizing radix sort
+9:50am MDT
+Boost vs Qt: What Could They Learn From Each Other?
+10:30am MDT
+Break
+11:00am MDT
+A vision for C++20, and std2 (part 2 of 3)Call: A Library that Will Change the Way You Think about Function Invocations (part 2 of 2)Parallel Programming with RaftLib: streaming/data-flow concurrency via concise C++ iostream-like operators
+12:30pm MDT
+Lunch Break
+2:30pm MDT
+Postmodern C++Practical (?) Applications of ReflectionImplementing `variant` visitation using lambdas
+4:00pm MDT
+Break
+4:30pm MDT
+Promises in C++: The Universal Glue for Asynchronous ProgramsTesting the Limits of Allocator AwarenessTowards Painless Testing
+6:30pm MDT
+Dinner Break
+8:30pm MDT
+Lightning Talks
+ 
+Friday, May 19
+ 
+8:00am MDT
+Library in a Week
+9:00am MDT
+Competitive Advantage with D
+10:30am MDT
+Break
+11:00am MDT
+A vision for C++20, and std2 (part 3 of 3)Effective CMakeRestoring Your Sanity: An Approach to Dealing with Reference Types in the Generic Programming Paradigm
+12:30pm MDT
+Lunch Break
+2:30pm MDT
+Locally Atomic Capabilities and How to Count ThemNo raw std::thread! - Live Tweet Analysis in C++The 'Detection idiom:' A Better Way to SFINAE
+4:00pm MDT
+Break
+4:30pm MDT
+C++ Core Guidelines - Modernize your C++ Code BaseCustomization Points That Suck LessThe Holy Grail - A Hash Array Mapped Trie for C++
+6:00pm MDT
+Dinner Break
+8:30pm MDT
+C++Now 2018 Planning Session
+ 
+Saturday, May 20
+ 
+8:00am MDT
+Library in a Week
+8:45am MDT
+CHAP:A memory analyzer for un-instrumented coresclang-useful: Building useful tools with LLVM and clang for fun and profitType-safe Programming
+10:15am MDT
+Break
+10:45am MDT
+Nbdl: Generic Library for Managing State Seamlessly Across NetworkPerformance analysis and optimization of C++ standard librariesThe Lesser-Known Multicore Synchronization Primitives
+11:45am MDT
+Future of Boost
+ 
+Schedule or People
+ 
+Timezone
+C++Now 2017
+America/Denver
+Filter By Date
+C++Now 2017May 15-20, 2017
+Filter By Venue
+Aspen, CO, United States
+Filter By Type
+business
+library in a Week
+lightning talks
+panel
+presentation
+registration
+social
+tutorial
+welcome
+Recently Active Attendees
+avatar for Billy BakerBilly Bakeravatar for Jon KalbJon Kalbavatar for Arthur O'DwyerArthur O'Dwyeravatar for Charley BayCharley Bayavatar for Zach LaineZach Laineavatar for Michael CaisseMichael Caisseavatar for Ben DeaneBen Deaneavatar for Anastasia KazakovaAnastasia KazakovaMore →
+Event schedule powered by sched

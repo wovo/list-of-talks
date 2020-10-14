@@ -1,0 +1,312 @@
+Sunday, May 6
+ 
+4:00pm MDT
+Registration Reception
+
+6:00pm MDT
+Dinner Break
+
+8:30pm MDT
+Social Event: Informal Gathering
+
+ 
+Monday, May 7
+ 
+8:00am MDT
+General Conference Welcome
+Jon Kalb
+
+8:15am MDT
+Library in a Week
+Jeff Garland
+
+9:00am MDT
+Opening Keynote: The Shape of a Program
+Lisa Lippincott
+
+10:30am MDT
+Break
+
+11:00am MDT
+A Quantum Data Structure For Classical Computers
+Charley Bay
+C++ Mixins: Customization Through Compile Time Composition
+Odin Holmes
+Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics
+Bob Steagall
+
+12:30pm MDT
+Lunch Break
+
+2:30pm MDT
+An Allocator is a Handle to a Heap
+Arthur O'Dwyer
+Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1 of 2)
+Zach Laine
+Generalized Full Duplex Messaging
+Jason Rice
+
+4:00pm MDT
+Break
+
+4:30pm MDT
+Beyond C++17
+Mateusz Pusz
+Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2 of 2)
+Zach Laine
+C++17's std::pmr Comes With a Cost
+David Sankel
+
+6:00pm MDT
+Dinner Break
+
+8:30pm MDT
+Lightning Talks
+Michael Caisse
+
+10:00pm MDT
+Social Event: Informal Gathering
+
+ 
+Tuesday, May 8
+ 
+8:00am MDT
+Library in a Week
+Jeff Garland
+
+9:00am MDT
+Fancy Pointers for Fun and Profit
+Bob Steagall
+The Best Type Traits that C++ Doesn't Have
+Arthur O'Dwyer
+The Continuing Saga of the Lock-free Queue: Part 3 of N
+Tony Van Eerd
+
+10:30am MDT
+Break
+
+11:00am MDT
+The Untapped Potential of Software Visualization
+Eberhard Gräther
+Git, CMake, Conan: How to Ship and Reuse our C++ Projects
+Mateusz Pusz
+Boost.TMP: Your DSL for Metaprogramming
+Odin Holmes
+
+11:50am MDT
+Fortransformers: A Field Study
+Tobias Loew
+Docker Based C++ Dependency and Build Management
+Jason Rice
+
+12:30pm MDT
+Lunch Break
+
+1:00pm MDT
+Open Discussion about Software Freedom Conservancy, Boost's Non-Profit Home
+Bradley Kuhn
+
+2:30pm MDT
+Futures Without Type Erasure
+Vittorio Romeo
+Smart Output Iterators
+Jonathan Boccara
+The Julia Language and C++: The Perfect Marriage?
+Keno Fischer • Bart Janssens
+
+4:00pm MDT
+Break
+
+4:30pm MDT
+Generative Programming in Action: Emulating the 3DS
+Tony Wasserka
+What Else Has My Compiler Done For Me Lately?
+Matt Godbolt
+Moving Faster: Everyday Efficiency in Modern C++
+Alan Talbot
+
+6:15pm MDT
+Social Event: Picnic
+
+9:00pm MDT
+Social Event: Informal Gathering
+
+ 
+Wednesday, May 9
+ 
+7:00am MDT
+'Meet the Volunteers' Breakfast
+
+8:00am MDT
+Library in a Week
+Jeff Garland
+
+9:00am MDT
+Game Engine API Design
+Allan Deutsch
+If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x
+Bob Steagall
+Words of Wisdom
+Tony Van Eerd
+
+10:30am MDT
+Break
+
+11:00am MDT
+Design And Implementation Of DBMS Asynchronous Client Library with C++17, Boost.Hana and Boost.Asio
+Roman Siromakha
+Rethinking Pointers
+Jonathan Müller
+You Can Do Better than std::unordered_map: New and Recent Improvements to Hash Table Performance
+Malte Skarupke
+
+12:30pm MDT
+Boost Operations: C++Now Program Committee
+Jon Kalb • Bryce Adelstein Lelbach
+Lunch Break
+
+2:30pm MDT
+How Compilers Reason About Exceptions
+Michael Spencer
+Runtime Polymorphism: Back to the Basics
+Louis Dionne
+Initializer Lists Are Broken, Let's Fix Them
+Jason Turner
+
+4:00pm MDT
+Break
+
+4:30pm MDT
+Argot: Simplifying Variants, Tuples, and Futures
+Matt Calabrese
+Option(al) Is Not a Failure
+Phil Nash
+The Current State of Modules in C++
+John Lakos
+
+6:30pm MDT
+Dinner Break
+
+8:30pm MDT
+Lightning Talks
+Michael Caisse
+
+10:00pm MDT
+Social Event: Informal Gathering
+
+ 
+Thursday, May 10
+ 
+8:00am MDT
+Library in a Week
+Jeff Garland
+
+9:00am MDT
+Easy to Use, Hard to Misuse: Declarative Style in C++
+Ben Deane
+The Problem with "Cutting Edge C++"
+Jens Weller
+yomm2: Fast, Orthogonal, Open Methods in a Library
+Jean-Louis Leroy
+
+10:30am MDT
+Break
+
+11:00am MDT
+-Os Matters
+Mark Zeren
+A View to a View
+Peter Bindels
+From Parsing to sema: Making Sense of Syntax Trees
+Michał Dominiak
+
+11:50am MDT
+Debug C++ Without Running
+Anastasiia Kazakova
+Making Your Library More Reliable with Fuzzing
+Marshall Clow
+
+12:30pm MDT
+Lunch Break
+
+2:30pm MDT
+Modern C++ in Embedded Systems
+Michael Caisse
+My Little *this Deduction: Friendship is ... Uniform?
+Gašper Ažman
+Secure Coding Best Practices: Your First Line Is The Last Line Of Defense
+Matthew Butler
+
+4:00pm MDT
+Break
+
+4:30pm MDT
+C++ Development with Visual Studio Code
+Rong Lu
+Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library
+JeanHeyd Meneide
+Modern C++ API Design: From Rvalue-References to Type Design
+Titus Winters
+
+6:00pm MDT
+Dinner Break
+
+8:30pm MDT
+C++Now 2019 Planning Session
+Jon Kalb • Bryce Adelstein Lelbach
+
+10:00pm MDT
+Social Event: Informal Gathering
+
+ 
+Friday, May 11
+ 
+8:00am MDT
+Library in a Week
+Jeff Garland
+
+9:00am MDT
+Closing Keynote: Undefined Behavior and Compiler Optimizations
+John Regehr
+
+10:30am MDT
+Break
+
+11:00am MDT
+Closing Panel: What Belongs in the C++ Standard Library
+Bryce Adelstein Lelbach
+
+12:00pm MDT
+Lunch Break
+
+1:45pm MDT
+Future of Boost
+Steering Committee and C++Now Committee Chairs • Jon Kalb
+
+ 
+Schedule or People
+ 
+Timezone
+C++Now 2018
+America/Denver
+Filter By Date
+C++Now 2018May 6-11, 2018
+Filter By Venue
+Aspen, CO, United States
+Filter By Type
+business
+library in a Week
+lightning talks
+panel
+presentation
+registration
+social
+tutorial
+welcome
+Popular
+Recently Active Attendees
+avatar for Billy BakerBilly Bakeravatar for Jon KalbJon Kalbavatar for Arthur O'DwyerArthur O'Dwyeravatar for Charley BayCharley Bayavatar for Zach LaineZach Laineavatar for Jonathan BoccaraJonathan Boccaraavatar for Matthew ButlerMatthew Butleravatar for Michael CaisseMichael CaisseMore →
+Twitter Feed
+Need help? View Support Guides
+Use Sched for event mobile apps and event management
+©2020 Sched • About • Privacy • Terms

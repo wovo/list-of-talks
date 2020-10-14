@@ -1,0 +1,419 @@
+Tuesday 2016-04-19
+10:00
+
+The D Language, or The Art of Going Meta
+
+Andrei Alexandrescu
+
+Tough Stuff in Modern C++
+
+Stephen Dewhurst
+
+A Day of Deliberate Practice
+
+Jon Jagger
+Kevlin Henney
+
+A Practical Introduction to User Story Mapping
+
+Seb Rose
+
+Continuous Delivery with Docker Containers
+
+Mike Long
+
+Wednesday 2016-04-20
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+A Glimpse of Trygve: From Class-oriented Programming to Real OO
+
+Cope
+
+slides
+
+10:30
+
+Break
+
+11:00
+
+How I Went from C++ Programmer to Running My Own Software Product Company (and you can too)
+
+Andy Brice
+
+WG21-SG14: The Story So Far
+
+Guy Davidson
+
+Using the Groovy Ecosystem for Rapid Development on the JVM
+
+Schalk Cronjé
+
+Algorithmic Architecture: Performant Architecture in Evolving Regulatory Environments
+
+Jamie Allsop
+
++
+
+12:30
+
+Lunch
+
+14:00
+
+Efficient and Accessible? Addressing New Architectures in C++
+
+Robin Williams
+
+Proper Inheritance
+
+John Lakos
+
+Waltzing with Branches
+
+Chris Oldwood
+
+Monitor Your Services
+
+Sven Rosvall
+
++
+
+15:30
+
+Break
+
+16:00
+
+Finding Bugs with Clang at Compile and Run Time
+
+Bernhard Merkle
+
+Proper Inheritance
+
+John Lakos
+
+How to Evolve Your Way Out of a Paper Bag
+
+Frances Buontempo
+
+Swift for the Curious
+
+Phil Nash
+
+Let’s Not Repeat the Mistakes of SOA: 'Micro' Services, Macro Organisational, Architectural and Operational Challenges
+
+Daniel Bryant
+
+17:30
+
+Break
+
+18:00
+
+Lightning Talks
+
+Thursday 2016-04-21
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+Fastware
+
+Andrei Alexandrescu
+
+10:30
+
+Break
+
+11:00
+
+Using Units, Qantities, and Dimensions in C++14
+
+Peter Sommerlad
+
+Distributed Mutual Exclusion using Proposed Boost.AFIO (asynchronous filesystem and file io)
+
+Niall Douglas
+
+A Taste of Julia
+
+Didier Verna
+
+Mutation Testing in Python
+
+Austin Bingham
+
+Predictive Models of Development Teams and the Systems they Build
+
+Robert Smallshire
+
+12:30
+
+Lunch
+
+14:00
+
+Design Patterns in Modern C++
+
+Dmitri Nesteruk
+
+Leaving the Dark Side
+
+Felix Petriconi
+
+Refactoring to Streams
+
+Duncan McGregor
+Nat Pryce
+
+The Plural of Anecdote is not Test Suite
+
+David R MacIver
+
+Teaching Modern Software Engineering Practices in an Academic Environment
+
+Robert Chatley
+
+15:30
+
+Break
+
+16:00
+
+C++ Pub Quiz
+
+Olve Maudal
+
+The Story of CyberDojo (so far)
+
+Jon Jagger
+
+Refactoring to Streams
+
+Duncan McGregor
+Nat Pryce
+
+Repo-factoring
+
+Charles Bailey
+
++
+
+17:30
+
+Break
+
+18:00
+
+Lightning Talks
+
+Friday 2016-04-22
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+Balancing Bias in Software Development
+
+Marian Petre
+
+10:30
+
+Break
+
+11:00
+
+Constant Fun
+
+Dietmar Kühl
+
+Benchmarking in C++
+
+Nikos Athanasiou
+Visualize Template Instantiations - Understand your Template Bugs
+
+Peter Sommerlad
+What Every C++ Programmer Should Know About Modern Compilers
+
+Sławomir Zborowski
+Managing C++ Build Complexity Using Cuppa: A SCons-based Build System
+
+Jamie Allsop
+
+Elegant Filesystem Interactions in Python using pathlib
+
+Johan Herland
+Rewrite without Rewriting
+
+Jim Hague
+Without Warning: Keeping the Noise Down in Legacy Code Builds
+
+Guy Bolton King
+Writing Libraries is Terrible
+
+David R MacIver
+
+A Meta-pipeline for Generating Continuous Delivery Pipelines for Microservices
+
+Hilverd Reker
+Steve Freeman
+
+Code History Analysis and Visualization
+
+Dmitry Kandalov
+
+12:30
+
+Lunch
+
+14:00
+
+STL Algorithms – How to Use Them and How to Write Your Own
+
+Marshall Clow
+
+Declarative Thinking, Declarative Practice
+
+Kevlin Henney
+
+Property Based Testing Hands-on in Haskell or Javascript
+
+Willem van den Ende
+Marc Evers
+
+"Where xDD went wrong", "Some more of xDD’s greatest mistakes", and "What is this xDD thing anyway?"
+
+Seb Rose
+
+Snowden and the Snoopers – a.k.a. One persons’s surveillance state is another’s sensible precaution
+
+Burkhard Kloss
+
+15:30
+
+Break
+
+16:00
+
+Become a GDB Power User
+
+Greg Law
+
+Improving Performance and Maintainability in Modern C++
+
+J Daniel Garcia
+
+Property Based Testing Hands-on in Haskell or Javascript
+
+Willem van den Ende
+Marc Evers
+
+Go! Steady. Ready?
+
+Thomas Guest
+
+Software Architecture: Living Structure, Art or Just Hopeful Arrangements of Bytes?
+
+Charles Tolman
+
+17:30
+
+Break
+
+18:00
+
+Lightning Talks
+
+19:30
+
+Conference Supper
+
+Saturday 2016-04-23
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+C++ Concepts "Lite" in Practice
+
+Roger Orr
+
+Reduce: From Functional and Heterogeneous Programming to C++17 Fold Expressions
+
+Nikos Athanasiou
+
+The Distributed Version Control Revolution
+
+Charles Bailey
+
+Small Steps towards Better Technical Presentations
+
+Dirk Haun
+
+Refactoring: 25 Years On
+
+Chris Simons
+
+11:00
+
+Break
+
+11:30
+
+Extending and Wrapping C and C++ with Python
+
+Diego Rodriguez-Losada
+
+Concurrent Thinking
+
+Anthony Williams
+
+Writing Snake in 6 Programming Languages
+
+Andy Balaam
+
+Big Data Analytics – A Primer for the Adventurous
+
+Astrid Byro
+Ari Mitra
+
+Moving your Grid to the Cloud – or "Hardware, Who Needs Hardware?" or "Architecture Revisited"
+
+Burkhard Kloss
+
+13:00
+
+Lunch
+
+14:30
+
+How to Apply Engineering Practices to Embedded Software Development
+
+Raphael Meyer
+
+Seven Languages in 90 Minutes
+
+Michel Grootjans
+
+Keeping Your CI–CD Pipeline as Fast as it Needs to Be
+
+Abraham Marín Pérez
+
+Test Driven Specification – A Gentle Introduction to TLA+ (finding concurrency bugs before you write code)
+
+Dominic Robinson
+
+ACCU Issues
+
+ACCU Committee
+
+16:00
+
+Break
+
+16:30
+
+Comfort Zone
+
+Anna-Jayne Metcalfe
+
+17:30
+
+Close

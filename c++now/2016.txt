@@ -1,0 +1,146 @@
+Monday, May 9
+ 
+4:00pm MDT
+Conference Registration and Reception
+5:30pm MDT
+Dinner Break
+8:30pm MDT
+Social Event: Informal Gathering
+ 
+Tuesday, May 10
+ 
+8:00am MDT
+General Conference Welcome
+8:15am MDT
+Library in a Week
+9:00am MDT
+Keynote: Better Code
+10:30am MDT
+Break
+11:00am MDT
+C++14 Dependency Injection Library with no overhead and compile time guarantee of object creationFlowz: towards an EDSL for digital signal processingTypegrind - Type preserving heap profiler for C++
+12:30pm MDT
+Lunch Break
+2:00pm MDT
+CopperSpice: The Next Generation of SignalsProper Inheritance (part 1 of 2)Practical Performance Practices
+3:30pm MDT
+Break
+4:00pm MDT
+Metaprogramming for dummiesMonoids, Monads, and Applicative Functors: Repeated Software PatternsProper Inheritance (part 2 of 2)
+5:30pm MDT
+Dinner Break
+8:30pm MDT
+Lightning Talks
+ 
+Wednesday, May 11
+ 
+8:00am MDT
+Library in a Week
+9:00am MDT
+C++14 version of Boost.MSM-eUML which compiles up to 60x faster whilst being slightly faster too!Diet for your Templates - Reducing Code Bloat in Your Templated LibraryVariants: past, present, and future
+10:30am MDT
+Break
+11:00am MDT
+array_ref: Multidimensional Array References for the C++ Standard LibraryDocumenting C++ Using the Right ToolsCome Stream with Me: build performant, simple, parallel applications in C++ using RaftLib
+12:30pm MDT
+Boost Operations: C++Now Program CommitteeLunch Break
+2:30pm MDT
+Metaprogramming for the bravePulling VisitorsThread-safe Observer Pattern - You're doing it wrong
+4:00pm MDT
+Break
+4:30pm MDT
+Friendship in Service of TestingImplementation of a multithreaded compile-time ECS in C++14Implementing a lock-free atomic_shared_ptr
+5:15pm MDT
+Design Patterns in the 21st Century
+6:00pm MDT
+Social Event: Picnic
+ 
+Thursday, May 12
+ 
+7:00am MDT
+"Meet the Volunteers" Breakfast FILLING
+8:00am MDT
+Library in a Week
+9:00am MDT
+Multithreading is the answer. What was the question? Part IVariadic expansion in examplesLet's make a web match-3 game in C++14 using Dependency Injection(experimental Boost.DI), Meta State Machine(experimental Boost.MSM-lite) RangeV3 and MSVC and Emscripten
+10:30am MDT
+Break
+11:00am MDT
+IoC++ - A IoC framework for C++Multithreading is the answer. What was the question? Part IIImplementing `static` control flow in C++14
+12:30pm MDT
+Lunch Break
+2:30pm MDT
+Exceptional PerformanceImplementing A Modern C++ MQTT Client for Embedded Devices
+4:00pm MDT
+Break
+4:30pm MDT
+C++ Tool Support: Where We Are and Where We Are HeadingThe Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion Introspection In A High Performance Web ServicePreprocessor-aware Automated Refactoring
+5:15pm MDT
+Extending C++ with Co-Array semanticsProgress on Contract Support for C++17Why and How To Add Scripting
+6:00pm MDT
+Dinner Break
+8:30pm MDT
+Lightning Talks
+ 
+Friday, May 13
+ 
+8:00am MDT
+Library in a Week
+9:00am MDT
+C++ Performance in Practice: Align, Vectorise, Cache, Jump!Goodbye metaprogramming, and hello functional: Living in a post-metaprogramming era in C++.The Design of a New C++ Build Toolchain
+10:30am MDT
+Break
+11:00am MDT
+An Interesting Lock-free Queue - Part 2 of NSimple hand written parsersUnderstanding Boost.Build
+12:30pm MDT
+Boost Operations: CMake/Boost ExplorationLunch Break
+2:30pm MDT
+HPX and GPU parallelized STLImplementing tuple in C++17The Fiber Library
+4:00pm MDT
+Break
+4:30pm MDT
+No Sane Compiler Would Optimize AtomicsThe CPU Cache: Instruction Re-Ordering Made ObviousWhat is the basic interface?
+6:00pm MDT
+Dinner Break
+8:30pm MDT
+C++Now 2017 Planning Session
+ 
+Saturday, May 14
+ 
+8:00am MDT
+Library in a Week
+9:00am MDT
+Future of Boost
+10:30am MDT
+Break
+11:00am MDT
+Lagniappe: C++ Today: The Beast is Back
+ 
+Schedule or People
+ 
+Timezone
+C++Now 2016
+America/Denver
+Filter By Date
+C++Now 2016May 9-14, 2016
+Filter By Venue
+Aspen, CO, United States
+Filter By Type
+business
+keynote
+lagniappe
+lecture / tutorial
+library in a Week
+lightning talks
+panel
+presentation
+registration
+social
+tutorial
+welcome
+Level
+Recently Active Attendees
+JMJohn McIveravatar for Jon KalbJon Kalbavatar for Charley BayCharley Bayavatar for Zach LaineZach Laineavatar for Michael CaisseMichael Caisseavatar for Jennifer YaoJennifer Yaoavatar for Sergei KhandrikovSergei Khandrikovavatar for Jeff TrullJeff TrullMore →
+Need help? View Support Guides
+Use Sched for event mobile apps and event management
+©2020 Sched • About • Privacy • Terms

@@ -16,13 +16,9 @@ todo
 maak individuele marshalls van de talks
 waarom worden sommige videos niet gevonden?
 
-PTL: public talks list
+PCTL: public C++ talks list
 
 for more than one: select either / all!
-
-python -m pip install BeautifulSoup4
-
-https://isocpp.org/wiki/faq/conferences-worldwide
 
 https://archive.fosdem.org/2020/schedule/xml
 https://conference.accu.org/previous/2019_autumn/sessions/ - has no video links

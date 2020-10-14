@@ -1,0 +1,306 @@
+Sunday, May 5
+ 
+16:00 MDT
+Registration Social
+
+18:00 MDT
+Dinner Break
+
+20:30 MDT
+Social Event: Informal Gathering
+
+ 
+Monday, May 6
+ 
+08:00 MDT
+General Conference Welcome
+Jon Kalb
+
+08:15 MDT
+Library in a Week
+Jeff Garland
+
+09:00 MDT
+C++ Constants
+Daveed Vandevoorde
+
+10:30 MDT
+Break
+
+11:00 MDT
+Beyond C++17 (Part 2 of N)
+Mateusz Pusz
+Matchine: Pattern Matching for Open Sum Types
+André Bergner
+Property-Based Declarative Containers
+Charley Bay
+
+12:30 MDT
+Lunch Break
+
+14:30 MDT
+A Multithreaded, Transaction-Based Read/Write Locking Strategy for Containers
+Bob Steagall
+How I learned to Stop Worrying and Love the C++ Type System
+Peter Sommerlad
+Value Proposition: Allocator-Aware (AA) Software
+John Lakos
+
+16:00 MDT
+Break
+
+16:30 MDT
+Dependency Injection - a 25-dollar term for a 5-cent concept
+Kris Jusiak
+Embedded Domain Specific Languages for Embedded Bare Metal Projects
+Michael Caisse
+test_resource: the pmr detective
+Attila Feher
+
+18:00 MDT
+Dinner Break
+
+20:30 MDT
+Lightning Talks
+Michael Caisse
+
+22:00 MDT
+Social Event: After Sessions
+
+ 
+Tuesday, May 7
+ 
+08:00 MDT
+Library in a Week
+Jeff Garland
+
+09:00 MDT
+Compile Time Regular Expressions with Deterministic Finite Automaton
+Hana Dusíková
+
+10:30 MDT
+Break
+
+11:00 MDT
+Linear Algebra for the Standard C++ Library
+Bob Steagall
+Implementing Physical Units Library for C++
+Mateusz Pusz
+Sane Modern Special Member Functions
+Peter Sommerlad
+
+12:30 MDT
+Lunch Break
+
+14:30 MDT
+Rise of the State Machines
+Kris Jusiak
+Better CTAD for C++20
+Timur Doumler
+The Truth of a Procedure
+Lisa Lippincott
+
+16:00 MDT
+Break
+
+16:30 MDT
+C++: Engineers Wanted, Programmers not so Much
+David Sankel
+Tacit DSL All the Things
+Odin Holmes
+The C++20 Standard Library - Beyond Ranges
+Jeff Garland
+
+18:15 MDT
+Social Event: Picnic
+
+21:00 MDT
+C++Now and CppCon, the View From Inside
+Robin Kuzmin
+
+22:00 MDT
+Social Event: After Sessions
+
+ 
+Wednesday, May 8
+ 
+07:00 MDT
+'Meet the Volunteers' Breakfast
+
+08:00 MDT
+Library in a Week
+Jeff Garland
+
+09:00 MDT
+The C++ Reflection TS
+David Sankel
+
+10:30 MDT
+Break
+
+11:00 MDT
+A generic binary tree: why grow your own?
+Jeremy Murphy
+Audio in standard C++
+Timur Doumler
+Clang Automated Refactoring for everyone with clangmetatool
+Daniel Ruoso
+
+12:30 MDT
+Lunch Break
+
+12:45 MDT
+Boost Operations: C++Now Program Committee
+
+14:30 MDT
+Hey C, This Is What Performance Looks like (Manually Generating Optimal Assembly at Compile Time)
+Odin Holmes
+Practical Interfaces for Practical Functions
+Lisa Lippincott
+Using C++20 Ranges Effectively
+Jeff Garland
+
+16:00 MDT
+Break
+
+16:30 MDT
+Higher-order functions and `function_ref`
+Vittorio Romeo
+Parametric Expressions: A Proposed Language Feature
+Jason Rice
+Threat Hunting
+Matthew Butler
+
+18:30 MDT
+Dinner Break
+
+20:30 MDT
+Lightning Talks
+Michael Caisse
+
+22:00 MDT
+Social Event: After Sessions
+
+ 
+Thursday, May 9
+ 
+08:00 MDT
+Library in a Week
+Jeff Garland
+
+09:00 MDT
+C++20 in Breadth (not depth!)
+Alisdair Meredith
+If You Can't Open It, You Don't Own It
+Matthew Butler
+Trivially Relocatable
+Arthur O'Dwyer
+
+10:30 MDT
+Break
+
+11:00 MDT
+Experiences in Teaching Modern C++ to Beginners
+Ryan Dougherty
+Algorithm Intuition
+Conor Hoekstra
+The Impact of Compilers, O/Ses and Mitigations for Spectre & Meltdown upon a Low-Latency Trading System.
+Jason McGuiness
+
+11:50 MDT
+The ABI challenge
+Arvid Norberg
+
+12:30 MDT
+Lunch Break
+
+14:30 MDT
+Identifying Monoids: Exploiting Compositional Structure in Code
+Ben Deane
+Pattern Matching: Match Me If You Can
+Michael Park
+The Ongoing Saga of ISO-C++ Executors
+David Hollman
+
+16:00 MDT
+Break
+
+16:30 MDT
+An Alternate Smart Pointer Hierarchy
+Matthew Fleming
+Points of Order
+Gašper Ažman
+The View from a C++ Standard Library Implementor
+Marshall Clow
+
+18:00 MDT
+Dinner Break
+
+20:30 MDT
+C++Now 2020 Planning Session
+Jon Kalb • Bryce Adelstein Lelbach
+
+22:00 MDT
+Social Event: After Sessions
+
+ 
+Friday, May 10
+ 
+08:00 MDT
+Library in a Week
+Jeff Garland
+
+09:00 MDT
+Taking the Plunge Towards CMake in Boost
+Paul Fultz II
+The Many Variants of std::variant
+Nevin Liber
+The Rough Road Towards Upgrading to C++ Modules
+Richárd Szalay
+
+10:30 MDT
+Break
+
+11:00 MDT
+The Plan for Tomorrow: Extension Points in C++ Applications
+JeanHeyd Meneide
+C++ Development with Visual Studio Code
+Tara Raj
+Exceptions Demystified
+Andreas Weis
+
+12:30 MDT
+Lunch Break
+
+14:30 MDT
+Future of Boost
+Steering Committee and C++Now Committee Chairs • Jon Kalb
+
+ 
+Schedule or People
+ 
+Timezone
+C++Now 2019
+America/Denver
+Filter By Date
+C++Now 2019May 5-10, 2019
+Filter By Venue
+Aspen Center for Physics
+Filter By Type
+business
+case study
+demonstration
+lecture
+lecture / case study
+library in a Week
+lightning talks
+panel
+registration
+social
+tutorial
+welcome
+workshop
+Recently Active Attendees
+avatar for Conor HoekstraConor Hoekstraavatar for Jon KalbJon Kalbavatar for Timur DoumlerTimur Doumleravatar for Arthur O'DwyerArthur O'Dwyeravatar for Charley BayCharley Bayavatar for Zach LaineZach Laineavatar for Matthew ButlerMatthew Butleravatar for Attila FeherAttila FeherMore →
+Twitter Feed
+Event schedule powered by sched

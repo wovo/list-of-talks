@@ -1,0 +1,219 @@
+Registration
+9:30	Welcome Message
+10:00	
+Keynote - Sean Parent
+Better Code: Human interface
+Sean Parent
+12:00	Lunchbreak
+ 	Track A	Track B	Track C	Track D
+13:15	
+Practical C++17
+Jason Turner
+
+Threads and Locks must Go
+Rainer Grimm
+
+Deep Learning with C++
+Peter Goldsborough
+
+Dragging C++ into the modern era: a proposal for a 2D Graphics API
+Guy Davidson
+
+14:15	
+short break
+
+Bernstein Lounge track - boost meeting
+
+14:30	
+Functional Data Structures
+Ivan Cukic
+
+Strong types for strong interfaces
+Jonathan Boccara
+
+Improve your C++ with inspirations from other languages
+Andreas Reischuck
+
+How to Use Free Visualization Tools to Optimize Applications and Parallel Computing
+Dori Exterman
+
+15:30	
+Coffeebreak
+
+Bernstein Lounge track - Diversity meeting
+
+16:00	
+How C++ Debuggers Work
+Simon Brand
+
+Modern C++ Testing with Catch2
+Phil Nash
+
+Reflection in C++Next
+Anton Bikineev
+
+Local ("Arena") Memory Allocators
+John Lakos
+
+17:00	
+short break
+
+Bernstein Lounge track - Qt meeting
+
+17:15	
+Beyond the Compiler: Advanced Tools for Better Productivity
+Gábor Horváth
+
+The Three Little Dots and the Big Bad Lambdas
+Joel Falcou
+
+C++ API & ABI versioning
+Mathieu Ropert
+
+Local ("Arena") Memory Allocators II
+John Lakos
+
+18:15	
+Short Break -> Food -> Party -> End of Day 1
+
+Conan C++ Quiz begins at 20:30
+Thanks to JFrog for sponsoring this event!
+Day 2
+9:30	
+Good Morning C++
+
+10:00	
+Keynote - Kate Gregory
+Its complicated!
+
+
+
+12:00	Lunchbreak
+ 	Track A	Track B	Track C	Track D
+13:15	
+Practical constexpr
+Jason Turner
+
+There Is A New Future
+Felix Petriconi
+
+C++: unexpected behaviour
+Antonio Mallia, Jaime Alonso Lorenzo
+
+An inspiring introduction to Template Metaprogramming
+Milosz Warzecha
+
+14:15	
+short break
+
+Bernstein Lounge track - Audio Dev Meeting
+
+14:30	
+Concepts driven design
+Kris Jusiak
+
+The Performance Addict's toolbox
+Peter Steinbach
+
+Is std::function really the best we can do?
+Lukas Bergdoll
+
+Beginning with C++ (Panel)
+Jens Weller
+
+15:30	
+Coffeebreak
+
+Bernstein Lounge track - #include meeting
+
+16:00	
+Declarative Thinking, Declarative Practice
+Kevlin Henney
+
+Introduction to proposed std::expected<T, E>
+Niall Douglas
+
+Dealing with software dependencies
+Kiki de Rooij, Peter Bindels
+
+C++ is late to the party: package management is only the beginning
+Diego Rodriguez-Losada
+
+17:30	
+short break
+
+Bernstein Lounge track - User Group organizers
+
+17:45	
+The most valuable values
+Juan Pedro Bolívar Puente
+
+Modern CMake for modular design
+Mathieu Ropert
+
+This talk is a replacement for the talk from Susanne van den Elsen.
+
+Fantastic Algorithms and Where To Find Them
+Nicholas Ormrod
+
+Tools from the C++ eco-system to save a leg
+Anastasia Kazakova
+
+18:45	Food -> Party -> End of Day 2
+Day 3
+ 	Track A	Track B	Track C	Track D
+9:00	
+Fun with (user-defined) attributes
+Jonathan Müller
+
+Code Reviews - Why, What, and How
+Arne Mertz
+
+Reactive Equations
+André Bergner
+
+ Lightning Talks
+10:00	
+short break
+
+Bernstein Lounge track - Embedded meeting
+
+10:20	
+Free your functions
+Klaus Iglberger
+
+Bringing Clang-tidy Magic to Visual Studio C++ Developers
+Victor Ciura
+
+This talk is a replacement for the talk from Jackie Kay.
+
+True parallelism with no concept of threads
+Alfred Bratterud
+
+  Lightning Talks
+11:20	
+short break
+
+Bernstein Lounge track - General User Group Meeting
+
+11:40	
+The hidden rules of world-class C++ code
+Boris Schäling
+
+Stringviews, stringviews everywhere
+Marc Mutz
+
+Reader-Write Lock versus Mutex - Understanding a Lost Bet
+Jeffrey Mendelsohn
+
+  Lightning Talks
+12:40	Lunchbreak
+14:00	Meeting C++ Update
+15:30	Coffeebreak
+16:00	
+Closing Keynote - Wouter van Ooijen
+What can C++ offer embedded, what can embedded offer C++?
+Wouter van Ooijen
+
+
+17:xx	The End
