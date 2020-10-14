@@ -1,4 +1,4 @@
-#cppcon-2014-000
+#cppcon-2014-0001
 Sunday, September 7
  
 4:00pm PDT
@@ -14,107 +14,107 @@ Monday, September 8
 Registration
 
 8:45am PDT
-#cppcon-2014-000
+#cppcon-2014-0002
 Conference Welcome
 Jon Kalb
 
 9:15am PDT
-#cppcon-2014-000
+#cppcon-2014-0003
 Type Deduction and Why You Care
 Scott Meyers
 
 11:00am PDT
-#cppcon-2014-000
+#cppcon-2014-0004
 Emscripten and asm.js: C++'s role in the modern web
 Alon Zakai
-#cppcon-2014-0004
+#cppcon-2014-0005
 How you can make a Boost C++ Library
 Robert Ramey
-#cppcon-2014-0005
+#cppcon-2014-0006
 Modernizing Legacy C++ Code
 Kate Gregory • James McNellis
-#cppcon-2014-0006
+#cppcon-2014-0007
 Overview of Parallel Programming in C++
 Pablo Halpern
-#cppcon-2014-0007
+#cppcon-2014-0008
 What the committee did next!
 Alisdair Meredith
 
 2:00pm PDT
-#cppcon-2014-0008
+#cppcon-2014-0009
 An Overview of C++11/14, Part I
 Leor Zolman
-#cppcon-2014-0009
+#cppcon-2014-0010
 Common-sense acceleration of your MLOC build
 Matt Hargett
-#cppcon-2014-0010
+#cppcon-2014-0011
 Defensive Programming Done Right, Part I
 John Lakos
-#cppcon-2014-0011
+#cppcon-2014-0012
 Generic Programming with Concepts Lite, Part I
 Andrew Sutton
-#cppcon-2014-0012
+#cppcon-2014-0013
 How Facebook's HHVM Uses Modern C++ for Fun and Profit (Literally)
 Drew Paroski
-#cppcon-2014-0013
+#cppcon-2014-0014
 Lock-Free Programming (or, Juggling Razor Blades), Part I
 Herb Sutter
 
 3:15pm PDT
-#cppcon-2014-0014
+#cppcon-2014-0015
 cppreference.com: documenting C++ one edit at a time
 Nate Kohl
-#cppcon-2014-0015
+#cppcon-2014-0016
 An Overview of C++11/14, Part II
 Leor Zolman
-#cppcon-2014-0016
+#cppcon-2014-0017
 Defensive Programming Done Right, Part II
 John Lakos
-#cppcon-2014-0017
+#cppcon-2014-0018
 Generic Programming with Concepts Lite, Part II
 Andrew Sutton
-#cppcon-2014-0018
+#cppcon-2014-0019
 Lock-Free Programming (or, Juggling Razor Blades), Part II
 Herb Sutter
-#cppcon-2014-0019
+#cppcon-2014-0020
 Persisting C++ Classes in Relational Databases with ODB
 Boris Kolpackov
 
 3:45pm PDT
-#cppcon-2014-0020
+#cppcon-2014-0021
 Viewing the world through array-shaped glasses
 Łukasz Mendakiewicz
 
 4:45pm PDT
-#cppcon-2014-0021
+#cppcon-2014-0022
 Adventures in Updating a Legacy Codebase
 Billy Baker
-#cppcon-2014-0007
+#cppcon-2014-0023
 Efficiency with Algorithms, Performance with Data Structures
 Chandler Carruth
-#cppcon-2014-0007
+#cppcon-2014-0024
 Introduction to C++ AMP (GPGPU Computing)
 Marc Gregoire
-#cppcon-2014-0007
+#cppcon-2014-0025
 ODB, Advanced Weapons and Tactics
 Boris Kolpackov
-#cppcon-2014-0007
+#cppcon-2014-0026
 Rebuilding Boost Date-Time for C++11
 Jeff Garland
 
 8:30pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0027
 Boost Library Writers Workshop, Part 1
 Robert Ramey
-#cppcon-2014-0007
+#cppcon-2014-0028
 Mixins
 Roland Bock
-#cppcon-2014-0007
+#cppcon-2014-0029
 Meet the Authors
 Chandler Carruth • Alex Allain • Kate Gregory • John Lakos • Scott Meyers • Ade Miller • Peter Sommerlad • Herb Sutter • Michael Wong
 
 9:15pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0030
 Boost Library Writers Workshop, Part 2
 Robert Ramey
 
@@ -122,97 +122,97 @@ Robert Ramey
 Tuesday, September 9
  
 9:00am PDT
-#cppcon-2014-0007
+#cppcon-2014-0031
 Elevate Your Code to Modern C++11 with Automated Tooling
 Peter Sommerlad
-#cppcon-2014-0007
+#cppcon-2014-0032
 Practical Functional Programming in C++
 Bryce Adelstein Lelbach
-#cppcon-2014-0007
+#cppcon-2014-0033
 The Joint Strike Fighter Coding Standard: Using C++ on Mission and Safety Critical Platforms
 Bill Emshoff
-#cppcon-2014-0007
+#cppcon-2014-0034
 UI prototyping and development for multiple devices in C++
 JT
-#cppcon-2014-0007
+#cppcon-2014-0035
 Writing Data Parallel Algorithms on GPUs
 Ade Miller
 
 10:30am PDT
-#cppcon-2014-0007
+#cppcon-2014-0036
 Make Simple Tasks Simple!
 Bjarne Stroustrup
 
 2:00pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0037
 Another fundamental shift in Parallelism Paradigm? OpenMP 4.0 for GPU/Accelerators and other things
 Michael Wong
-#cppcon-2014-0007
+#cppcon-2014-0038
 C++11 in the Wild: Techniques from a Real Codebase
 Arthur O'Dwyer
-#cppcon-2014-0007
+#cppcon-2014-0039
 Exception-Safe Code, Part I
 Jon Kalb
-#cppcon-2014-0007
+#cppcon-2014-0040
 From the Dropbox Trenches: A Deep Dive into Two Cross-Platform Mobile Apps Written in C++
 Tony Grue • Steven Kabbes
-#cppcon-2014-0007
+#cppcon-2014-0041
 Implementing wire protocols with Boost Fusion
 Thomas Rodgers
-#cppcon-2014-0007
+#cppcon-2014-0042
 Modern Template Metaprogramming: A Compendium, Part I
 Walter E. Brown
 
 3:15pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0043
 Decomposing a Problem for Parallel Execution
 Pablo Halpern
-#cppcon-2014-0007
+#cppcon-2014-0044
 Embind and Emscripten: Blending C++11, JavaScript, and the Web Browser
 Chad Austin
-#cppcon-2014-0007
+#cppcon-2014-0045
 Exception-Safe Code, Part II
 Jon Kalb
-#cppcon-2014-0007
+#cppcon-2014-0046
 How Microsoft Uses C++ to Deliver Office (and More) Across iOS, Android, Windows, and Mac, Part I
 Tony Antoun • Igor Zaika
-#cppcon-2014-0007
+#cppcon-2014-0047
 Modern Template Metaprogramming: A Compendium, Part II
 Walter E. Brown
 
 4:45pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0048
 0xBADC0DE
 Jens Weller
-#cppcon-2014-0007
+#cppcon-2014-0049
 Asynchronous Computation in C++
 Hartmut Kaiser
-#cppcon-2014-0007
+#cppcon-2014-0050
 Exception-Safe Code, Part III
 Jon Kalb
-#cppcon-2014-0007
+#cppcon-2014-0051
 How Microsoft Uses C++ to Deliver Office (and More) Across iOS, Android, Windows, and Mac, Part II
 Tony Antoun • Igor Zaika
-#cppcon-2014-0007
+#cppcon-2014-0052
 Pragmatic Type Erasure: Solving Classic OOP Problems with an Elegant Design Pattern
 Zach Laine
-#cppcon-2014-0007
+#cppcon-2014-0053
 The Committee Experience
 Alisdair Meredith
 
 8:30pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0054
 The sqlpp11-connector experiment, Part 1
 Roland Bock
-#cppcon-2014-0007
+#cppcon-2014-0055
 Coupled Multi-Physics Simulations in the Exascale Era and Its Implications on C++17
 Yahya H. Mirza
-#cppcon-2014-0007
+#cppcon-2014-0056
 Lightning Talks
 Kate Gregory • Jonathan Caves • Shy Shalom • Julian Smith • Peter Sommerlad • Martin Troxler • Jeff Trull • Michael VanLoon • Jens Weller • Leor Zolman
 
 9:15pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0057
 Computer Book Publishing Today: The Seven Deadly Sins Revisited
 Gregory Doench
 
@@ -220,96 +220,96 @@ Gregory Doench
 Wednesday, September 10
  
 8:00am PDT
-#cppcon-2014-0007
+#cppcon-2014-0058
 Lightning Talks
 Kate Gregory • Jonathan Caves • Brett Hall • Michael VanLoon • Andy Webber
 
 9:00am PDT
-#cppcon-2014-0007
+#cppcon-2014-0059
 Founding C++ User Groups
 Jon Kalb • Jens Weller
-#cppcon-2014-0007
+#cppcon-2014-0060
 The Canonical Class
 Michael Caisse
-#cppcon-2014-0007
+#cppcon-2014-0061
 The Philosophy of Google's C++ Code
 Titus Winters
-#cppcon-2014-0007
+#cppcon-2014-0062
 Your Help Wanted: Language Proposals in Flight
 Walter E. Brown
 
 10:30am PDT
-#cppcon-2014-0007
+#cppcon-2014-0063
 C++ on Mars: Incorporating C++ into Mars Rover Flight Software
 Mark Maimone
 
 2:00pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0064
 Boost.Asio and Boost.Serialization: Designs for Object Transmission, Part I
 Bryce Adelstein Lelbach
-#cppcon-2014-0007
+#cppcon-2014-0065
 How to call C libraries from C++
 Lisa Lippincott
-#cppcon-2014-0007
+#cppcon-2014-0066
 Making Allocators Work, Part I
 Alisdair Meredith
-#cppcon-2014-0007
+#cppcon-2014-0067
 Making C++ Code Beautiful
 Kate Gregory • James McNellis
-#cppcon-2014-0007
+#cppcon-2014-0068
 Meta Techniques: Heterogeneous Polymorphism and Fast Prototyping at Facebook
 Marcelo Juchem
 
 3:15pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0069
 Boost.Asio and Boost.Serialization: Designs for Object Transmission, Part II
 Bryce Adelstein Lelbach
-#cppcon-2014-0007
+#cppcon-2014-0070
 C++ Test-driven Development: Unit Testing, Code Assistance and Refactoring
 Peter Sommerlad
-#cppcon-2014-0007
+#cppcon-2014-0071
 Making Allocators Work, Part II
 Alisdair Meredith
-#cppcon-2014-0007
+#cppcon-2014-0072
 Multiplatform C++
 Edouard Alligand
-#cppcon-2014-0007
+#cppcon-2014-0073
 Parallelizing the Standard Algorithms Library
 Jared Hoberock
-#cppcon-2014-0007
+#cppcon-2014-0074
 The Implementation of Value Types
 Lawrence Crowl
 
 4:45pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0075
 C++ Memory Model Meets High-Update-Rate Data Structures
 Paul McKenney
-#cppcon-2014-0007
+#cppcon-2014-0076
 Costless Software Abstractions for Parallel Architectures
 Joel Falcou
-#cppcon-2014-0007
+#cppcon-2014-0077
 Hourglass Interfaces for C++ APIs
 Stefanus Du Toit
-#cppcon-2014-0007
+#cppcon-2014-0078
 Large-Scale Refactoring @ Google
 Hyrum Wright
-#cppcon-2014-0007
+#cppcon-2014-0079
 Pragmatic Unit Testing in C++
 Matt Hargett
 
 8:00pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0080
 The perils of strict-aliasing
 Andy Webber
 
 8:30pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0081
 Real world reversible debugging for C/C++ developers on Linux
 Julian Smith
-#cppcon-2014-0007
+#cppcon-2014-0082
 The JUCE framework - creative C++ coding in large-scale applications
 Julian Storer
-#cppcon-2014-0007
+#cppcon-2014-0083
 Grill the Committee
 Jon Kalb • Walter E. Brown • Chandler Carruth • Marshall Clow • Pablo Halpern • Howard Hinnant • John Lakos • Stephan T. Lavavej • Nevin Liber • Alisdair Meredith • Herb Sutter • Stefanus Du Toit • Michael Wong • Marshall Clow
 
@@ -317,106 +317,106 @@ Jon Kalb • Walter E. Brown • Chandler Carruth • Marshall Clow • Pablo Ha
 Thursday, September 11
  
 8:00am PDT
-#cppcon-2014-0007
+#cppcon-2014-0084
 Lightning Talks
 Roland Bock • Kevin Carpenter • Boris Kolpackov • Karl Niu • Ken Smith
 
 9:00am PDT
-#cppcon-2014-0007
+#cppcon-2014-0085
 Polymorphism with Unions
-#cppcon-2014-0007
+#cppcon-2014-0086
 Jason Lucas
-#cppcon-2014-0007
+#cppcon-2014-0087
 Practical Type Erasure
 Cheinan Marks
-#cppcon-2014-0007
+#cppcon-2014-0088
 Quick game development with C++11/C++14
 Vittorio Romeo
-#cppcon-2014-0007
+#cppcon-2014-0089
 sqlpp11, An SQL Library Worthy Of Modern C++
 Roland Bock
-#cppcon-2014-0007
+#cppcon-2014-0090
 Using C++ to Connect to Web Services
 Steve Gates
-#cppcon-2014-0007
+#cppcon-2014-0091
 Where did my performance go? (Scaling Visualization in concurrent C++ programs)
 Fedor Pikus
 
 10:30am PDT
-#cppcon-2014-0007
+#cppcon-2014-0092
 Data-Oriented Design and C++
 Mike Acton
 
 12:00pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0093
 Gamers/Interactive High Performance real time Bof
 Michael Wong
 
 2:00pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0094
 A CTO's guide to Modern C++
 Matt Hargett
-#cppcon-2014-0007
+#cppcon-2014-0095
 Creative Coding with C++
 Andrew Bell
-#cppcon-2014-0007
+#cppcon-2014-0096
 Embarcadero Case Study: Bringing CLANG/LLVM To Windows
 JT
-#cppcon-2014-0007
+#cppcon-2014-0097
 Lock-free by Example
 Tony Van Eerd
-#cppcon-2014-0007
+#cppcon-2014-0098
 Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL
 Louis Dionne
-#cppcon-2014-0007
+#cppcon-2014-0099
 STL Features And Implementation Techniques
 Stephan T. Lavavej
 
 3:15pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0100
 Async sequences and algorithms to compose them
 Kirk Shoop
-#cppcon-2014-0007
+#cppcon-2014-0101
 C++ in Huge AAA Games
 Nicolas Fleury
-#cppcon-2014-0007
+#cppcon-2014-0102
 Mo' Hustle Mo' Problems
 Andrei Alexandrescu
-#cppcon-2014-0007
+#cppcon-2014-0103
 Simulating the Universe using modern C++
 Vincent Reverdy
-#cppcon-2014-0007
+#cppcon-2014-0104
 Unicode in C++
 James McNellis
-#cppcon-2014-0007
+#cppcon-2014-0105
 What's New In The C++14 Library
 Alisdair Meredith
 
 4:45pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0106
 Gamgee: A C++14 library for genomics data processing and analysis
 Mauricio Carneiro
-#cppcon-2014-0007
+#cppcon-2014-0107
 How Ubisoft Montreal Develops Games for Multicore - Before and After C++11
 Jeff Preshing
-#cppcon-2014-0007
+#cppcon-2014-0108
 Practical Cross-Platform Mobile C++ Development at Dropbox
 Alex Allain • Andrew Twyman
-#cppcon-2014-0007
+#cppcon-2014-0109
 Sanitize your C++ code
 Kostya Serebryany
-#cppcon-2014-0007
+#cppcon-2014-0110
 Types Don't Know #
 Howard Hinnant
 
 8:30pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0111
 How one might build a compile time format library
 Michael Park
-#cppcon-2014-0007
+#cppcon-2014-0112
 Software Transactional Memory, For Reals
 Brett Hall
-#cppcon-2014-0007
+#cppcon-2014-0113
 CppCon 2015 Kick-off Meeting
 Jon Kalb
 
@@ -424,46 +424,46 @@ Jon Kalb
 Friday, September 12
  
 8:00am PDT
-#cppcon-2014-0007
+#cppcon-2014-0114
 Lightning Talks
 Kate Gregory • Michael Caisse • Marc Eaddy • Lenny Maiorani • Vladimir Morozov
-#cppcon-2014-0007
+#cppcon-2014-0115
 The sqlpp11-connector experiment, Part 2
 Roland Bock
 
 9:00am PDT
-#cppcon-2014-0007
+#cppcon-2014-0116
 Accept No Visitors
 Yuriy Solodkyy
-#cppcon-2014-0007
+#cppcon-2014-0117
 await 2.0: Stackless Resumable Functions
 Gor Nishanov
-#cppcon-2014-0007
+#cppcon-2014-0118
 Boost: a Bridge from C++98 to C++11; An introduction to using Boost
 Rachel Cheng • Michael VanLoon
-#cppcon-2014-0007
+#cppcon-2014-0119
 Hardening your code
 Marshall Clow
-#cppcon-2014-0007
+#cppcon-2014-0120
 What did C++ do for Transactional Memory?
 Michael Wong
 
 10:30am PDT
-#cppcon-2014-0007
+#cppcon-2014-0121
 Back to the Basics! Essentials of Modern C++ Style
 Herb Sutter
 
 12:00pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0122
 Game Dev lunch / BoF
 Remy Saville
 
 2:00pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0123
 Paying for Lunch: C++ in the ManyCore Age
 Herb Sutter • Pablo Halpern • Jared Hoberock • Artur Laksberg • Ade Miller • Gor Nishanov • Michael Wong
 
 3:15pm PDT
-#cppcon-2014-0007
+#cppcon-2014-0124
 Closing
 Jon Kalb

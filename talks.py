@@ -2,13 +2,18 @@
 #
 # File      : talks.py
 # Part of   : the Free C++ Talks List (FCTL)
-# Copyright : wouter@voti.nl 2020
+# Copyright : wouter van ooijen 2020
 # home      : https://www.github.com/wovo/fctl
 #
 # This code is distributed under the Boost Software License, Version 1.0.
-# (See accompanying file LICENSE_1_0.txt or copy at 
+# (See accompanying BOOST-license.txt file or copy at 
 # http://www.boost.org/LICENSE_1_0.txt)
 #
+# ===========================================================================
+
+import glob, os, pickle
+
+
 # ===========================================================================
 
 class talk:
@@ -21,6 +26,7 @@ class talk:
       - title       : the title of the talk
       - speakers    : (python list of strings) the speaker(s)
       - video       : url of the video (probably on youtube)
+      - thumbnail   : url of a thumbnail of the video (probably also on youtube)
       - duration    : (int) length of the video in minutes
       - tags        : (list of strings) the tags of the talk
       - level       : (int) the level of the talk (1 novice, 10 expert, 0 unknow)
@@ -30,8 +36,10 @@ class talk:
          identifier, 
          conference, 
          edition,
+         title,
          speakers, 
          video, 
+         thumbnail, 
          duration,
          tags = [],
          level = 0
@@ -40,8 +48,11 @@ class talk:
       self.year = year
       self.title = title
       self.speakers = speakers
-      self.video = None
-      self.duration = 0
+      self.video = video
+      self.thumbnail = thumbnail
+      self.duration = duration
+      self.tags = tags
+      self.tags = level
       
       if google and ( self.video == None ):
          search = title + " " + conference + " " + year + " " + " ".join( speakers )
@@ -87,7 +98,7 @@ class talks:
    
    def __init__( self, file_name = None ):
       """
-      create an empty talks object, optionally reading it from the file
+      create an empty talks object, optionally reading its content from a file
       """
       self.list = []
       self.dict = dict()
@@ -95,6 +106,10 @@ class talks:
       self.editions = {}
       self.speakers = {}
       self.tags = {}
+      if file_name != none:
+         file = open( file_name, "rb" )
+         this = pickle.load( file )
+         fiole.close()
       
    def add( self, talk ):
       """
@@ -114,7 +129,18 @@ class talks:
       """
       write the talks object to a file
       """   
+      file = open( self, "wb")
+      pickle.dump( example_dict, file )
+      file.close()      
       
    # read and write tags and other extra info?
 
       
+# ===========================================================================
+
+def all_talks( selection = "*/*.talks"):
+   all = talks()
+   for file in glob.glob( selection ):
+      for talk = talks( file ).list:
+         all.add( talk )
+   return all
