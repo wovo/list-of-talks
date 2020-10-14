@@ -14,7 +14,8 @@ Monday, September 8
 Registration
 
 8:45am PDT
-#cppcon-2014-0001
+// not on youtube?
+// #cppcon-2014-0001
 Conference Welcome
 Jon Kalb
 
@@ -103,18 +104,21 @@ Rebuilding Boost Date-Time for C++11
 Jeff Garland
 
 8:30pm PDT
-#cppcon-2014-0026
+// not on youtube?
+// #cppcon-2014-0026
 Boost Library Writers Workshop, Part 1
 Robert Ramey
 #cppcon-2014-0027
-Mixins
+// not on youtube?
+// Mixins
 Roland Bock
 #cppcon-2014-0028
 Meet the Authors
 Chandler Carruth • Alex Allain • Kate Gregory • John Lakos • Scott Meyers • Ade Miller • Peter Sommerlad • Herb Sutter • Michael Wong
 
 9:15pm PDT
-#cppcon-2014-0029
+// not on youtube?
+// #cppcon-2014-0029
 Boost Library Writers Workshop, Part 2
 Robert Ramey
 
@@ -204,15 +208,17 @@ Alisdair Meredith
 #cppcon-2014-0053
 The sqlpp11-connector experiment, Part 1
 Roland Bock
-#cppcon-2014-0054
+// not found on youtube
+// #cppcon-2014-0054
 Coupled Multi-Physics Simulations in the Exascale Era and Its Implications on C++17
 Yahya H. Mirza
-#cppcon-2014-0055
+
 Lightning Talks
 Kate Gregory • Jonathan Caves • Shy Shalom • Julian Smith • Peter Sommerlad • Martin Troxler • Jeff Trull • Michael VanLoon • Jens Weller • Leor Zolman
 
 9:15pm PDT
-#cppcon-2014-0056
+// not found on youtube
+// #cppcon-2014-0056
 Computer Book Publishing Today: The Seven Deadly Sins Revisited
 Gregory Doench
 
@@ -220,7 +226,7 @@ Gregory Doench
 Wednesday, September 10
  
 8:00am PDT
-#cppcon-2014-0057
+
 Lightning Talks
 Kate Gregory • Jonathan Caves • Brett Hall • Michael VanLoon • Andy Webber
 
@@ -303,10 +309,12 @@ The perils of strict-aliasing
 Andy Webber
 
 8:30pm PDT
-#cppcon-2014-0080
+// not found on youtube
+// #cppcon-2014-0080
 Real world reversible debugging for C/C++ developers on Linux
 Julian Smith
-#cppcon-2014-0081
+// not found on youtube
+// #cppcon-2014-0081
 The JUCE framework - creative C++ coding in large-scale applications
 Julian Storer
 #cppcon-2014-0082
@@ -317,7 +325,7 @@ Jon Kalb • Walter E. Brown • Chandler Carruth • Marshall Clow • Pablo Ha
 Thursday, September 11
  
 8:00am PDT
-#cppcon-2014-0083
+
 Lightning Talks
 Roland Bock • Kevin Carpenter • Boris Kolpackov • Karl Niu • Ken Smith
 
@@ -348,7 +356,8 @@ Data-Oriented Design and C++
 Mike Acton
 
 12:00pm PDT
-#cppcon-2014-0092
+// not found on youtube
+// #cppcon-2014-0092
 Gamers/Interactive High Performance real time Bof
 Michael Wong
 
@@ -410,13 +419,15 @@ Types Don't Know #
 Howard Hinnant
 
 8:30pm PDT
-#cppcon-2014-0110
+// not found on youtube
+// #cppcon-2014-0110
 How one might build a compile time format library
 Michael Park
 #cppcon-2014-0111
 Software Transactional Memory, For Reals
 Brett Hall
-#cppcon-2014-0112
+// not found on youtube
+// #cppcon-2014-0112
 CppCon 2015 Kick-off Meeting
 Jon Kalb
 
@@ -424,10 +435,11 @@ Jon Kalb
 Friday, September 12
  
 8:00am PDT
-#cppcon-2014-0113
+
 Lightning Talks
 Kate Gregory • Michael Caisse • Marc Eaddy • Lenny Maiorani • Vladimir Morozov
-#cppcon-2014-0114
+// not found on youtube
+// #cppcon-2014-0114
 The sqlpp11-connector experiment, Part 2
 Roland Bock
 
@@ -454,7 +466,8 @@ Back to the Basics! Essentials of Modern C++ Style
 Herb Sutter
 
 12:00pm PDT
-#cppcon-2014-0121
+// not found on youtube
+// #cppcon-2014-0121
 Game Dev lunch / BoF
 Remy Saville
 
@@ -464,6 +477,69 @@ Paying for Lunch: C++ in the ManyCore Age
 Herb Sutter • Pablo Halpern • Jared Hoberock • Artur Laksberg • Ade Miller • Gor Nishanov • Michael Wong
 
 3:15pm PDT
-#cppcon-2014-0123
+// not found on youtube
+// #cppcon-2014-0123
 Closing
 Jon Kalb
+
+// lighning talks added from youtube
+
+#cppcon-2014-0900
+Pimp my Log()
+Marc Eaddy 
+
+#cppcon-2014-0901
+Boostache
+Michael Caisse 
+
+#cppcon-2014-0902
+Cross Platform GUID Association with Types
+Vladimir Morozov 
+
+#cppcon-2014-0903
+Test-Drive Performance
+Lenny Maiorani 
+
+#cppcon-2014-0904
+C++ Package Manager
+Boris Kolpackov 
+
+#cppcon-2014-0905
+Convergent Evolution
+Karl Niu 
+
+#cppcon-2014-0906
+C++ Hardware Register Access
+Ken Smith 
+
+#cppcon-2014-0907
+My Four Year Bug
+Kevin Carpenter 
+
+#cppcon-2014-0908
+Anatomy of a Smart Pointer
+Michael VanLoon 
+
+#cppcon-2014-0909
+The New Old Thing, of Fun with Lambdas
+Jonathan Caves 
+
+#cppcon-2014-0910
+Software Transaction Memory, For Reals
+Brett Hall 
+
+#cppcon-2014-0911
+The Perils of Strict Aliasing
+Andy Webber 
+
+#cppcon-2014-0912
+Writing A Python Interpreter for Fun & Profit
+Shy Shalom 
+
+#cppcon-2014-0913
+Jeff Trull 
+Rolling Your Own Circuit Simulator
+
+#cppcon-2014-0914
+Introduction to Undodb
+Julian Smith 

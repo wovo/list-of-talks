@@ -112,12 +112,16 @@ def make_talk(
       level = 0
       match = []
       
+      title2 = title
+      if title2.endswith( " I" ): title2 = '"%s"' % title2
+      if title2.endswith( " II" ): title2 = '"%s"' % title2
+      
       if youtube:
-         search_terms = speakers + [ conference, edition, title ]
+         search_terms = speakers + [ conference, edition, title2 ]
          match = search.YoutubeSearch( " ".join( search_terms ) ).to_dict()
          if len( match ) == 0:
             # try without the speakers
-            search_terms = [ conference, edition, title ]
+            search_terms = [ conference, edition, title2 ]
             match = search.YoutubeSearch( " ".join( search_terms ) ).to_dict()
             if len( match ) == 0:
                print( "video not found for [ %s ]" % " ".join( search_terms ))   
@@ -142,46 +146,12 @@ def make_talk(
       )
       
       
-# ===========================================================================
-
-def process_cppcon( year, edition, lines, youtube, progress ):
-   found_talks = talk.talks()     
-   state = 0
-   for nr, line in lines:
-      if progress:
-         sys.stdout.write( "\rCppCon %s line %d     " % ( year, nr ))
-         sys.stdout.flush()
-      if 0: print( state, line )
-      if ( state == 2 ) and line.strip().endswith( ")" ):
-         # 2016 and earlier had room lines
-         pass
-      elif state == 1:
-         title = line.strip()
-         state = 2
-         
-      # ccpcon 2016 has title-room-speakers
-      elif state == 2 and not line.strip().endswith( ")" ):
-         speakers = line.strip()
-         state = 1
-         if 0: print( speakers, title )         
-         if speakers != '' and not title.startswith( "Book Signing" ):
-            found_talks.add( talks.talk( 
-               conference = "CppCon",
-               edition = edition,
-               title = title, 
-               speakers = speakers.split( '@' ),
-               youtube = youtube
-            ))
-      if line.strip().endswith( "MDT" ) or line.strip().endswith( "PDT" ) : 
-         state = 1
-      if line.strip() == "": 
-         state = 0
-   return found_talks
-   
+# =========================================================================== 
    
 def process_title_author( conference, edition, lines, youtube, progress ):
    found_talks = talks.talks()     
    state = 0
+   found = {}
    for nr, line in lines:
       if line.startswith( "#locked" ):
          pass
@@ -202,6 +172,11 @@ def process_title_author( conference, edition, lines, youtube, progress ):
          if progress:
             sys.stdout.write( "\r%s   " % identification )
             sys.stdout.flush()
+            
+         key = title + " " + speakers
+         if key in found:
+            print( "duplicate: %s %s" % ( found[ key ], identification ))
+         found[ key ] = identification   
             
          found_talks.add( make_talk( 
             identifier  = identification,

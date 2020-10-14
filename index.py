@@ -19,7 +19,7 @@ file = open( "index.html", "w" )
 for talk in talks.talks( "all.talks" ).list:
    file.write( "<img src='%s' height=100><BR>\n" % ( talk.thumbnail ))
    file.write( "%s<BR>\n" % ( talk.identifier ))
-   file.write( "<A HREF='%s'>%s</A><BR>\n" % ( talk.video, talk.title ))
+   file.write( "<A HREF='%s' target=_blank>%s</A><BR>\n" % ( talk.video, talk.title ))
    file.write( "%s<BR>\n" % ( ", ".join( talk.speakers )))
    file.write( "<BR>\n" )
 file.close()

@@ -2,22 +2,27 @@
 Saturday, September 22
  
 09:00 PDT
-#cppcon-2018-0001
+// not findable on youtube
+//#cppcon-2018-0001
 Advanced and Modern C++ Programming: The Tricky Parts
 Nicolai Josuttis
-#cppcon-2018-0002
+// not on youtube?
+// #cppcon-2018-0002
 Concurrency with Modern C++
 Rainer Grimm
 #cppcon-2018-0003
 Interface Design for Modern C++
 Bob Steagall
-#cppcon-2018-0004
+// not on youtube
+// #cppcon-2018-0004
 Modern C++ Template Programming
 Stephen Dewhurst
-#cppcon-2018-0005
+// not on youtube
+//#cppcon-2018-0005
 Modernizing Your C++
 Michael Caisse
-#cppcon-2018-0006
+// not on youtube
+//#cppcon-2018-0006
 Thinking Small
 Patrice Roy
 
