@@ -43,26 +43,17 @@ class talk:
          duration,
          tags = [],
          level = 0
-      ):
+   ):
+      self.identifier = identifier
       self.conference = conference
-      self.year = year
+      self.edition = edition
       self.title = title
       self.speakers = speakers
       self.video = video
       self.thumbnail = thumbnail
       self.duration = duration
       self.tags = tags
-      self.tags = level
-      
-      if google and ( self.video == None ):
-         search = title + " " + conference + " " + year + " " + " ".join( speakers )
-         match = youtube_find( search )
-         if len( match ) > 0:
-            match = match[ 0 ]
-            self.duration = time_in_minutes( match[ "duration" ] )
-            self.video = "https://youtube.com" + match[ "url_suffix" ]
-         else:
-            print( "definitely not found [%s]" % search )
+      self.level = level
       
    def __str__( self ):
       return "%s : [%s]" % ( self.speakers, self.title )
@@ -102,14 +93,15 @@ class talks:
       """
       self.list = []
       self.dict = dict()
-      self.conferences = {}
-      self.editions = {}
-      self.speakers = {}
-      self.tags = {}
-      if file_name != none:
+      self.conferences = set()
+      self.editions = set()
+      self.speakers = set()
+      self.tags = set()
+      if file_name != None:
          file = open( file_name, "rb" )
-         this = pickle.load( file )
-         fiole.close()
+         for t in pickle.load( file ).list:
+            self.add( t )
+         file.close()
       
    def add( self, talk ):
       """
@@ -129,8 +121,8 @@ class talks:
       """
       write the talks object to a file
       """   
-      file = open( self, "wb")
-      pickle.dump( example_dict, file )
+      file = open( file_name, "wb" )
+      pickle.dump( self, file )
       file.close()      
       
    # read and write tags and other extra info?
@@ -141,6 +133,6 @@ class talks:
 def all_talks( selection = "*/*.talks"):
    all = talks()
    for file in glob.glob( selection ):
-      for talk = talks( file ).list:
+      for talk in talks( file ).list:
          all.add( talk )
    return all

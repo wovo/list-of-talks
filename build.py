@@ -101,9 +101,9 @@ def make_talk(
       speakers,
       youtube
    ):
-   """   
-   return a talk object from the info found in a conference schedule
-   """
+      """   
+      return a talk object from the info found in a conference schedule
+      """
    
       video = ""
       thumbnail = ""
@@ -113,27 +113,30 @@ def make_talk(
       match = []
       
       if youtube:
-         search_terms = title + " " + conference + " " + year 
-         search_terms += " " + " ".join( speakers )
-         match = youtube_find( search_terms ).to_dict()
+         search_terms = speakers + [ conference, edition, title ]
+         match = search.YoutubeSearch( " ".join( search_terms ) ).to_dict()
          if len( match ) == 0:
-            print( "video not found for [%s]" % search_terms )   
+            # try without the speakers
+            search_terms = [ conference, edition, title ]
+            match = search.YoutubeSearch( " ".join( search_terms ) ).to_dict()
+            if len( match ) == 0:
+               print( "video not found for [ %s ]" % " ".join( search_terms ))   
             
       if len( match ) > 0:
          match = match[ 0 ]
          video       = "https://youtube.com" + match[ "url_suffix" ]
-         thumbnail   = "https://youtube.com" + match[ "thumbnail" ]
+         thumbnail   = match[ "thumbnails" ][ 0 ].split( "?" )[ 0 ]
          duration    = time_in_minutes( match[ "duration" ] )
           
       return talks.talk(
-         identifier  = identifier,, 
+         identifier  = identifier,
          conference  = conference, 
          edition     = edition,
          title       = title,
          speakers    = speakers, 
          video       = video,
-         thumbnail   = thumbnail
-         duration    = duration
+         thumbnail   = thumbnail,
+         duration    = duration,
          tags        = tags,
          level       = level      
       )
@@ -141,7 +144,7 @@ def make_talk(
       
 # ===========================================================================
 
-def process_cppcon( year, progress, lines, youtube, progress ):
+def process_cppcon( year, edition, lines, youtube, progress ):
    found_talks = talk.talks()     
    state = 0
    for nr, line in lines:
@@ -155,13 +158,14 @@ def process_cppcon( year, progress, lines, youtube, progress ):
       elif state == 1:
          title = line.strip()
          state = 2
-      elif state == 2:
+         
+      # ccpcon 2016 has title-room-speakers
+      elif state == 2 and not line.strip().endswith( ")" ):
          speakers = line.strip()
          state = 1
          if 0: print( speakers, title )         
          if speakers != '' and not title.startswith( "Book Signing" ):
             found_talks.add( talks.talk( 
-               identifier
                conference = "CppCon",
                edition = edition,
                title = title, 
@@ -174,6 +178,40 @@ def process_cppcon( year, progress, lines, youtube, progress ):
          state = 0
    return found_talks
    
+   
+def process_title_author( conference, edition, lines, youtube, progress ):
+   found_talks = talks.talks()     
+   state = 0
+   for nr, line in lines:
+      if line.startswith( "#locked" ):
+         pass
+         
+      elif ( state == 0 ) and line.startswith( "#" ):
+         state = 1
+         identification = line[:]
+         
+      elif state == 1:
+         state = 2
+         title = line[:]
+         
+      # ccpcon 2016 has title-room-speakers
+      elif state == 2 and not line.endswith( ")" ):         
+         speakers = line[:]
+         state = 0
+         
+         if progress:
+            sys.stdout.write( "\r%s   " % identification )
+            sys.stdout.flush()
+            
+         found_talks.add( make_talk( 
+            identifier  = identification,
+            conference  = conference,
+            edition     = edition,
+            title       = title, 
+            speakers    = speakers.split( '@' ),
+            youtube     = youtube
+         ))
+   return found_talks   
    
 # ===========================================================================
 
@@ -188,15 +226,17 @@ def process( processor, conference, edition, youtube , progress ):
       lines = []
       for line in file.readlines():
          nr += 1
+         line = make_ascii( line.strip() )
          if not is_ascii( line ):
-            print( "%s:%d : non ascii : [%s]" % ( file_name, nr, line ))         
-         lines.append( [ nr, make_ascii( line ) ] )
+            print( "%s:%d : non ascii" % ( file_name, nr ))         
+            exit( -1 )
+         lines.append( [ nr, line ] )
          
       talks = processor( conference, edition, lines, youtube, progress )
-      talks.write( file_name.replace( ".txt", ".talks" )
+      talks.write( file_name.replace( ".txt", ".talks" ))
       
    if progress:
-      print( "%d files processed" % n_files )
+      print( "%d file(s) processed" % n_files )
       
 def main( args ):
         
@@ -209,17 +249,17 @@ def main( args ):
       elif args[ 0 ] == "-noprogress":  
          progress = False
       else:
-         print( "unknown option [%s]" % args[ 0 ]
+         print( "unknown option [%s]" % args[ 0 ] )
          exit( -1 )
       args = args[ 1 : ]      
       
    if len( args ) != 2:
       print( "usage: build [options] <conference> <edition>" )
-      print( "options: -noyoutube, -noprogress
+      print( "options: -noyoutube, -noprogress" )
       exit( -1 )
       
    if args[ 0 ] == "cppcon":
-      process( process_cppcon, args[ 0 ], args[ 1 ], youtube, progress )
+      process( process_title_author, args[ 0 ], args[ 1 ], youtube, progress )
 
    else:
       print( "unknown conference type [%s]", args[ 0 ] )

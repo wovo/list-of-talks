@@ -23,12 +23,24 @@ in a subdirectory for each conference, in a text file <edition>.txt
 In most cases the edition is the year, but there are exceptions
 like accu which has a 2019-autumn conference.
 In each schedulke file, I added identifier lines (starting with a #)
-that uniquely identify each talk. These must never be changed,
+that uniquely identify each talk. 
+These must never be changed,
 but can be removed, or new ones can be added later, provided that
 they remain in alphabetical order.
+The renumber.py script makes this somewhat easier, but
+don't forget to put a #locked line in the file once it has
+its identifiers.
+
+- special chars
+- check youtube non-founds, comment out with a noted
+- often not the correct youtube found, and the thumbnail is often notb helpfull
 
 Next I wrote a Python function for each conference that extracts
-the talks. 
+the talks. In most cases 
+- separate speakers
+- special chars
+- surname swapper
+- must add duplicate detection within an edition
 
 
 ToDo

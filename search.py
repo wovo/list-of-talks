@@ -14,6 +14,14 @@
 
 import requests, urllib.parse, json
 
+nn = 0
+
+def force_ascii( s ):
+   r = ""
+   for c in s:
+      if ord(c) < 128: r += c
+   return r   
+
 class YoutubeSearch:
     def __init__(self, search_terms: str, max_results=None):
         self.search_terms = search_terms
@@ -27,7 +35,7 @@ class YoutubeSearch:
         self.response = requests.get(self.url).text
         while 'window["ytInitialData"]' not in self.response:
             self.response = requests.get(self.url).text
-        self.response = force_ascii( self.response )
+        # self.response = force_ascii( self.response )
         results = self.parse_html(self.response)
         if self.max_results is not None and len(results) > self.max_results:
             return results[: self.max_results]
@@ -44,11 +52,16 @@ class YoutubeSearch:
         json_str = response[start:end]
         data = json.loads(json_str)
 
+        if 0: # debugging
+           global nn
+           nn += 1
+           open( str( nn ) + "-log.txt", "w" ).write( force_ascii( json_str ))
+
         # this and next part modified
         videos = data["contents"]["twoColumnSearchResultsRenderer"]["primaryContents"][
             "sectionListRenderer"]["contents"]
         # [0]["itemSectionRenderer"]["contents"]
-
+        
         for content in videos:
           if "itemSectionRenderer" in content:
            for video in content["itemSectionRenderer"]["contents"]:

@@ -22,6 +22,9 @@ def renumber( file_name ):
    file = open( file_name, "r", encoding='utf-8', errors='replace' )
    nr = 0
    for line in file.readlines():
+      if line.startswith( "#locked" ):
+         print( "file has a #locked line - not renumbered" )
+         exit( -1 )
       if line.startswith( "#" ):
          line = line[ : -1 ]
          nr += 1
@@ -31,7 +34,7 @@ def renumber( file_name ):
       result.append( line )
    file.close()
    
-   file = open( file_name + "x", "w", encoding='utf-8', errors='replace' )
+   file = open( file_name, "w", encoding='utf-8', errors='replace' )
    for line in result:
       file.write( line )
    file.close()   
