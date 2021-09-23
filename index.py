@@ -15,11 +15,19 @@
 
 import talks
 
+all = talks.talks( "all.talks" )
+
 file = open( "index.html", "w" )
-for talk in talks.talks( "all.talks" ).list:
+for talk in all.list:
    file.write( "<img src='%s' height=100><BR>\n" % ( talk.thumbnail ))
    file.write( "%s<BR>\n" % ( talk.identifier ))
    file.write( "<A HREF='%s' target=_blank>%s</A><BR>\n" % ( talk.video, talk.title ))
    file.write( "%s<BR>\n" % ( ", ".join( talk.speakers )))
    file.write( "<BR>\n" )
 file.close()
+
+all.speakers.sort()
+file = open( "speakers.txt", "w" )
+for speaker in all.speakers.sort:
+   file.write( speaker )
+file.close()   

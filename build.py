@@ -233,7 +233,7 @@ def main( args ):
       print( "options: -noyoutube, -noprogress" )
       exit( -1 )
       
-   if args[ 0 ] == "cppcon":
+   if args[ 0 ] in [ "accu", "cppcon" ]:
       process( process_title_author, args[ 0 ], args[ 1 ], youtube, progress )
 
    else:

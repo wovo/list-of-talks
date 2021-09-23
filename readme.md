@@ -40,26 +40,19 @@ the talks. In most cases
 - separate speakers
 - special chars
 - surname swapper
-- must add duplicate detection within an edition
 
+klaar met 
+   - cppcon 2014
+   - accu 2016
 
 ToDo
    - more conferences
-   - check correctness
-   - find way to ID individual talks - year + sequence#?
+   - more editions
+   - find meeting c++ before 2016
    - sanitize the list of speakers (spelling errors)
-   - number when no numbers yet #00001
    - meetingcpp 2015 different format, earlier not found
    - also non-conferences??
    - additional information, like sheets?
-   
-Process
-   - command summary: build.py test|process|talks conference edition|*
-   - find and download the schedule of each edition
-   - write or check the processor (test command)
-   - edit the schedule with ##edition and #0001 identifiers
-   - process the schedule to create the .talks file(s) (process command)
-   - create the all-in-one *.talks file and the index.html interface
   
 Interesting caveats found:
    - some conferences are held more than once a year (accu, corehard)
@@ -67,5 +60,10 @@ Interesting caveats found:
    - not all texts (authors names, and even titles) are in ASCII
    - the python YoutubeSearch has a bug that pops up (only) occasionally
    - not all conferences have all schedules available
-   - to add tags later, each talk must have a identifier that never changes
+   - to add tags later, each talk must have a identifier that never ever changes
+   - lots of talks on the (earlier?) schedules can't be found on youtube
+   - c++now schedule up to 2017 doesn't mention the speakers
+   - meeting-c++ 2016 had a different schedule formatting
+   - older schedules often not available, but a youtube playlist is!
+   
    
