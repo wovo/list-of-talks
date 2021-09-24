@@ -6,18 +6,12 @@
 # repo      : https://www.github.com/wovo/fctl
 #
 # This code is distributed under the Boost Software License, Version 1.0.
-# (See accompanying boost.txt file or copy at 
+# (See accompanying BOOST-license.txt file or copy at 
 # http://www.boost.org/LICENSE_1_0.txt)
-#
-# dependecies: request, pafy, youtube-dl
-#
-# C:\Python39\lib\site-packages\pafy\backend_youtube_dl.py", line 53
-# changed to [] to get( .., 0 )
-# same for dislikes
 #
 # ===========================================================================
 
-import sys, glob, os, json, urllib.request, re, pafy
+import sys, glob, os, json, youtube_search
 
 def time_in_minutes( time ):
    # from https://stackoverflow.com/questions/10663720
@@ -54,19 +48,6 @@ replacements = {
    "ć": "c",
    "Á": "A",
    "Ł": "L",
-   "ö": "o",
-   "Č": "C",
-   "ć": "c",
-   "ä": "a",
-   "ë": "e",
-   "ó": "o",
-   "ś": "s",
-   "ę": "e",
-   "ź": "z",
-   "î": "i",
-   "ą": "a",
-   "ă": "a",
-   "ț": "t",
    "x": "x",
    "x": "x",
    "x": "x",
@@ -116,20 +97,20 @@ class talk:
    """
 
    def __init__( self, 
-         identifier  : str, 
-         meeting     : str, 
-         edition     : str,
-         title       : str,
-         speakers    : str, 
-         video       : str, 
-         thumbnail   : str, 
-         duration    : str,
-         tags        : list[ str ] = [],
+         identifier  : string, 
+         meeting     : string, 
+         edition     : string,
+         title       : string,
+         speakers    : string, 
+         video       : string, 
+         thumbnail   : string, 
+         duration    : string,
+         tags        : List[ string ] = [],
          level       : int = 0,
-         language    : str = "english"
+         language    : string = "english"
    ):
       self.identifier  = identifier
-      self.meeting     = meeting
+      self.conference  = conference
       self.edition     = edition
       self.title       = title
       self.speakers    = speakers
@@ -139,15 +120,6 @@ class talk:
       self.tags        = tags
       self.level       = level
       self.language    = language
-      
-   def to_json( self ):
-      return json.dumps( self, 
-         default = lambda o: o.__dict__, 
-         sort_keys = True, 
-         indent = 3 )      
-      
-      
-def pipo():      
       
    def __str__( self ):
       return "(%s) %s : [%s]" % ( self.identifier, self.speakers, self.title )
@@ -188,7 +160,7 @@ class talks:
       """
       self.list         = []
       self.dict         = dict()
-      self.meetings     = set()
+      self.conferences  = set()
       self.editions     = set()
       self.speakers     = set()
       self.tags         = set()
@@ -196,6 +168,16 @@ class talks:
       if file_name != None:
          self.read_json( file_name )
          
+   def read_json( self, file_name = "talks.json" ):
+      """      
+      read and add talks from a json file
+      """
+      file = open( file_name, "r" )
+      list = json.loads( fileObject.read() )
+      file.close()
+      for talk in list:
+         self.add( talk )
+      
    def add( self, talk ):
       """
       add a single talk
@@ -205,60 +187,32 @@ class talks:
          exit( -1 )
       self.list.append( talk )
       self.dict[ talk.identifier ] = talk
-      self.meetings.add( talk.meeting )      
+      self.conferences.add( talk.conference )      
       self.editions.add( talk.edition )
       self.speakers.update( talk.speakers ) 
       self.tags.update( talk.tags )  
-      self.languages.update( talk.language )  
+      self.language.update( talk.language )  
 
+   def write_json( self, file_name = "talks.json" ):
+      """
+      write the talks to a json file
+      """   
+      file = open( file_name, "w" )
+      file.write( json.dumps( self.list )
+      file.close()  
+      
    def write_html( self, file_name = "index.html" ):
       """
       write the talks to a simple html file
       """   
-      file = open( file_name, "w" )
-      for talk in self.list:
+      file = open( "index.html", "w" )
+      for talk in self.talks( "all.talks" ).list:
          file.write( "<img src='%s' height=100><BR>\n" % ( talk.thumbnail ))
          file.write( "%s<BR>\n" % ( talk.identifier ))
          file.write( "<A HREF='%s' target=_blank>%s</A><BR>\n" % ( talk.video, talk.title ))
          file.write( "%s<BR>\n" % ( ", ".join( talk.speakers )))
          file.write( "<BR>\n" )
       file.close()      
-      
-   def write_json( self, file_name = "talks.json" ):
-      """
-      write the talks to a json file
-      """   
-      file = open( file_name, "w" )
-      file.write( "{ \"list\": [" )
-      separator = ""
-      for talk in self.list:
-         file.write( separator )
-         separator = ","
-         file.write( talk.to_json() )
-      file.write( "]}" )     
-      file.close()  
-      
-   def read_json( self, file_name = "talks.json" ):
-      """      
-      read and add talks from a json file
-      """
-      file = open( file_name, "r" )
-      x = json.loads( file.read() )
-      file.close()
-      for t in x[ "list" ]:
-         self.add( talk(
-            t[ "identifier" ],
-            t[ "meeting" ],
-            t[ "edition" ],
-            t[ "title" ],
-            t[ "speakers" ],
-            t[ "video" ],
-            t[ "thumbnail" ],
-            t[ "duration" ],
-            t[ "tags" ],
-            t[ "level" ],
-            t[ "language" ],
-         ) )
       
 
 # ===========================================================================
@@ -295,18 +249,9 @@ def renumber( file_name ):
    
 # ===========================================================================   
 
-def search_youtube( s ):
-   s = ( "+".join( s ) ).replace( " ", "+" )
-   html = urllib.request.urlopen( 
-      "https://www.youtube.com/results?search_query=" + s )
-   video_ids = re.findall( r"watch\?v=(\S{11})", html.read().decode() )
-   return video_ids
-
-# ===========================================================================   
-
 def make_talk(
       identifier,
-      meeting,
+      conference,
       edition,
       title,
       speakers,
@@ -329,27 +274,24 @@ def make_talk(
       if title2.endswith( " II" ): title2 = '"%s"' % title2
       
       if youtube:
-         search_terms = speakers + [ meeting, edition, title2 ]
-         #print( "search %s" % " ".join( search_terms ) )
-         match = search_youtube( search_terms )
-         #print( "done" )
+         search_terms = speakers + [ conference, edition, title2 ]
+         match = search.YoutubeSearch( " ".join( search_terms ) ).to_dict()
          if len( match ) == 0:
             # try without the speakers
-            search_terms = [ meeting, edition, title2 ]
-            #print( "search 2" )
-            match = search_youtube( search_terms )
-            #print( "done 2" )
+            search_terms = [ conference, edition, title2 ]
+            match = search.YoutubeSearch( " ".join( search_terms ) ).to_dict()
             if len( match ) == 0:
                print( "video not found for [ %s ]" % " ".join( search_terms ))   
             
       if len( match ) > 0:
-         video       = "https://youtube.com/watch?v=%s" % match[ 0 ]
-         thumbnail   = "http://img.youtube.com/vi/%s/0.jpg" % match[ 0 ]
-         duration    = pafy.new( video ).length
+         match = match[ 0 ]
+         video       = "https://youtube.com" + match[ "url_suffix" ]
+         thumbnail   = match[ "thumbnails" ][ 0 ].split( "?" )[ 0 ]
+         duration    = time_in_minutes( match[ "duration" ] )
           
-      return talk(
+      return talks.talk(
          identifier  = identifier,
-         meeting     = meeting, 
+         conference  = conference, 
          edition     = edition,
          title       = title,
          speakers    = speakers, 
@@ -364,8 +306,8 @@ def make_talk(
       
 # =========================================================================== 
    
-def process_marker_title_author( meeting, edition, lines, youtube, progress ):
-   found_talks = []    
+def process_title_author( conference, edition, lines, youtube, progress ):
+   found_talks = talks.talks()     
    state = 0
    found = {}
    for nr, line in lines:
@@ -374,7 +316,7 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
          
       elif ( state == 0 ) and line.startswith( "#" ):
          state = 1
-         identification = line[:].replace( "marker", meeting + "-" + edition )
+         identification = line[:]
          
       elif state == 1:
          state = 2
@@ -394,28 +336,23 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
             print( "duplicate: %s %s" % ( found[ key ], identification ))
          found[ key ] = identification   
             
-         found_talks.append( make_talk( 
+         found_talks.add( make_talk( 
             identifier  = identification,
-            meeting     = meeting,
+            conference  = conference,
             edition     = edition,
             title       = title, 
             speakers    = speakers.split( '@' ),
             youtube     = youtube
          ))
-         
    return found_talks   
    
    
 # ===========================================================================
 
-def add_talks( talks, files, youtube, progress ):
+def process( processor, conference, edition, youtube , progress ):
 
    n_files = 0
-   tags = []
-   meeting = None
-   edition = None
-   language = None
-   for file_name in glob.glob( files ):
+   for file_name in glob.glob( conference + "/" + edition + ".txt" ):
    
       n_files += 1
       file = open( file_name, "r", encoding='utf-8', errors='replace' )
@@ -426,88 +363,97 @@ def add_talks( talks, files, youtube, progress ):
          line = make_ascii( line.strip() )
          if not is_ascii( line ):
             print( "%s:%d : non ascii" % ( file_name, nr ))         
-            for c in line:
-               if not is_ascii( c ):
-                  print( "[%s]" % c )
             exit( -1 )
          lines.append( [ nr, line ] )
-         if line.startswith( "$add" ):
-            split = line.split( " " )[ 1 : ]
-            if split[ 0 ] == "meeting":
-               meeting = split[ 1 ]
-            elif split[ 0 ] == "edition":
-               edition = split[ 1 ]
-            elif split[ 0 ] == "language":
-               language = split[ 1 ]
-            elif split[ 0 ] == "tags":
-               tags.extend( split[ 1 : ] )      
-            else:
-               print( "unknow $add [%s]" % line )
-               exit( -1 )
          
-      if meeting == None or edition == None or language == None:
-         print( "no meeting, edition, language set" )
-         exit( -1 )
-         
-      new_talks = process_marker_title_author( meeting, edition, lines, youtube, progress )
-      for t in new_talks:
-         t.tags.extend( tags )
-         if language != None: t.language = language
-         talks.add( t )
+      talks = processor( conference, edition, lines, youtube, progress )
+      talks.write( file_name.replace( ".txt", ".talks" ))
+      
+   if progress:
+      print( "%d file(s) processed" % n_files )
       
       
 # ===========================================================================
 
-def command_line_command( args, c, f ):
-   if len( args ) > 0 and args[ 0 ] == c:
+def process( files ):    
+      
+   if len( args ) != 2:
+      print( "usage: build [options] <conference> <edition>" )
+      print( "options: -noyoutube, -noprogress" )
+      exit( -1 )
+      
+   if args[ 0 ] == "cppcon":
+      process( process_title_author, args[ 0 ], args[ 1 ], youtube, progress )
+
+   else:
+      print( "unknown conference type [%s]", args[ 0 ] )
+
+
+def command_line_command( n, c, f ):
+   if sys.argv[ n ] == c:
+      n += 1
       youtube = True
       progress = True
-      args.pop( 0 )
       while ( len( args ) > 0 ) and args[ 0 ].startswith( "-" ):
          if args[ 0 ] == "-noyoutube":
             youtube = False
          elif args[ 0 ] == "-noprogress":  
             progress = False
-         else:
-            print( "unknown option [%s]" % args[ 0 ] )
-            exit( -1 )
-         args.pop( 0 ) 
-      if len( args ) > 0:
-         print( "do %s %s" % ( c, args[ 0 ] ))
-         f( args[ 0 ], youtube, progress )    
-         args.pop( 0 )
       else:
-         print( "%s command needs a <file>" % ( s ) )
+         print( "unknown option [%s]" % args[ 0 ] )
          exit( -1 )
+      if sysn.argc > n:
+         f( sys.argv[ n ] )    
+         n += 1
+      else:
+         print( "%s <file>", ( s ) )
+         exit( -1 )
+   return n            
       
-      
-# ===========================================================================
-
 if __name__ == "__main__":
    """
    command line interface
    """
-   args = sys.argv[ 1 : ]
-   if args == []:
+   if sys.argc == 0:
       print( """commands:
          renumber <text_file>
          read_json <json_file>
          write_json <json_file>
          write_html <html_file>
       """ )   
-      exit( -1 )
-   
-   t = talks()
-   while args != []:
-      old_args = args[ : ]
+   else:
+      n = 1
+      t = talks()
+      while sys.argc >= n:
+         q = n
       
-      command_line_command( args, "renumber",    lambda f, y, p: renumber( f ) )
-      command_line_command( args, "read_json",   lambda f, y, p: t.read_json( f ) )
-      command_line_command( args, "write_json",  lambda f, y, p: t.write_json( f ) )
-      command_line_command( args, "write_html",  lambda f, y, p: t.write_html( f ) )
-      command_line_command( args, "add",         lambda f, y, p: add_talks( t, f, y, p ) )
+         n = command_line_command( n,  "renumber",    renumber )
+         n = command_line_command( n,  "read_json",   read_json )
+         n = command_line_command( n,  "write_json",  write_json )
+         n = command_line_command( n,  "write_html",  write_json )
+         n = command_line_command( n,  "process",     process )
                
-      if args == old_args:
-         print( "unknown command %s" % args[ 0 ] )
-         exit( -1 )
+         if q == n:
+            print( "unknown command %s", sys.argv[ n ] )
+            exit( -1 )
       
+      
+# ===========================================================================
+
+def all_talks( selection = "*/*.talks"):
+   all = talks()
+   for file in glob.glob( selection ):
+      for talk in talks( file ).list:
+         all.add( talk )
+   return all
+
+def bla:
+ all = talks.talks()
+ n = 0
+ for file_name in glob.glob( "*/*.talks" ):
+   print( file_name )
+   n += 1
+   for t in talks.talks( file_name ).list:
+      all.add( t )
+ print( "%d file(s) gathered" % n )
+ all.write( "all.talks"       )   

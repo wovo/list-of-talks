@@ -1,0 +1,541 @@
+{ "list": [{
+   "duration": 635,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Walter E Brown"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/NQ4en7o8B-g/0.jpg",
+   "title": "Keynote: A Retrospective from My Perspective",
+   "video": "https://youtube.com/watch?v=NQ4en7o8B-g"
+},{
+   "duration": 3425,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Clare Macrae"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/J27HoZM_PTI/0.jpg",
+   "title": "Quickly and Effectively Testing Legacy C++ Code with Approval Tests",
+   "video": "https://youtube.com/watch?v=J27HoZM_PTI"
+},{
+   "duration": 5801,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Yuri Minaev"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZhCrXetD724/0.jpg",
+   "title": "Hypercritical C++ Code Review",
+   "video": "https://youtube.com/watch?v=ZhCrXetD724"
+},{
+   "duration": 373,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Fergus Cooper"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/HKc2LVxuOZs/0.jpg",
+   "title": "C++20: All the small things",
+   "video": "https://youtube.com/watch?v=HKc2LVxuOZs"
+},{
+   "duration": 3490,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Arno Schoedl"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vrCtS6FDay8/0.jpg",
+   "title": "From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
+   "video": "https://youtube.com/watch?v=vrCtS6FDay8"
+},{
+   "duration": 3533,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Guy Davidson"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LLCgPUYLkSE/0.jpg",
+   "title": "Specialising Linear Algebra for Geometry",
+   "video": "https://youtube.com/watch?v=LLCgPUYLkSE"
+},{
+   "duration": 8370,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Boguslaw Cyganek"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8HuZTeHi7lg/0.jpg",
+   "title": "How accurate we are? A refresher on the floating-point computations and the standard library.",
+   "video": "https://youtube.com/watch?v=8HuZTeHi7lg"
+},{
+   "duration": 3341,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Matt Godbolt"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/HG6c4Kwbv4I/0.jpg",
+   "title": "Correct by Construction: APIs That Are Easy to Use and Hard to Misuse",
+   "video": "https://youtube.com/watch?v=HG6c4Kwbv4I"
+},{
+   "duration": 3486,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Anastasia Kazakova"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/5G3EtDwW4Xs/0.jpg",
+   "title": "C++ ecosystem: the renaissance edition",
+   "video": "https://youtube.com/watch?v=5G3EtDwW4Xs"
+},{
+   "duration": 5775,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Arnaud Desitter"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WX3OmVu4lAs/0.jpg",
+   "title": "Reducing Memory Allocations in a Large C++ Application",
+   "video": "https://youtube.com/watch?v=WX3OmVu4lAs"
+},{
+   "duration": 3433,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Nicolai Josuttis"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/sACa3Ax7YB4/0.jpg",
+   "title": "Keynote: Concurrent Details Matter - Why and How we fixed std::thread by std::jthread",
+   "video": "https://youtube.com/watch?v=sACa3Ax7YB4"
+},{
+   "duration": 3314,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Sy Brand"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4Ji-vFDL52s/0.jpg",
+   "title": "Live Compiler Development with Cross-Platform Tooling",
+   "video": "https://youtube.com/watch?v=4Ji-vFDL52s"
+},{
+   "duration": 7132,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Dawid Zalewski"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/shHHdtVk2ZE/0.jpg",
+   "title": "Structured bindings uncovered",
+   "video": "https://youtube.com/watch?v=shHHdtVk2ZE"
+},{
+   "duration": 4241,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Hendrik Niemeyer"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/tOjZtodXqNQ/0.jpg",
+   "title": "An Introduction to C++20's Concepts",
+   "video": "https://youtube.com/watch?v=tOjZtodXqNQ"
+},{
+   "duration": 5892,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Kate Gregory"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gjEm52HIE04/0.jpg",
+   "title": "Naming is Hard: Let's Do Better",
+   "video": "https://youtube.com/watch?v=gjEm52HIE04"
+},{
+   "duration": 4407,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Danila Kutenin"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ifQMVC8fAdE/0.jpg",
+   "title": "C++ STL best and worst performance features and how to learn from them",
+   "video": "https://youtube.com/watch?v=ifQMVC8fAdE"
+},{
+   "duration": 3793,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Sandor Dargo"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/VK-16tpFQVI/0.jpg",
+   "title": "Undefined behaviour in the STL",
+   "video": "https://youtube.com/watch?v=VK-16tpFQVI"
+},{
+   "duration": 5272,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "JeanHeyd Meneide"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/aZNhSOIvv1Q/0.jpg",
+   "title": "Deep C Diving - Fast and Scalable Text Interfaces at the Bottom",
+   "video": "https://youtube.com/watch?v=aZNhSOIvv1Q"
+},{
+   "duration": 3610,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "A.J. Orians"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/UDs90b0yjjQ/0.jpg",
+   "title": "Improving Readability With Class Template Argument Deduction",
+   "video": "https://youtube.com/watch?v=UDs90b0yjjQ"
+},{
+   "duration": 5266,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Shachar Langbeheim"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rX0ItVEVjHc/0.jpg",
+   "title": "Data-Oriented Design for Object-Oriented Programmers",
+   "video": "https://youtube.com/watch?v=rX0ItVEVjHc"
+},{
+   "duration": 3364,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Fred Tingaud"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JPnN2c2odNY/0.jpg",
+   "title": "Clang-based Refactoring, or How to Refactor Millions of Line of Code Without Alienating your Colleagues",
+   "video": "https://youtube.com/watch?v=JPnN2c2odNY"
+},{
+   "duration": 5227,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0022",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "James Pascoe"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZGPz4hoBPck/0.jpg",
+   "title": "Combining Modern C++ and Lua",
+   "video": "https://youtube.com/watch?v=ZGPz4hoBPck"
+},{
+   "duration": 1679,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Pavel Novikov"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MuCpdoIEpgA/0.jpg",
+   "title": "Serialization in C++ has never been easier! But wait, there's more...",
+   "video": "https://youtube.com/watch?v=MuCpdoIEpgA"
+},{
+   "duration": 4400,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Kevlin Henney"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YTIM6HSSpRU/0.jpg",
+   "title": "Lambda? You Keep Using that Letter",
+   "video": "https://youtube.com/watch?v=YTIM6HSSpRU"
+},{
+   "duration": 2568,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Barney Dellar"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1bJzZvGLVzc/0.jpg",
+   "title": "A deep dive into the Gilded Rose",
+   "video": "https://youtube.com/watch?v=1bJzZvGLVzc"
+},{
+   "duration": 2071,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0026",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Alexander Maslennikov"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OAQy7ysp93I/0.jpg",
+   "title": "Algorithmic and microarchitecture optimizations of C++ applications",
+   "video": "https://youtube.com/watch?v=OAQy7ysp93I"
+},{
+   "duration": 3598,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0027",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Jon Kalb"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/32tDTD9UJCE/0.jpg",
+   "title": "Object-Oriented Program: Best Practices",
+   "video": "https://youtube.com/watch?v=32tDTD9UJCE"
+},{
+   "duration": 3662,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0028",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Juan Pedro Bolivar Puente"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RoYljVOj2H8/0.jpg",
+   "title": "Squaring the circle: value-oriented design in an object-oriented system",
+   "video": "https://youtube.com/watch?v=RoYljVOj2H8"
+},{
+   "duration": 4452,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0029",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Mateusz Pusz"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wW8Smv-Z5zQ/0.jpg",
+   "title": "Rethinking the Way We Do Templates in C++ even more",
+   "video": "https://youtube.com/watch?v=wW8Smv-Z5zQ"
+},{
+   "duration": 1580,
+   "edition": "2020",
+   "identifier": "#c++-on-sea-2020-0030",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++-on-sea",
+   "speakers": [
+      "Herb Sutter"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wIHfaH9Kffs/0.jpg",
+   "title": "Keynote: Bridge to NewThingia: How to answer \"why will yours succeed, when X, Y, and Z have failed?\"",
+   "video": "https://youtube.com/watch?v=wIHfaH9Kffs"
+}]}
