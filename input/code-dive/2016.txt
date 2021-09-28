@@ -47,7 +47,7 @@ Michael Wong
 
 #marker-0011
 Clang-tidy: Write Your Own Linting Tool
-Piotr Padlewski  Jakub Staroń
+Piotr Padlewski @ Jakub Staroń
 
 #marker-0012
 Clean Coders Hate What Happens To Your Code When You Use These Enterprise Programming Tricks

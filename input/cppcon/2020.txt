@@ -3,7 +3,7 @@
 $add meeting cppcon
 $add edition 2020
 $add language english
-$add tags conference live c++
+$add tags conference online c++
 
  
 09:00 MDT
@@ -138,12 +138,12 @@ Test Driven C++
 Phil Nash
 
 14:30 MDT
-#cppcon-2020-0024
+
 AMA: Zach Laine
 Zach Laine
 
 15:00 MDT
-#cppcon-2020-0025
+
 AMA: Herb Sutter
 Herb Sutter
 
@@ -173,12 +173,12 @@ Mateusz Pusz
 Victor Ciura
 
 10:00 MDT
-#cppcon-2020-0032
+
 AMA: Mateusz Pusz
 Mateusz Pusz
 
 10:05 MDT
-#cppcon-2020-0033
+
 BoF: C++ Video Captioning and Translation BoF
 Sen Li
 
@@ -186,12 +186,12 @@ Sen Li
 #cppcon-2020-0034
 C++20: An (Almost) Complete Overview
 Marc Gregoire
-#cppcon-2020-0035
+
 [Overflow] C++20: An (Almost) Complete Overview
 Marc Gregoire
 
 11:35 MDT
-#cppcon-2020-0036
+
 BoF: Pair Programming
 Honey Sukesan
 
@@ -210,12 +210,12 @@ Closing the Gap between Rust and C++ Using Principles of Static Analysis
 Sunny Chatterjee
 
 13:00 MDT
-#cppcon-2020-0041
+
 AMA: Tanki Zhang
 Tanki Zhang
 
 13:05 MDT
-#cppcon-2020-0042
+
 BoF: Meson Build System
 Jussi Pakkanen
 
@@ -242,7 +242,7 @@ Stephan T. Lavavej
 Wednesday, September 16
  
 07:30 MDT
-#cppcon-2020-0048
+
 AMA: Bjarne Stroustrup
 Herb Sutter • Bjarne Stroustrup
 //#cppcon-2020-0049
@@ -270,10 +270,10 @@ Quickly Testing Qt Desktop Applications with Approval Tests
 Clare Macrae
 
 10:00 MDT
-#cppcon-2020-0056
+
 AMA: Gordon Brown and Michael Wong
 Michael Wong • Gordon Brown
-#cppcon-2020-0057
+
 AMA: Sy Brand
 Sy Brand
 
@@ -302,7 +302,7 @@ Back to Basics: Unit Tests
 Ben Saks
 
 13:05 MDT
-#cppcon-2020-0064
+
 BoF: Build Systems
 Robert Boehne
 
@@ -332,15 +332,15 @@ Design Patterns for Handling and Reporting Errors in C++ Programs Using Parallel
 Mark Hoemmen
 
 14:40 MDT
-#cppcon-2020-0072
+
 AMA: Mark Hoemmen
 Mark Hoemmen
-#cppcon-2020-0073
+
 AMA: Zhihao Yuan
 Zhihao Yuan
 
 15:00 MDT
-#cppcon-2020-0074
+
 BoF: Game Development
 Nathan Ward
 //#cppcon-2020-0075
@@ -366,7 +366,7 @@ Jon Kalb • Jens Weller • Inbal Levi
 //#cppcon-2020-0078
 //Lightning Talks
 //Michael Caisse
-#cppcon-2020-0079
+
 C++ Committee's Library Evolution Working Group
 Ben Craig • Billy Baker • Tom Honermann • Corentin Jabot
 
@@ -385,7 +385,7 @@ Jonathan Boccara
 #cppcon-2020-0083
 A Multi-threaded, Transaction-Based Locking Strategy for Containers
 Bob Steagall
-#cppcon-2020-0084
+//#cppcon-2020-0084
 What’s in a Name? What’s a Name In?
 Walter E. Brown
 #cppcon-2020-0085
@@ -396,7 +396,7 @@ The Shapes of Multi-Dimensional Arrays
 Vincent Reverdy
 
 10:05 MDT
-#cppcon-2020-0087
+
 BoF: Bazel Builds
 Mark Zeren
 
@@ -404,7 +404,7 @@ Mark Zeren
 #cppcon-2020-0088
 Neighborhoods Banding Together: Reasoning Globally about Programs
 Lisa Lippincott
-#cppcon-2020-0089
+
 [Overflow] Neighborhoods Banding Together: Reasoning Globally about Programs
 Lisa Lippincott
 
@@ -476,10 +476,10 @@ Friday, September 18
 //James Ballard
 
 08:00 MDT
-#cppcon-2020-0105
+
 BoF: Functional Programming
 Nathan Ward
-#cppcon-2020-0106
+
 BoF: Game Development
 Colleen Finnegan
 
@@ -504,10 +504,10 @@ Back to Basics: Exceptions
 Klaus Iglberger
 
 10:00 MDT
-#cppcon-2020-0113
+
 AMA: Klaus Iglberger
 Klaus Iglberger
-#cppcon-2020-0114
+
 AMA: Peter Muldoon
 Peter Muldoon
 
@@ -546,10 +546,10 @@ Introducing Microsoft’s New Open Source Fuzzing Platform
 Michael Walker • Justin Campbell
 
 13:00 MDT
-#cppcon-2020-0125
+
 AMA: Patrice Roy
 Patrice Roy
-#cppcon-2020-0126
+
 AMA: Timur Doumler
 Timur Doumler
 
@@ -557,12 +557,12 @@ Timur Doumler
 #cppcon-2020-0127
 Empirically Measuring, and Reducing, C++’s Accidental Complexity (“Simplifying C++” #7 of N)
 Herb Sutter
-#cppcon-2020-0128
+
 [Overflow] Empirically Measuring, and Reducing, C++’s Accidental Complexity (“Simplifying C++” #7 of N)
 Herb Sutter
 
 15:00 MDT
-#cppcon-2020-0129
+
 CppCon 2021 Kick-off Meeting / Feedback Session
 Bob Steagall
 
@@ -580,9 +580,12 @@ Monday, September 21
 #cppcon-2020-0130
 C++ Concepts: Constraining C++ Templates in C++20 and Before
 Mateusz Pusz
-#cppcon-2020-0131
+
+//#cppcon-2020-0131
 Portable Parallelism using Modern C++ and Thread Building Blocks
+
 C++17: All You Need to Know
+
 #cppcon-2020-0132
 Classic STL: Algorithms, Containers, Iterators
 Arthur O'Dwyer
@@ -613,7 +616,7 @@ Wednesday, September 23
  
 09:00 MDT
 // note: no speaker?
-#cppcon-2020-0135
+//#cppcon-2020-0135
 C++17: All You Need to Know
 
 //#cppcon-2020-0136

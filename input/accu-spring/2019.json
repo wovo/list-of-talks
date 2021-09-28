@@ -5,6 +5,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 1,
    "speakers": [
       "Phil Nash"
    ],
@@ -22,6 +23,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 2,
    "speakers": [
       "Austin Bingham"
    ],
@@ -39,9 +41,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 3,
    "speakers": [
-      "Christopher Simons ",
-      " Frances Buontempo"
+      "Christopher Simons",
+      "Frances Buontempo"
    ],
    "tags": [
       "conference",
@@ -57,6 +60,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 4,
    "speakers": [
       "Katharina Fey"
    ],
@@ -68,26 +72,27 @@
    "title": "A Comprehensive Introduction to Rust",
    "video": "https://youtube.com/watch?v=j0SIcN-Y-LA"
 },{
-   "duration": 3793,
+   "duration": 5516,
    "edition": "2019",
    "identifier": "#accu-2019-0005",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 5,
    "speakers": [
-      "Gail Ollis ",
-      " Roger Orr ",
-      " Giovanni Asproni ",
-      " Kevlin Henney ",
-      " Arjan van Leeuwen"
+      "Arjan van Leeuwen",
+      "Gail Ollis",
+      "Giovanni Asproni",
+      "Kevlin Henney",
+      "Roger Orr"
    ],
    "tags": [
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/WE9QiZM2mP0/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/rNSVZs66o48/0.jpg",
    "title": "ACCU Conference 101: an Early Career Tutorial",
-   "video": "https://youtube.com/watch?v=WE9QiZM2mP0"
+   "video": "https://youtube.com/watch?v=rNSVZs66o48"
 },{
    "duration": 2428,
    "edition": "2019",
@@ -95,6 +100,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 6,
    "speakers": [
       "M Angela Sasse"
    ],
@@ -112,6 +118,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 7,
    "speakers": [
       "Vittorio Romeo"
    ],
@@ -129,6 +136,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 8,
    "speakers": [
       "Alisdair Meredith"
    ],
@@ -146,9 +154,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 9,
    "speakers": [
-      "Natalia Oskina ",
-      " Giovanni Asproni"
+      "Giovanni Asproni",
+      "Natalia Oskina"
    ],
    "tags": [
       "conference",
@@ -164,6 +173,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 10,
    "speakers": [
       "Uberto Barbini"
    ],
@@ -181,6 +191,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 11,
    "speakers": [
       "Filip van laenen"
    ],
@@ -198,6 +209,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 12,
    "speakers": [
       "Jonathan Boccara"
    ],
@@ -215,6 +227,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 13,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -232,6 +245,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 14,
    "speakers": [
       "Jez Higgins"
    ],
@@ -249,6 +263,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 15,
    "speakers": [
       "Ivan Cukic"
    ],
@@ -266,6 +281,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 16,
    "speakers": [
       "Marshall Clow"
    ],
@@ -283,9 +299,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 17,
    "speakers": [
-      "Andy Balaam ",
-      " CB Bailey"
+      "Andy Balaam",
+      "CB Bailey"
    ],
    "tags": [
       "conference",
@@ -301,6 +318,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 18,
    "speakers": [
       "Patricia Aas"
    ],
@@ -318,6 +336,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 19,
    "speakers": [
       "Gail Ollis"
    ],
@@ -335,6 +354,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 20,
    "speakers": [
       "Dietmar Kuhl"
    ],
@@ -352,6 +372,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 21,
    "speakers": [
       "Herb Sutter"
    ],
@@ -369,6 +390,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 22,
    "speakers": [
       "Supriya Srivatsa"
    ],
@@ -386,6 +408,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 23,
    "speakers": [
       "Anthony Williams"
    ],
@@ -403,6 +426,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 24,
    "speakers": [
       "Eoin Woods"
    ],
@@ -414,12 +438,13 @@
    "title": "Secure by Design - Security Principles for the Working Developer",
    "video": "https://youtube.com/watch?v=YbjoaMN67Hw"
 },{
-   "duration": 3405,
+   "duration": 5358,
    "edition": "2019",
    "identifier": "#accu-2019-0025",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 25,
    "speakers": [
       "Greg Law"
    ],
@@ -427,9 +452,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/WoRmXjVxuFQ/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/Yq6g_kvyvPU/0.jpg",
    "title": "More GDB wizardry and 8 other essential Linux application debugging tools",
-   "video": "https://youtube.com/watch?v=WoRmXjVxuFQ"
+   "video": "https://youtube.com/watch?v=Yq6g_kvyvPU"
 },{
    "duration": 4818,
    "edition": "2019",
@@ -437,6 +462,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 26,
    "speakers": [
       "Timur Doumler"
    ],
@@ -454,6 +480,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 27,
    "speakers": [
       "Kate Gregory"
    ],
@@ -471,6 +498,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 28,
    "speakers": [
       "Hubert Matthews"
    ],
@@ -488,6 +516,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 29,
    "speakers": [
       "Ahto Truu"
    ],
@@ -505,6 +534,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 30,
    "speakers": [
       "Andy Balaam"
    ],
@@ -522,6 +552,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 31,
    "speakers": [
       "Wouter van Ooijen"
    ],
@@ -539,6 +570,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 32,
    "speakers": [
       "Austin Bingham"
    ],
@@ -556,9 +588,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 33,
    "speakers": [
-      "Peter Bindels ",
-      " Simon Brand"
+      "Peter Bindels",
+      "Simon Brand"
    ],
    "tags": [
       "conference",
@@ -574,6 +607,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 34,
    "speakers": [
       "Chris Oldwood"
    ],
@@ -591,9 +625,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 35,
    "speakers": [
-      "Christopher Simons ",
-      " Frances Buontempo"
+      "Christopher Simons",
+      "Frances Buontempo"
    ],
    "tags": [
       "conference",
@@ -603,12 +638,13 @@
    "title": "Teach Your Computer to Code FizzBuzz",
    "video": "https://youtube.com/watch?v=yHt9tEFD61M"
 },{
-   "duration": 50,
+   "duration": 5292,
    "edition": "2019",
    "identifier": "#accu-2019-0036",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 36,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -616,9 +652,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/XKH6K0BP0lI/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/L63XGqiNuhI/0.jpg",
    "title": "C++ Pub Quiz",
-   "video": "https://youtube.com/watch?v=XKH6K0BP0lI"
+   "video": "https://youtube.com/watch?v=L63XGqiNuhI"
 },{
    "duration": 3211,
    "edition": "2019",
@@ -626,6 +662,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 37,
    "speakers": [
       "Paul Grenyer"
    ],
@@ -643,6 +680,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 38,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -660,6 +698,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 39,
    "speakers": [
       "Neil Horlock"
    ],
@@ -677,6 +716,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 40,
    "speakers": [
       "Dom Davis"
    ],
@@ -694,6 +734,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 41,
    "speakers": [
       "Burkhard Kloss"
    ],
@@ -711,6 +752,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 42,
    "speakers": [
       "Jim Hague"
    ],
@@ -728,6 +770,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 43,
    "speakers": [
       "Michael Wong"
    ],
@@ -745,6 +788,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 44,
    "speakers": [
       "Andreas Weis"
    ],
@@ -762,6 +806,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 45,
    "speakers": [
       "Andy Thomason"
    ],
@@ -779,6 +824,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 46,
    "speakers": [
       "Victor Ciura"
    ],
@@ -796,6 +842,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 47,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -813,6 +860,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 48,
    "speakers": [
       "Supriya Srivatsa"
    ],
@@ -830,6 +878,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 49,
    "speakers": [
       "Alex Chan"
    ],
@@ -847,6 +896,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 50,
    "speakers": [
       "Giorgio Zoppi"
    ],
@@ -864,6 +914,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 51,
    "speakers": [
       "Eberhard Grather"
    ],
@@ -881,6 +932,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 52,
    "speakers": [
       "Jean-Michael Celerier"
    ],
@@ -898,6 +950,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 53,
    "speakers": [
       "Sas Luca"
    ],
@@ -915,6 +968,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 54,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -932,6 +986,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 55,
    "speakers": [
       "Mathieu Ropert"
    ],
@@ -949,6 +1004,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 56,
    "speakers": [
       "Jonathan Pallant"
    ],
@@ -966,6 +1022,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 57,
    "speakers": [
       "Niall Douglas"
    ],
@@ -983,6 +1040,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 58,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -1000,6 +1058,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 59,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -1017,6 +1076,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 60,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -1034,6 +1094,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 61,
    "speakers": [
       "Phil Nash"
    ],
@@ -1051,6 +1112,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 62,
    "speakers": [
       "Viktor Kirilov"
    ],
@@ -1068,6 +1130,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 63,
    "speakers": [
       "Arne Mertz"
    ],
@@ -1085,6 +1148,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 64,
    "speakers": [
       "CB Bailey"
    ],
@@ -1102,6 +1166,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 65,
    "speakers": [
       "Roger Orr"
    ],
@@ -1119,6 +1184,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 66,
    "speakers": [
       "John Lakos"
    ],
@@ -1136,6 +1202,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 67,
    "speakers": [
       "George Corney"
    ],
@@ -1153,6 +1220,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 68,
    "speakers": [
       "Victor Ciura"
    ],
@@ -1170,6 +1238,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 69,
    "speakers": [
       "Rosemary Francis"
    ],
@@ -1187,6 +1256,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 70,
    "speakers": [
       "Stephen Kelly"
    ],
@@ -1204,6 +1274,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 71,
    "speakers": [
       "Christopher Di Bella"
    ],
@@ -1221,6 +1292,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 72,
    "speakers": [
       "Thomas Guest"
    ],
@@ -1238,6 +1310,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 73,
    "speakers": [
       "James Cain"
    ],
@@ -1255,6 +1328,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 74,
    "speakers": [
       "Dom Davis"
    ],
@@ -1272,6 +1346,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 75,
    "speakers": [
       "Kate Gregory"
    ],

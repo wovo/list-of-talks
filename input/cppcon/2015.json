@@ -1,5 +1,5 @@
 { "list": [{
-   "duration": 3458,
+   "duration": 3650,
    "edition": "2015",
    "identifier": "#cppcon-2015-0001",
    "language": "english",
@@ -13,9 +13,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/t3O7pio2B20/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/xSBWklPLRvw/0.jpg",
    "title": "Modernizing Your C++: Part I",
-   "video": "https://youtube.com/watch?v=t3O7pio2B20"
+   "video": "https://youtube.com/watch?v=xSBWklPLRvw"
 },{
    "duration": 5589,
    "edition": "2015",
@@ -384,8 +384,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Barbara Geller ",
-      " Ansel Sermersheim"
+      "Ansel Sermersheim",
+      "Barbara Geller"
    ],
    "tags": [
       "conference",
@@ -468,26 +468,6 @@
    "title": "Expression Templates - What, Why, When, Where, Part III",
    "video": "https://youtube.com/watch?v=A9trwnv6k-w"
 },{
-   "duration": 3290,
-   "edition": "2015",
-   "identifier": "#cppcon-2015-0028",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Nicolas Guillemot ",
-      " Sean Middleditch ",
-      " Michael Wong"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/0tFxdreVx6s/0.jpg",
-   "title": "SG14 meeting Wednesday:Towards better support in C++ for Games and Finance",
-   "video": "https://youtube.com/watch?v=0tFxdreVx6s"
-},{
    "duration": 1560,
    "edition": "2015",
    "identifier": "#cppcon-2015-0029",
@@ -513,8 +493,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Kevin Kostrzewa ",
-      " John Wyman"
+      "John Wyman",
+      "Kevin Kostrzewa"
    ],
    "tags": [
       "conference",
@@ -540,7 +520,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/zt7ThwVfap0/0.jpg",
-   "title": ": What's New, And Proper Usage",
+   "title": "<functional>: What's New, And Proper Usage",
    "video": "https://youtube.com/watch?v=zt7ThwVfap0"
 },{
    "duration": 3483,
@@ -568,8 +548,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Greg Miller ",
-      " Bradley White"
+      "Bradley White",
+      "Greg Miller"
    ],
    "tags": [
       "conference",
@@ -652,42 +632,6 @@
    "title": "Writing Good C++14 By Default",
    "video": "https://youtube.com/watch?v=hEx5DNLWGgA"
 },{
-   "duration": 730,
-   "edition": "2015",
-   "identifier": "#cppcon-2015-0038",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Jens Weller"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/hF0l2M-oD04/0.jpg",
-   "title": "Writing my own Content Management System in C++",
-   "video": "https://youtube.com/watch?v=hF0l2M-oD04"
-},{
-   "duration": 3611,
-   "edition": "2015",
-   "identifier": "#cppcon-2015-0039",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "//Kate Gregory"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/YnWhqhNdYyk/0.jpg",
-   "title": "//Lightning Talks",
-   "video": "https://youtube.com/watch?v=YnWhqhNdYyk"
-},{
    "duration": 2197,
    "edition": "2015",
    "identifier": "#cppcon-2015-0041",
@@ -749,8 +693,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Daniel Bourgeois ",
-      " Grant Mercer"
+      "Daniel Bourgeois",
+      "Grant Mercer"
    ],
    "tags": [
       "conference",
@@ -822,8 +766,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Ankit Asthana ",
-      " Marc Gregoire"
+      "Ankit Asthana",
+      "Marc Gregoire"
    ],
    "tags": [
       "conference",
@@ -985,8 +929,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Titus Winters ",
-      " Hyrum Wright"
+      "Hyrum Wright",
+      "Titus Winters"
    ],
    "tags": [
       "conference",
@@ -1022,8 +966,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Herb Sutter ",
-      " Michael Wong"
+      "Herb Sutter",
+      "Michael Wong"
    ],
    "tags": [
       "conference",
@@ -1059,8 +1003,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jackie Kay ",
-      " Louise Poubel"
+      "Jackie Kay",
+      "Louise Poubel"
    ],
    "tags": [
       "conference",
@@ -1312,8 +1256,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jacob Potter ",
-      " Andrew Twyman"
+      "Andrew Twyman",
+      "Jacob Potter"
    ],
    "tags": [
       "conference",
@@ -1468,7 +1412,7 @@
    "title": "What is Open Source, and Why Should You Care?",
    "video": "https://youtube.com/watch?v=n2GhS-u-5FA"
 },{
-   "duration": 3773,
+   "duration": 3290,
    "edition": "2015",
    "identifier": "#cppcon-2015-0089",
    "language": "english",
@@ -1482,9 +1426,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/TRgWJuQhkQo/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/0tFxdreVx6s/0.jpg",
    "title": "NW C++ User Dinner",
-   "video": "https://youtube.com/watch?v=TRgWJuQhkQo"
+   "video": "https://youtube.com/watch?v=0tFxdreVx6s"
 },{
    "duration": 3658,
    "edition": "2015",
@@ -1493,8 +1437,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Brett Searles ",
-      " Michael Wong"
+      "Brett Searles",
+      "Michael Wong"
    ],
    "tags": [
       "conference",
@@ -1577,7 +1521,7 @@
    "title": "A Project-Based Learning Approach to Teaching C++",
    "video": "https://youtube.com/watch?v=fX2W3nNjJIo"
 },{
-   "duration": 3629,
+   "duration": 4792,
    "edition": "2015",
    "identifier": "#cppcon-2015-0098",
    "language": "english",
@@ -1591,9 +1535,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/uzF4u9KgUWI/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/zBkNBP00wJE/0.jpg",
    "title": "Crazy Easy C++ Scripting With ChaiScript",
-   "video": "https://youtube.com/watch?v=uzF4u9KgUWI"
+   "video": "https://youtube.com/watch?v=zBkNBP00wJE"
 },{
    "duration": 1953,
    "edition": "2015",
@@ -1674,8 +1618,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Steve Carroll ",
-      " Ayman Shoukry"
+      "Ayman Shoukry",
+      "Steve Carroll"
    ],
    "tags": [
       "conference",
@@ -1722,24 +1666,6 @@
    "title": "Tuning C++: Benchmarks, and Compilers, and CPUs! Oh My!",
    "video": "https://youtube.com/watch?v=nXaxk27zwlk"
 },{
-   "duration": 1642,
-   "edition": "2015",
-   "identifier": "#cppcon-2015-0107",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Sergey Zubkov"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/HdQ4aOZyuHw/0.jpg",
-   "title": "cppreference.com: the community wiki",
-   "video": "https://youtube.com/watch?v=HdQ4aOZyuHw"
-},{
    "duration": 1912,
    "edition": "2015",
    "identifier": "#cppcon-2015-0108",
@@ -1755,7 +1681,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/2l83JlqkzBk/0.jpg",
-   "title": "`for_each_argument` explained and expanded",
+   "title": "'for_each_argument' explained and expanded",
    "video": "https://youtube.com/watch?v=2l83JlqkzBk"
 },{
    "duration": 4347,
@@ -1891,8 +1817,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Ferreira Da Costa ",
-      " Sylvain JUBERTIE"
+      "Ferreira Da Costa",
+      "Sylvain JUBERTIE"
    ],
    "tags": [
       "conference",
@@ -1928,7 +1854,7 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      ""
+      "Gwendolyn Hunt"
    ],
    "tags": [
       "conference",
@@ -2072,8 +1998,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Rachel Cheng ",
-      " Michael VanLoon"
+      "Michael VanLoon",
+      "Rachel Cheng"
    ],
    "tags": [
       "conference",
@@ -2145,9 +2071,9 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Nicolas Guillemot ",
-      " Sean Middleditch ",
-      " Michael Wong"
+      "Michael Wong",
+      "Nicolas Guillemot",
+      "Sean Middleditch"
    ],
    "tags": [
       "conference",
@@ -2201,8 +2127,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Barbara Geller ",
-      " Ansel Sermersheim"
+      "Ansel Sermersheim",
+      "Barbara Geller"
    ],
    "tags": [
       "conference",
@@ -2238,14 +2164,14 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Chandler Carruth ",
-      " Michael Caisse ",
-      " Marshall Clow ",
-      " Beman Dawes ",
-      " Eric Niebler ",
-      " Gor Nishanov ",
-      " Gabriel Dos Reis ",
-      " Michael Wong"
+      "Beman Dawes",
+      "Chandler Carruth",
+      "Eric Niebler",
+      "Gabriel Dos Reis",
+      "Gor Nishanov",
+      "Marshall Clow",
+      "Michael Caisse",
+      "Michael Wong"
    ],
    "tags": [
       "conference",

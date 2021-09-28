@@ -1,21 +1,21 @@
 { "list": [{
-   "duration": 273,
+   "duration": 3923,
    "edition": "2017",
-   "identifier": "#cppcon-2017-0001",
+   "identifier": "#cppcon-2017-0002",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "#cppcon-2017-0002"
+      "Anthony Williams"
    ],
    "tags": [
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/dSSIXKe6iXE/0.jpg",
-   "title": "Lightning Talks",
-   "video": "https://youtube.com/watch?v=dSSIXKe6iXE"
+   "thumbnail": "http://img.youtube.com/vi/JvHZ_OECOFU/0.jpg",
+   "title": "Concurrent Thinking in C++",
+   "video": "https://youtube.com/watch?v=JvHZ_OECOFU"
 },{
    "duration": 3389,
    "edition": "2017",
@@ -132,8 +132,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Ben Deane ",
-      " Jason Turner"
+      "Ben Deane",
+      "Jason Turner"
    ],
    "tags": [
       "conference",
@@ -241,9 +241,9 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "James McNellis ",
-      " Jordi Mola ",
-      " Ken Sykes"
+      "James McNellis",
+      "Jordi Mola",
+      "Ken Sykes"
    ],
    "tags": [
       "conference",
@@ -272,29 +272,6 @@
    "title": "The Programmer CEO: Tales From Starting a Company Aimed at C++ Developers",
    "video": "https://youtube.com/watch?v=-n9Fkq1e6sg"
 },{
-   "duration": 5299,
-   "edition": "2017",
-   "identifier": "#cppcon-2017-0022",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Jon Kalb ",
-      " Giuseppe D'Angelo ",
-      " Stephen Dewhurst ",
-      " Kate Gregory ",
-      " Scott Meyers ",
-      " Anthony Williams"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/JYG5LFHkUuE/0.jpg",
-   "title": "Trainers Panel I",
-   "video": "https://youtube.com/watch?v=JYG5LFHkUuE"
-},{
    "duration": 2939,
    "edition": "2017",
    "identifier": "#cppcon-2017-0023",
@@ -320,9 +297,9 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Paul E. McKenney ",
-      " Maged Michael ",
-      " Michael Wong"
+      "Maged Michael",
+      "Michael Wong",
+      "Paul E. McKenney"
    ],
    "tags": [
       "conference",
@@ -340,8 +317,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Barbara Geller ",
-      " Ansel Sermersheim"
+      "Ansel Sermersheim",
+      "Barbara Geller"
    ],
    "tags": [
       "conference",
@@ -467,9 +444,9 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Paul E. McKenney ",
-      " Maged Michael ",
-      " Michael Wong"
+      "Maged Michael",
+      "Michael Wong",
+      "Paul E. McKenney"
    ],
    "tags": [
       "conference",
@@ -541,8 +518,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Steve Carroll ",
-      " Daniel Moth"
+      "Daniel Moth",
+      "Steve Carroll"
    ],
    "tags": [
       "conference",
@@ -668,8 +645,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Luis Martinez de Bartolome ",
-      " Diego Rodriguez-Losada Gonzalez"
+      "Diego Rodriguez-Losada Gonzalez",
+      "Luis Martinez de Bartolome"
    ],
    "tags": [
       "conference",
@@ -741,16 +718,16 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jon Kalb ",
-      " Louis Dionne ",
-      " Eric Niebler ",
-      " Gor Nishanov ",
-      " Gabriel Dos Reis ",
-      " Bjarne Stroustrup ",
-      " Herb Sutter ",
-      " Andrew Sutton ",
-      " Ville Voutilainen ",
-      " Titus Winters"
+      "Andrew Sutton",
+      "Bjarne Stroustrup",
+      "Eric Niebler",
+      "Gabriel Dos Reis",
+      "Gor Nishanov",
+      "Herb Sutter",
+      "Jon Kalb",
+      "Louis Dionne",
+      "Titus Winters",
+      "Ville Voutilainen"
    ],
    "tags": [
       "conference",
@@ -768,8 +745,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Eric Mittelette ",
-      " Robert Schumacher"
+      "Eric Mittelette",
+      "Robert Schumacher"
    ],
    "tags": [
       "conference",
@@ -787,9 +764,9 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Gordon Brown ",
-      " Ruyman Reyes ",
-      " Michael Wong"
+      "Gordon Brown",
+      "Michael Wong",
+      "Ruyman Reyes"
    ],
    "tags": [
       "conference",
@@ -908,24 +885,6 @@
    "title": "Everything You Ever Wanted to Know about DLLs",
    "video": "https://youtube.com/watch?v=JPQWQfDhICA"
 },{
-   "duration": 5921,
-   "edition": "2017",
-   "identifier": "#cppcon-2017-0056",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Bjarne Stroustrup"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/fX2W3nNjJIo/0.jpg",
-   "title": "Book Signing: Bjarne Stroustrup",
-   "video": "https://youtube.com/watch?v=fX2W3nNjJIo"
-},{
    "duration": 5473,
    "edition": "2017",
    "identifier": "#cppcon-2017-0057",
@@ -941,7 +900,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/tISy7EJQPzI/0.jpg",
-   "title": "C++ as a \"Live at Head\" Language",
+   "title": "C++ as a 'Live at Head' Language",
    "video": "https://youtube.com/watch?v=tISy7EJQPzI"
 },{
    "duration": 2939,
@@ -951,8 +910,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jon Kalb ",
-      " Bryce Adelstein Lelbach"
+      "Bryce Adelstein Lelbach",
+      "Jon Kalb"
    ],
    "tags": [
       "conference",
@@ -1168,8 +1127,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jeremy Demeule ",
-      " Quentin Duval"
+      "Jeremy Demeule",
+      "Quentin Duval"
    ],
    "tags": [
       "conference",
@@ -1341,25 +1300,6 @@
    "thumbnail": "http://img.youtube.com/vi/mxPM-exDCLY/0.jpg",
    "title": "Emulating a BBC Micro in Javascript",
    "video": "https://youtube.com/watch?v=mxPM-exDCLY"
-},{
-   "duration": 3567,
-   "edition": "2017",
-   "identifier": "#cppcon-2017-0083",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Herb Sutter ",
-      " Michael Wong"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/YM8Xy6oKVQg/0.jpg",
-   "title": "ISO SG14 Working Meeting FULL",
-   "video": "https://youtube.com/watch?v=YM8Xy6oKVQg"
 },{
    "duration": 3838,
    "edition": "2017",
@@ -1739,25 +1679,6 @@
    "title": "There Will Be Build Systems: I Configure Your Milkshake",
    "video": "https://youtube.com/watch?v=7THzO-D0ta4"
 },{
-   "duration": 3610,
-   "edition": "2017",
-   "identifier": "#cppcon-2017-0108",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Herb Sutter ",
-      " Michael Wong"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/885TI3jnB7g/0.jpg",
-   "title": "ISO SG14 Working Meeting FILLING",
-   "video": "https://youtube.com/watch?v=885TI3jnB7g"
-},{
    "duration": 3597,
    "edition": "2017",
    "identifier": "#cppcon-2017-0109",
@@ -1891,10 +1812,10 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Brett Searles ",
-      " Chandler Carruth ",
-      " Matt Godbolt ",
-      " Jim Radigan"
+      "Brett Searles",
+      "Chandler Carruth",
+      "Jim Radigan",
+      "Matt Godbolt"
    ],
    "tags": [
       "conference",
@@ -2030,29 +1951,6 @@
    "thumbnail": "http://img.youtube.com/vi/YWiAUUblD34/0.jpg",
    "title": "Qt as a C++ Framework: History, Present State and Future",
    "video": "https://youtube.com/watch?v=YWiAUUblD34"
-},{
-   "duration": 5299,
-   "edition": "2017",
-   "identifier": "#cppcon-2017-0126",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Jon Kalb ",
-      " Michael Caisse ",
-      " Nicolai Josuttis ",
-      " Thomas McGuire ",
-      " Dan Saks ",
-      " Jason Turner"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/JYG5LFHkUuE/0.jpg",
-   "title": "Trainers Panel II",
-   "video": "https://youtube.com/watch?v=JYG5LFHkUuE"
 },{
    "duration": 4005,
    "edition": "2017",
@@ -2367,8 +2265,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jon Kalb ",
-      " Bryce Adelstein Lelbach"
+      "Bryce Adelstein Lelbach",
+      "Jon Kalb"
    ],
    "tags": [
       "conference",
@@ -2396,24 +2294,6 @@
    "thumbnail": "http://img.youtube.com/vi/CVAVKIe7CnY/0.jpg",
    "title": "AMD ROCm and the Heterogeneous System Architecture for HW accelerated C++ and high level languages",
    "video": "https://youtube.com/watch?v=CVAVKIe7CnY"
-},{
-   "duration": 5371,
-   "edition": "2017",
-   "identifier": "#cppcon-2017-0148",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "// C++ in the Internet of Things"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/gmW6b0I_t5k/0.jpg",
-   "title": "// not on youtube",
-   "video": "https://youtube.com/watch?v=gmW6b0I_t5k"
 },{
    "duration": 3511,
    "edition": "2017",
@@ -2602,8 +2482,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Gordon Brown ",
-      " Michael Wong"
+      "Gordon Brown",
+      "Michael Wong"
    ],
    "tags": [
       "conference",
@@ -2693,8 +2573,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jon Kalb ",
-      " Bryce Adelstein Lelbach"
+      "Bryce Adelstein Lelbach",
+      "Jon Kalb"
    ],
    "tags": [
       "conference",
@@ -2712,8 +2592,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Bryce Adelstein Lelbach ",
-      " Andrew Lumsdaine"
+      "Andrew Lumsdaine",
+      "Bryce Adelstein Lelbach"
    ],
    "tags": [
       "conference",
@@ -2875,8 +2755,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Rich Geldreich ",
-      " Stephanie Hurlburt"
+      "Rich Geldreich",
+      "Stephanie Hurlburt"
    ],
    "tags": [
       "conference",
@@ -2912,8 +2792,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Scott Jones ",
-      " Kenny Kerr"
+      "Kenny Kerr",
+      "Scott Jones"
    ],
    "tags": [
       "conference",

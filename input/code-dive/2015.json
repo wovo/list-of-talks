@@ -4,7 +4,8 @@
    "identifier": "#code-dive-2015-0001",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 1,
    "speakers": [
       "Matthias Hesse"
    ],
@@ -21,7 +22,8 @@
    "identifier": "#code-dive-2015-0002",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 2,
    "speakers": [
       "Norbert Kraft"
    ],
@@ -38,7 +40,8 @@
    "identifier": "#code-dive-2015-0003",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 3,
    "speakers": [
       "Bartosz Szurgot"
    ],
@@ -55,7 +58,8 @@
    "identifier": "#code-dive-2015-0004",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 4,
    "speakers": [
       "Slawomir Zborowski"
    ],
@@ -72,7 +76,8 @@
    "identifier": "#code-dive-2015-0005",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 5,
    "speakers": [
       "Adam Badura"
    ],
@@ -89,7 +94,8 @@
    "identifier": "#code-dive-2015-0006",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 6,
    "speakers": [
       "Jakub Derda"
    ],
@@ -106,7 +112,8 @@
    "identifier": "#code-dive-2015-0007",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 7,
    "speakers": [
       "Andrzej Krzemienski"
    ],
@@ -123,7 +130,8 @@
    "identifier": "#code-dive-2015-0008",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 8,
    "speakers": [
       "Tomasz Kaczmarczyk"
    ],
@@ -140,7 +148,8 @@
    "identifier": "#code-dive-2015-0009",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 9,
    "speakers": [
       "Ulrich Drepper"
    ],
@@ -157,7 +166,8 @@
    "identifier": "#code-dive-2015-0010",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 10,
    "speakers": [
       "Lukasz Ziobron"
    ],
@@ -174,7 +184,8 @@
    "identifier": "#code-dive-2015-0011",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 11,
    "speakers": [
       "Filip Wojcik"
    ],
@@ -191,7 +202,8 @@
    "identifier": "#code-dive-2015-0012",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 12,
    "speakers": [
       "Dan Saks"
    ],
@@ -208,7 +220,8 @@
    "identifier": "#code-dive-2015-0013",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 13,
    "speakers": [
       "Dan Saks"
    ],
@@ -225,7 +238,8 @@
    "identifier": "#code-dive-2015-0014",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 14,
    "speakers": [
       "Dan Saks"
    ],
@@ -242,7 +256,8 @@
    "identifier": "#code-dive-2015-0015",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 15,
    "speakers": [
       "Ulrich Drepper"
    ],
@@ -259,7 +274,8 @@
    "identifier": "#code-dive-2015-0016",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 16,
    "speakers": [
       "Vladimir Vukadinovic"
    ],
@@ -276,7 +292,8 @@
    "identifier": "#code-dive-2015-0017",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 17,
    "speakers": [
       "Andrei Alexandrescu"
    ],
@@ -293,7 +310,8 @@
    "identifier": "#code-dive-2015-0018",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 18,
    "speakers": [
       "Przemyslaw Szufarski"
    ],
@@ -310,7 +328,8 @@
    "identifier": "#code-dive-2015-0019",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 19,
    "speakers": [
       "Rafal Lojek"
    ],
@@ -327,7 +346,8 @@
    "identifier": "#code-dive-2015-0020",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 20,
    "speakers": [
       "Andrei Alexandrescu"
    ],
@@ -344,7 +364,8 @@
    "identifier": "#code-dive-2015-0021",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 21,
    "speakers": [
       "Andrei Alexandrescu"
    ],

@@ -76,20 +76,25 @@ Bjarne Stroustrup
 Embracing Standard C++ for the Windows Runtime
 KANTNER (ROOM 403)
 Kenny Kerr • James McNellis
+
 #cppcon-2016-0013
 Instruction Re-ordering Everywhere: The C++ 'As-If' Rule and the Role of Sequence
 PRINCE THEATER (2ND FLOOR)
 Charley Bay
+
 #cppcon-2016-0014
 Regular Expressions in C++, Present and Future
 WHITE (ROOM 407)
 Tim Shen
+
 #cppcon-2016-0015
 WG21-SG14 – Making C++ better for games, embedded and financial developers
 VANITY (ROOM 404)
+Guy Davidson @ Nicolas Guillemot @ Sean Middleditch @ Michael Wong
+
 #cppcon-2016-0016
-Guy Davidson • Nicolas Guillemot • Sean Middleditch • Michael Wong
 Using Types Effectively
+Guy Davidson • Nicolas Guillemot • Sean Middleditch • Michael Wong
 BOWIE HALL (1ST FLOOR HALL)
 Ben Deane
 
@@ -115,7 +120,7 @@ Computer Architecture, C++, and High Performance
 PRINCE THEATER (2ND FLOOR)
 Matt P. Dziubinski
 #cppcon-2016-0022
-A Tutorial
+A ＜chrono＞ Tutorial
 FREY (ROOM 406)
 Howard Hinnant
 #cppcon-2016-0023
@@ -189,7 +194,7 @@ Jon Kalb • Hans Boehm • Chandler Carruth • Casey Carter • Marshall Clow 
 Tuesday, September 20
  
 8:15am PDT
-#cppcon-2016-0039
+//#cppcon-2016-0039
 SG14 meeting Wednesday:Towards better support in C++ for Games and Finance
 FREY (ROOM 406)
 Nicolas Guillemot • Sean Middleditch • Michael Wong
@@ -298,10 +303,12 @@ Kenny Kerr • James McNellis
 Out of Memory? Business as usual: Examining applications that do not terminate on std::bad_alloc
 KANTNER (ROOM 403)
 Sergey Zubkov
+
+// this is the title in the schedule, but not on youtube:
 #cppcon-2016-0063
 Introduction to C++ python extensions and embedding Python in C++ Apps
-// this is the title in the schedule, but not on youtube:
 Python & C++: the Beauty and the Beast, dancing together. Introduction to C++ python extensions and embedding Python in C++ Apps.
+Diego Rodriguez-Losada
 
 VANITY (ROOM 404)
 Diego Rodriguez-Losada Gonzalez
@@ -341,9 +348,9 @@ ROBINSON (ROOM 409)
 Howard Hinnant
 
 6:15pm PDT
-#cppcon-2016-0072
-Come learn about the cutting-edge C++ technology Tower uses!
-TAVERN HALL
+//#cppcon-2016-0072
+//Come learn about the cutting-edge C++ technology Tower uses!
+//TAVERN HALL
 
 8:30pm PDT
 //#cppcon-2016-0073
@@ -629,6 +636,7 @@ Jon Kalb
 //Lightning Talks
 //KANTNER (ROOM 403)
 //Michael Caisse
+
 #cppcon-2016-0135
 Compression Panel
 PRINCE THEATER (2ND FLOOR)
@@ -678,13 +686,13 @@ BOWIE HALL (1ST FLOOR HALL)
 Herb Sutter
 
 12:30pm PDT
-#cppcon-2016-0144
+//#cppcon-2016-0144
 CppCon 2017 Planning Committee Work Session
 ROOM 303
 Jon Kalb
 
 2:00pm PDT
-#cppcon-2016-0145
+//#cppcon-2016-0145
 Implementing The C++ Standard Library
 BOWIE HALL (1ST FLOOR HALL)
 Bryce Adelstein Lelbach • Walter E. Brown • Marshall Clow • Eric Fiselier • Howard Hinnant • Stephan T. Lavavej • Alisdair Meredith • Anthony Williams • Michael Wong

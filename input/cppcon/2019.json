@@ -143,7 +143,7 @@
    "title": "More Concurrent Thinking in C++: Beyond the Basics",
    "video": "https://youtube.com/watch?v=jozHW_B3D4U"
 },{
-   "duration": 5486,
+   "duration": 3054,
    "edition": "2019",
    "identifier": "#cppcon-2019-0009",
    "language": "english",
@@ -157,9 +157,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/u_ij0YNkFUs/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/8FYzkuRsNto/0.jpg",
    "title": "System Architecture And Design Using Modern C++",
-   "video": "https://youtube.com/watch?v=u_ij0YNkFUs"
+   "video": "https://youtube.com/watch?v=8FYzkuRsNto"
 },{
    "duration": 2956,
    "edition": "2019",
@@ -204,9 +204,9 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "John Lakos ",
-      " Andrei Alexandrescu ",
-      " Kate Gregory"
+      "Andrei Alexandrescu",
+      "John Lakos",
+      "Kate Gregory"
    ],
    "tags": [
       "conference",
@@ -397,28 +397,6 @@
    "title": "A C++ Approach to Physical Units",
    "video": "https://youtube.com/watch?v=0YW6yxkdhlU"
 },{
-   "duration": 5786,
-   "edition": "2019",
-   "identifier": "#cppcon-2019-0034",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Jon Kalb ",
-      " Ben Saks ",
-      " Dan Saks ",
-      " Klaus Iglberger ",
-      " Stephen Dewhurst"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/D7Sd8A6_fYU/0.jpg",
-   "title": "Trainers Panel I",
-   "video": "https://youtube.com/watch?v=D7Sd8A6_fYU"
-},{
    "duration": 3317,
    "edition": "2019",
    "identifier": "#cppcon-2019-0035",
@@ -444,8 +422,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Peter Bindels ",
-      " Simon Brand"
+      "Peter Bindels",
+      "Simon Brand"
    ],
    "tags": [
       "conference",
@@ -481,9 +459,9 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Samy Al Bahra ",
-      " Hannes Sowa ",
-      " Paul Khuong"
+      "Hannes Sowa",
+      "Paul Khuong",
+      "Samy Al Bahra"
    ],
    "tags": [
       "conference",
@@ -537,8 +515,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Michael Wong ",
-      " Gordon Brown"
+      "Gordon Brown",
+      "Michael Wong"
    ],
    "tags": [
       "conference",
@@ -628,8 +606,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Barbara Geller ",
-      " Ansel Sermersheim"
+      "Ansel Sermersheim",
+      "Barbara Geller"
    ],
    "tags": [
       "conference",
@@ -701,8 +679,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Marian Luparu ",
-      " Simon Brand"
+      "Marian Luparu",
+      "Simon Brand"
    ],
    "tags": [
       "conference",
@@ -792,8 +770,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Zola Bridges ",
-      " Devin Jeanpierre"
+      "Devin Jeanpierre",
+      "Zola Bridges"
    ],
    "tags": [
       "conference",
@@ -829,8 +807,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Karla Bueno ",
-      " Karla Bueno"
+      "Karla Bueno",
+      "Karla Bueno"
    ],
    "tags": [
       "conference",
@@ -866,17 +844,17 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jon Kalb ",
-      " Bryce Adelstein Lelbach ",
-      " Lisa Lippincott ",
-      " Herb Sutter ",
-      " Titus Winters ",
-      " Vittorio Romeo ",
-      " Marshall Clow ",
-      " Bjarne Stroustrup ",
-      " JF Bastien ",
-      " Hana Dusikova ",
-      " David Stone"
+      "Bjarne Stroustrup",
+      "Bryce Adelstein Lelbach",
+      "David Stone",
+      "Hana Dusikova",
+      "Herb Sutter",
+      "JF Bastien",
+      "Jon Kalb",
+      "Lisa Lippincott",
+      "Marshall Clow",
+      "Titus Winters",
+      "Vittorio Romeo"
    ],
    "tags": [
       "conference",
@@ -1020,9 +998,9 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Michael Wong ",
-      " Paul E. McKenney ",
-      " Maged Michael"
+      "Maged Michael",
+      "Michael Wong",
+      "Paul E. McKenney"
    ],
    "tags": [
       "conference",
@@ -1051,7 +1029,7 @@
    "title": "Error Handling is Cancelling Operations",
    "video": "https://youtube.com/watch?v=zte8IxkHqc4"
 },{
-   "duration": 5009,
+   "duration": 3313,
    "edition": "2019",
    "identifier": "#cppcon-2019-0069",
    "language": "english",
@@ -1065,28 +1043,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/zxwKAX7p8GE/0.jpg",
-   "title": "\"Allegro\" Means Both Fast and Happy. Coincidence?",
-   "video": "https://youtube.com/watch?v=zxwKAX7p8GE"
-},{
-   "duration": 3997,
-   "edition": "2019",
-   "identifier": "#cppcon-2019-0070",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Bryce Adelstein Lelbach ",
-      " Jon Kalb"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/Zcqwb3CWqs4/0.jpg",
-   "title": "CppCon Program Committee",
-   "video": "https://youtube.com/watch?v=Zcqwb3CWqs4"
+   "thumbnail": "http://img.youtube.com/vi/lgWr0o0Wx1A/0.jpg",
+   "title": "'Allegro' Means Both Fast and Happy. Coincidence?",
+   "video": "https://youtube.com/watch?v=lgWr0o0Wx1A"
 },{
    "duration": 3749,
    "edition": "2019",
@@ -1095,8 +1054,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Michal Dominiak ",
-      " Christopher Di Bella"
+      "Christopher Di Bella",
+      "Michal Dominiak"
    ],
    "tags": [
       "conference",
@@ -1168,8 +1127,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Joel Falcou ",
-      " Vincent Reverdy"
+      "Joel Falcou",
+      "Vincent Reverdy"
    ],
    "tags": [
       "conference",
@@ -1331,8 +1290,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Michael Wong ",
-      " Gordon Brown"
+      "Gordon Brown",
+      "Michael Wong"
    ],
    "tags": [
       "conference",
@@ -1394,7 +1353,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/JIbH02EsdB8/0.jpg",
-   "title": "C++ Standard Library \"Little Things\"",
+   "title": "C++ Standard Library 'Little Things'",
    "video": "https://youtube.com/watch?v=JIbH02EsdB8"
 },{
    "duration": 1892,
@@ -1430,7 +1389,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/6orl-Tc6nLo/0.jpg",
-   "title": "Upgrade from \"permissive C++\" to \"modern C++\" with Visual Studio 2019",
+   "title": "Upgrade from 'permissive C++' to 'modern C++' with Visual Studio 2019",
    "video": "https://youtube.com/watch?v=6orl-Tc6nLo"
 },{
    "duration": 3598,
@@ -1577,24 +1536,6 @@
    "title": "Unicode: Going Down the Rabbit Hole",
    "video": "https://youtube.com/watch?v=SMSmKg1nApM"
 },{
-   "duration": 2866,
-   "edition": "2019",
-   "identifier": "#cppcon-2019-0099",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Peter Bindels"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/SMSmKg1nApM/0.jpg",
-   "title": "Tool Time",
-   "video": "https://youtube.com/watch?v=SMSmKg1nApM"
-},{
    "duration": 3567,
    "edition": "2019",
    "identifier": "#cppcon-2019-0100",
@@ -1613,7 +1554,7 @@
    "title": "Site Reliability Engineering: Balancing Risk and Velocity",
    "video": "https://youtube.com/watch?v=YM8Xy6oKVQg"
 },{
-   "duration": 3605,
+   "duration": 3895,
    "edition": "2019",
    "identifier": "#cppcon-2019-0101",
    "language": "english",
@@ -1627,9 +1568,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/nZNd5FjSquk/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/YB0QoWI-g8E/0.jpg",
    "title": "TCMalloc: A High-Performance Memory Allocator",
-   "video": "https://youtube.com/watch?v=nZNd5FjSquk"
+   "video": "https://youtube.com/watch?v=YB0QoWI-g8E"
 },{
    "duration": 1883,
    "edition": "2019",
@@ -1700,7 +1641,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/b9ZYM0d6htg/0.jpg",
-   "title": "\"Mostly Invalid\": flat_map, Exception Guarantees, and the STL",
+   "title": "'Mostly Invalid': flat_map, Exception Guarantees, and the STL",
    "video": "https://youtube.com/watch?v=b9ZYM0d6htg"
 },{
    "duration": 3661,
@@ -1854,8 +1795,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Gabor Horvath ",
-      " Matthias Gehre"
+      "Gabor Horvath",
+      "Matthias Gehre"
    ],
    "tags": [
       "conference",
@@ -1873,8 +1814,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Eric Niebler ",
-      " David Hollman"
+      "David Hollman",
+      "Eric Niebler"
    ],
    "tags": [
       "conference",
@@ -1892,8 +1833,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Samy Al Bahra ",
-      " Paul Khuong"
+      "Paul Khuong",
+      "Samy Al Bahra"
    ],
    "tags": [
       "conference",
@@ -2001,8 +1942,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Alisdair Meredith ",
-      " Pablo Halpern"
+      "Alisdair Meredith",
+      "Pablo Halpern"
    ],
    "tags": [
       "conference",
@@ -2200,8 +2141,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Joe Bialek ",
-      " Shayne Hiet-Block"
+      "Joe Bialek",
+      "Shayne Hiet-Block"
    ],
    "tags": [
       "conference",
@@ -2229,25 +2170,6 @@
    "thumbnail": "http://img.youtube.com/vi/_qzMpk-22cc/0.jpg",
    "title": "Type punning in modern C++",
    "video": "https://youtube.com/watch?v=_qzMpk-22cc"
-},{
-   "duration": 3407,
-   "edition": "2019",
-   "identifier": "#cppcon-2019-0135",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Herb Sutter ",
-      " Michael Wong"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/F4GzsA00s5I/0.jpg",
-   "title": "ISO SG14 Working Meeting",
-   "video": "https://youtube.com/watch?v=F4GzsA00s5I"
 },{
    "duration": 3227,
    "edition": "2019",
@@ -2418,9 +2340,9 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Sheldon Neuberger ",
-      " Li Feng ",
-      " Brian Holmes"
+      "Brian Holmes",
+      "Li Feng",
+      "Sheldon Neuberger"
    ],
    "tags": [
       "conference",
@@ -2438,11 +2360,11 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jon Kalb ",
-      " Bryce Adelstein Lelbach ",
-      " Jens Weller ",
-      " Stephan T. Lavavej ",
-      " Phil Nash"
+      "Bryce Adelstein Lelbach",
+      "Jens Weller",
+      "Jon Kalb",
+      "Phil Nash",
+      "Stephan T. Lavavej"
    ],
    "tags": [
       "conference",
@@ -2468,7 +2390,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/_HB7_SzkIQ4/0.jpg",
-   "title": "On Writing a C++ Book: The Story of \"C++ Crash Course\"",
+   "title": "On Writing a C++ Book: The Story of 'C++ Crash Course'",
    "video": "https://youtube.com/watch?v=_HB7_SzkIQ4"
 },{
    "duration": 3792,
@@ -3008,7 +2930,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/eYEPsMZZ2LY/0.jpg",
-   "title": "Higher-order functions in Modern C++: existing techniques and `function_ref`",
+   "title": "Higher-order functions in Modern C++: existing techniques and 'function_ref'",
    "video": "https://youtube.com/watch?v=eYEPsMZZ2LY"
 },{
    "duration": 3018,
@@ -3054,8 +2976,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Jorge Gorbe Moya ",
-      " Jordan Rupprecht"
+      "Jordan Rupprecht",
+      "Jorge Gorbe Moya"
    ],
    "tags": [
       "conference",
@@ -3210,42 +3132,6 @@
    "title": "The Smart Pointers I Wish I Had",
    "video": "https://youtube.com/watch?v=CKCR5eFVrmc"
 },{
-   "duration": 3696,
-   "edition": "2019",
-   "identifier": "#cppcon-2019-0193",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Bob Steagall"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/3KoXeegncrs/0.jpg",
-   "title": "CppCon 2020 Planning Committee Work Session",
-   "video": "https://youtube.com/watch?v=3KoXeegncrs"
-},{
-   "duration": 207,
-   "edition": "2019",
-   "identifier": "#cppcon-2019-0194",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "//Phil Nash"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/YxortD9IxSc/0.jpg",
-   "title": "//Lightning Talks",
-   "video": "https://youtube.com/watch?v=YxortD9IxSc"
-},{
    "duration": 2824,
    "edition": "2019",
    "identifier": "#cppcon-2019-0195",
@@ -3271,12 +3157,12 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Guy Davidson ",
-      " Simon Brand ",
-      " Christopher Di Bella ",
-      " Satabdi Das ",
-      " Allison Vacanti ",
-      " Duygu Cakmak"
+      "Allison Vacanti",
+      "Christopher Di Bella",
+      "Duygu Cakmak",
+      "Guy Davidson",
+      "Satabdi Das",
+      "Simon Brand"
    ],
    "tags": [
       "conference",
@@ -3420,8 +3306,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Chandler Carruth ",
-      " Titus Winters"
+      "Chandler Carruth",
+      "Titus Winters"
    ],
    "tags": [
       "conference",
@@ -3447,7 +3333,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/3Ms0gi5GfL0/0.jpg",
-   "title": "`unique_pseudofunction`: N overloads for the price of 1",
+   "title": "'unique_pseudofunction': N overloads for the price of 1",
    "video": "https://youtube.com/watch?v=3Ms0gi5GfL0"
 },{
    "duration": 3515,
@@ -3555,7 +3441,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/ARYP83yNAWk/0.jpg",
-   "title": "De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable (\"Simplifying C++\" #6 of N)",
+   "title": "De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable ('Simplifying C++' #6 of N)",
    "video": "https://youtube.com/watch?v=ARYP83yNAWk"
 },{
    "duration": 3451,
@@ -3609,10 +3495,10 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/PJwd4JLYJJY/0.jpg",
-   "title": "Applied `constexpr`: Doing More Work At Compile Time",
+   "title": "Applied 'constexpr': Doing More Work At Compile Time",
    "video": "https://youtube.com/watch?v=PJwd4JLYJJY"
 },{
-   "duration": 3547,
+   "duration": 3460,
    "edition": "2019",
    "identifier": "#cppcon-2019-0215",
    "language": "english",
@@ -3626,9 +3512,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/4V9QWHjRPMc/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/eC9-iRN2b04/0.jpg",
    "title": "Building C++ Code with Cmake",
-   "video": "https://youtube.com/watch?v=4V9QWHjRPMc"
+   "video": "https://youtube.com/watch?v=eC9-iRN2b04"
 },{
    "duration": 761,
    "edition": "2019",
@@ -3673,8 +3559,8 @@
    "level": 0,
    "meeting": "cppcon",
    "speakers": [
-      "Michael Wong ",
-      " Gordon Brown"
+      "Gordon Brown",
+      "Michael Wong"
    ],
    "tags": [
       "conference",

@@ -48,7 +48,8 @@ What the committee did next!
 Alisdair Meredith
 
 2:00pm PDT
-#cppcon-2014-0008
+// not on youtube
+//#cppcon-2014-0008
 An Overview of C++11/14, Part I
 Leor Zolman
 #cppcon-2014-0009
@@ -114,7 +115,8 @@ Jeff Garland
 // #cppcon-2014-0026
 Boost Library Writers Workshop, Part 1
 Robert Ramey
-#cppcon-2014-0027
+
+// #cppcon-2014-0027
 // not on youtube?
 // Mixins
 Roland Bock
@@ -143,7 +145,7 @@ The Joint Strike Fighter Coding Standard: Using C++ on Mission and Safety Critic
 Bill Emshoff
 #cppcon-2014-0033
 UI prototyping and development for multiple devices in C++
-JT
+John Thomas
 #cppcon-2014-0034
 Writing Data Parallel Algorithms on GPUs
 Ade Miller
@@ -338,14 +340,16 @@ Roland Bock • Kevin Carpenter • Boris Kolpackov • Karl Niu • Ken Smith
 9:00am PDT
 #cppcon-2014-0084
 Polymorphism with Unions
-#cppcon-2014-0085
 Jason Lucas
+
 #cppcon-2014-0086
 Practical Type Erasure
 Cheinan Marks
+
 #cppcon-2014-0087
 Quick game development with C++11/C++14
 Vittorio Romeo
+
 #cppcon-2014-0088
 sqlpp11, An SQL Library Worthy Of Modern C++
 Roland Bock

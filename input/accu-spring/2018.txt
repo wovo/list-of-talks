@@ -417,7 +417,7 @@ Ahto Truu
 
 #accu-2018-0058
 Grease: A Message-Passing Approach to Protocol Stacks in Rust
-Jonathan 'theJPster' Pallant
+Jonathan Pallant
 (slides)
 
 15:30

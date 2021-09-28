@@ -1,7 +1,7 @@
 #locked
 
-$add meeting accu
-$add edition 2019-autumn
+$add meeting accu-autumn
+$add edition 2019
 $add language english
 $add tags conference live
 
@@ -13,9 +13,6 @@ Hilton Hotel, Belfast
 
 #accu-2019-autumn-0001
 Welcome to ACCU Autumn 2019!
-with
-"Movie Night"
-by
 Walter Brown
 
 21:30
@@ -207,8 +204,8 @@ Break
 
 16:30
 
-#accu-2019-autumn-0024
 CLOSING KEYNOTE
+#accu-2019-autumn-0024
 The future direction of C++ and Heterogeneous Computing
 Michael Wong
 

@@ -407,7 +407,7 @@ Abraham Marín Pérez
 Test Driven Specification – A Gentle Introduction to TLA+ (finding concurrency bugs before you write code)
 Dominic Robinson
 
-#accu-2016-0070
+
 ACCU Issues
 ACCU Committee
 

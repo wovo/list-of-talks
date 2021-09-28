@@ -1,10 +1,11 @@
 { "list": [{
-   "duration": 5482,
+   "duration": 3094,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0001",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 1,
    "speakers": [
       "Kate Gregory"
    ],
@@ -13,16 +14,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/bfHEnw6Rm-4/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/SzoquBerhUc/0.jpg",
    "title": "Keynote: Oh The Humanity!",
-   "video": "https://youtube.com/watch?v=bfHEnw6Rm-4"
+   "video": "https://youtube.com/watch?v=SzoquBerhUc"
 },{
-   "duration": 2985,
+   "duration": 5367,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0002",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 2,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -31,16 +33,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/IiGXq3yY70o/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/SFv8Wm2HdNM/0.jpg",
    "title": "The Forgotten Art of Structured Programming",
-   "video": "https://youtube.com/watch?v=IiGXq3yY70o"
+   "video": "https://youtube.com/watch?v=SFv8Wm2HdNM"
 },{
-   "duration": 5422,
+   "duration": 5254,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0003",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 3,
    "speakers": [
       "Odin Holmes"
    ],
@@ -49,16 +52,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/wWZi_wPyVvs/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/EjwgO9gmP1g/0.jpg",
    "title": "boost.tmp: Your DSL for /*Metaprogramming*/ all the things",
-   "video": "https://youtube.com/watch?v=wWZi_wPyVvs"
+   "video": "https://youtube.com/watch?v=EjwgO9gmP1g"
 },{
-   "duration": 2879,
+   "duration": 4946,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0004",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 4,
    "speakers": [
       "Juan Pedro Bolivar Puente"
    ],
@@ -67,16 +71,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/uMWnOkm6zIQ/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/y_m0ce1rzRI/0.jpg",
    "title": "Postmodern immutable data structures",
-   "video": "https://youtube.com/watch?v=uMWnOkm6zIQ"
+   "video": "https://youtube.com/watch?v=y_m0ce1rzRI"
 },{
-   "duration": 3660,
+   "duration": 3944,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0005",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 5,
    "speakers": [
       "Tristan Brindle"
    ],
@@ -85,16 +90,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/SYLgG7Q5Zws/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/d_E-VLyUnzc/0.jpg",
    "title": "Initial C++",
-   "video": "https://youtube.com/watch?v=SYLgG7Q5Zws"
+   "video": "https://youtube.com/watch?v=d_E-VLyUnzc"
 },{
-   "duration": 3418,
+   "duration": 2997,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0006",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 6,
    "speakers": [
       "Andreas Fertig"
    ],
@@ -103,16 +109,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/Bt7KzFxcbgc/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/RflC1v9676s/0.jpg",
    "title": "Fast and Small - What are the Costs of Language Features",
-   "video": "https://youtube.com/watch?v=Bt7KzFxcbgc"
+   "video": "https://youtube.com/watch?v=RflC1v9676s"
 },{
-   "duration": 3756,
+   "duration": 3024,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0007",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 7,
    "speakers": [
       "Adi Shavit"
    ],
@@ -121,16 +128,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/t5gVCirCw1I/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/dU3IgHrAmFA/0.jpg",
    "title": "What I Talk about When I Talk about Cross Platform Development",
-   "video": "https://youtube.com/watch?v=t5gVCirCw1I"
+   "video": "https://youtube.com/watch?v=dU3IgHrAmFA"
 },{
-   "duration": 2415,
+   "duration": 2887,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0008",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 8,
    "speakers": [
       "Anastasiia Kazakova"
    ],
@@ -139,16 +147,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/8-tmVEong2k/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/ByG6nIm6U24/0.jpg",
    "title": "Debug C++ Without Running",
-   "video": "https://youtube.com/watch?v=8-tmVEong2k"
+   "video": "https://youtube.com/watch?v=ByG6nIm6U24"
 },{
    "duration": 3629,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0010",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 9,
    "speakers": [
       "Jason Turner"
    ],
@@ -161,12 +170,13 @@
    "title": "Practical Performance Practices Revisited",
    "video": "https://youtube.com/watch?v=uzF4u9KgUWI"
 },{
-   "duration": 1162,
+   "duration": 3363,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0011",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 10,
    "speakers": [
       "Barney Dellar"
    ],
@@ -175,16 +185,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/HgA-mYRxUGU/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/fWcnp7Bulc8/0.jpg",
    "title": "Strong Types in C++",
-   "video": "https://youtube.com/watch?v=HgA-mYRxUGU"
+   "video": "https://youtube.com/watch?v=fWcnp7Bulc8"
 },{
-   "duration": 3641,
+   "duration": 3646,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0012",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 11,
    "speakers": [
       "Victor Ciura"
    ],
@@ -193,16 +204,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/4X_fZkl7kkU/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/7CnFrn0-2TQ/0.jpg",
    "title": "Better Tools in Your Clang Toolbox: Extending clang-tidy With Your Custom Checks",
-   "video": "https://youtube.com/watch?v=4X_fZkl7kkU"
+   "video": "https://youtube.com/watch?v=7CnFrn0-2TQ"
 },{
-   "duration": 3490,
+   "duration": 3566,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0014",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 12,
    "speakers": [
       "Patricia Aas"
    ],
@@ -211,16 +223,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/evV1brjMuH8/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/ZYvyO27uMCU/0.jpg",
    "title": "Deconstructing Privilege",
-   "video": "https://youtube.com/watch?v=evV1brjMuH8"
+   "video": "https://youtube.com/watch?v=ZYvyO27uMCU"
 },{
-   "duration": 3387,
+   "duration": 4858,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0015",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 13,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -229,16 +242,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ELwTKHiKZS4/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/mAZyaAo3M70/0.jpg",
    "title": "C++17 - The Biggest Traps",
-   "video": "https://youtube.com/watch?v=ELwTKHiKZS4"
+   "video": "https://youtube.com/watch?v=mAZyaAo3M70"
 },{
-   "duration": 3037,
+   "duration": 5161,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0016",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 14,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -247,16 +261,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/tdxQm1DwD_A/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/Dzk1frUXq10/0.jpg",
    "title": "Programming with Contracts in C++20",
-   "video": "https://youtube.com/watch?v=tdxQm1DwD_A"
+   "video": "https://youtube.com/watch?v=Dzk1frUXq10"
 },{
-   "duration": 718,
+   "duration": 4898,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0017",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 15,
    "speakers": [
       "Walter E. Brown"
    ],
@@ -265,16 +280,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/NLebZ3XT92E/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/nfIX8yWlByY/0.jpg",
    "title": "C++ Function Templates: How Do They Really Work?",
-   "video": "https://youtube.com/watch?v=NLebZ3XT92E"
+   "video": "https://youtube.com/watch?v=nfIX8yWlByY"
 },{
-   "duration": 3601,
+   "duration": 5191,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0018",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 16,
    "speakers": [
       "Viktor Kirilov"
    ],
@@ -283,16 +299,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/RTv_-0ITokk/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/anbOy47fBYI/0.jpg",
    "title": "The Hitchhiker's Guide to Faster Builds",
-   "video": "https://youtube.com/watch?v=RTv_-0ITokk"
+   "video": "https://youtube.com/watch?v=anbOy47fBYI"
 },{
-   "duration": 3659,
+   "duration": 3018,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0019",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 17,
    "speakers": [
       "Simon Brand"
    ],
@@ -301,16 +318,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/0DDrseUomfU/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/sQcPte0JNmE/0.jpg",
    "title": "How to Write Well-Behaved Value Wrappers",
-   "video": "https://youtube.com/watch?v=0DDrseUomfU"
+   "video": "https://youtube.com/watch?v=sQcPte0JNmE"
 },{
-   "duration": 5374,
+   "duration": 4256,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0020",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 18,
    "speakers": [
       "Vittorio Romeo"
    ],
@@ -319,19 +337,20 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/3KyW5Ve3LtI/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/TxhOTj_ynUM/0.jpg",
    "title": "Higher-order functions and function_ref",
-   "video": "https://youtube.com/watch?v=3KyW5Ve3LtI"
+   "video": "https://youtube.com/watch?v=TxhOTj_ynUM"
 },{
    "duration": 3563,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0021",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 19,
    "speakers": [
-      "Hana Dusikova ",
-      " Matt Godbolt"
+      "Hana Dusikova",
+      "Matt Godbolt"
    ],
    "tags": [
       "conference",
@@ -342,12 +361,13 @@
    "title": "Compile Time Regular Expressions",
    "video": "https://youtube.com/watch?v=8dKWdJzPwHw"
 },{
-   "duration": 3762,
+   "duration": 3667,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0022",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 20,
    "speakers": [
       "Frances Buontempo"
    ],
@@ -356,16 +376,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/kRGdBzuV6h4/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/6hst54AQR8U/0.jpg",
    "title": "Diffuse your way out of a paper bag",
-   "video": "https://youtube.com/watch?v=kRGdBzuV6h4"
+   "video": "https://youtube.com/watch?v=6hst54AQR8U"
 },{
-   "duration": 2767,
+   "duration": 3296,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0023",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 21,
    "speakers": [
       "Arvid Gerstmann"
    ],
@@ -374,16 +395,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/DUiUBt-fqEY/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/XoYVeduK4yI/0.jpg",
    "title": "Building a C++ Reflection System in One Weekend Using Clang and LLVM",
-   "video": "https://youtube.com/watch?v=DUiUBt-fqEY"
+   "video": "https://youtube.com/watch?v=XoYVeduK4yI"
 },{
-   "duration": 694,
+   "duration": 3652,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0024",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 22,
    "speakers": [
       "Guy Davidson"
    ],
@@ -392,16 +414,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/H9Ht27r7ROk/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/RzO7s-RbLwk/0.jpg",
    "title": "A linear algebra library for C++23",
-   "video": "https://youtube.com/watch?v=H9Ht27r7ROk"
+   "video": "https://youtube.com/watch?v=RzO7s-RbLwk"
 },{
-   "duration": 2948,
+   "duration": 1915,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0025",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 23,
    "speakers": [
       "Tony Wasserka"
    ],
@@ -410,16 +433,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/HvunD0ZJqiA/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/-dtWIY3UMQM/0.jpg",
    "title": "Teaching Old Compilers New Tricks: Transpiling C++17 to C++11",
-   "video": "https://youtube.com/watch?v=HvunD0ZJqiA"
+   "video": "https://youtube.com/watch?v=-dtWIY3UMQM"
 },{
-   "duration": 2729,
+   "duration": 2838,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0026",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 24,
    "speakers": [
       "Arne Mertz"
    ],
@@ -428,16 +452,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/P3RUm6__xs4/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/fKCwDg0vd18/0.jpg",
    "title": "Learning (and teaching) modern C++ - Challenges and Resources",
-   "video": "https://youtube.com/watch?v=P3RUm6__xs4"
+   "video": "https://youtube.com/watch?v=fKCwDg0vd18"
 },{
    "duration": 3660,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0027",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 25,
    "speakers": [
       "Timur Doumler"
    ],
@@ -450,12 +475,13 @@
    "title": "Initialisation in modern C++",
    "video": "https://youtube.com/watch?v=v0jM4wm1zYA"
 },{
-   "duration": 3547,
+   "duration": 3903,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0028",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 26,
    "speakers": [
       "Peter Bindels"
    ],
@@ -464,16 +490,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/4V9QWHjRPMc/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/0byac9a-PBM/0.jpg",
    "title": "Designing for beginners: Simple graphics, a case study",
-   "video": "https://youtube.com/watch?v=4V9QWHjRPMc"
+   "video": "https://youtube.com/watch?v=0byac9a-PBM"
 },{
-   "duration": 513,
+   "duration": 3629,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0029",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 27,
    "speakers": [
       "John Shearer"
    ],
@@ -482,16 +509,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/vuHuKvhG88U/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/1Eh-uEzpikw/0.jpg",
    "title": "Sailing from 4 to 7 Cs: just keep swimming",
-   "video": "https://youtube.com/watch?v=vuHuKvhG88U"
+   "video": "https://youtube.com/watch?v=1Eh-uEzpikw"
 },{
-   "duration": 3583,
+   "duration": 3612,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0030",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 28,
    "speakers": [
       "Clare Macrae"
    ],
@@ -500,16 +528,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/JnoNTc-BmB8/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/dtm8V3TIB6k/0.jpg",
    "title": "Quickly testing legacy code",
-   "video": "https://youtube.com/watch?v=JnoNTc-BmB8"
+   "video": "https://youtube.com/watch?v=dtm8V3TIB6k"
 },{
-   "duration": 2616,
+   "duration": 3772,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0031",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 29,
    "speakers": [
       "Matt Godbolt"
    ],
@@ -518,16 +547,17 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/HAFrggEDr5U/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/w0sz5WbS5AM/0.jpg",
    "title": "Keynote: What Everyone Should Know About How Amazing Compilers Are",
-   "video": "https://youtube.com/watch?v=HAFrggEDr5U"
+   "video": "https://youtube.com/watch?v=w0sz5WbS5AM"
 },{
    "duration": 4213,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0032",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 30,
    "speakers": [
       "Jason Turner"
    ],
@@ -540,12 +570,13 @@
    "title": "Applied constexpr",
    "video": "https://youtube.com/watch?v=PJwd4JLYJJY"
 },{
-   "duration": 3641,
+   "duration": 3737,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0033",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 31,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -554,43 +585,47 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ULX_VTkMvf8/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/qdSAPQiRBDo/0.jpg",
    "title": "Modern C++ Template Programming",
-   "video": "https://youtube.com/watch?v=ULX_VTkMvf8"
+   "video": "https://youtube.com/watch?v=qdSAPQiRBDo"
 },{
-   "duration": 6643,
+   "duration": 4106,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0034",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 32,
    "speakers": [
-      "Jon Jagger & Kevlin Henney"
+      "Jon Jagger",
+      "Kevlin Henney"
    ],
    "tags": [
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/6msIxCxlqJY/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/kmFcNyZrUNM/0.jpg",
    "title": "A Day of Deliberate Practice",
-   "video": "https://youtube.com/watch?v=6msIxCxlqJY"
+   "video": "https://youtube.com/watch?v=kmFcNyZrUNM"
 },{
-   "duration": 7984,
+   "duration": 1772,
    "edition": "2019",
    "identifier": "#c++-on-sea-2019-0035",
    "language": "english",
    "level": 0,
-   "meeting": "c++-on-sea",
+   "meeting": "c++ on sea",
+   "number": 33,
    "speakers": [
-      "David Gross & Walther Zwart"
+      "David Gross",
+      "Walther Zwart"
    ],
    "tags": [
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/o_hkxxe9_9g/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/JaF-fq2Zn7I/0.jpg",
    "title": "Low-latency C++",
-   "video": "https://youtube.com/watch?v=o_hkxxe9_9g"
+   "video": "https://youtube.com/watch?v=JaF-fq2Zn7I"
 }]}

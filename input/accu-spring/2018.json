@@ -5,6 +5,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 1,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -16,12 +17,13 @@
    "title": "C++17 in Practice",
    "video": "https://youtube.com/watch?v=e2ZQyYr0Oi0"
 },{
-   "duration": 1045,
+   "duration": 4935,
    "edition": "2018",
    "identifier": "#accu-2018-0002",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 2,
    "speakers": [
       "Arne Mertz"
    ],
@@ -29,9 +31,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/Z8Bc1ckzVQ4/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/O50qTuM5OT0/0.jpg",
    "title": "100 baby steps away from spaghetti code",
-   "video": "https://youtube.com/watch?v=Z8Bc1ckzVQ4"
+   "video": "https://youtube.com/watch?v=O50qTuM5OT0"
 },{
    "duration": 2900,
    "edition": "2018",
@@ -39,6 +41,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 3,
    "speakers": [
       "Austin Bingham"
    ],
@@ -56,6 +59,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 4,
    "speakers": [
       "Florian Gilcher"
    ],
@@ -73,6 +77,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 5,
    "speakers": [
       "Gen Ashley"
    ],
@@ -90,6 +95,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 6,
    "speakers": [
       "Anthony Williams"
    ],
@@ -107,6 +113,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 7,
    "speakers": [
       "Louis Dionne"
    ],
@@ -124,6 +131,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 8,
    "speakers": [
       "Daniele Procida"
    ],
@@ -141,6 +149,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 9,
    "speakers": [
       "Phil Nash"
    ],
@@ -158,6 +167,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 10,
    "speakers": [
       "Dmitry Kandalov"
    ],
@@ -175,6 +185,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 11,
    "speakers": [
       "Roger Orr"
    ],
@@ -192,6 +203,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 12,
    "speakers": [
       "Jonathan Boccara"
    ],
@@ -209,6 +221,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 13,
    "speakers": [
       "Michel Grootjans"
    ],
@@ -220,23 +233,24 @@
    "title": "Playing with Projections",
    "video": "https://youtube.com/watch?v=Vxt_PDiJAEA"
 },{
-   "duration": 695,
+   "duration": 560,
    "edition": "2018",
    "identifier": "#accu-2018-0014",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 14,
    "speakers": [
-      "Jez Higgins ",
-      " Chris Oldwood"
+      "Chris Oldwood",
+      "Jez Higgins"
    ],
    "tags": [
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/S1smhuJBCvM/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/IJQwvyCZOxU/0.jpg",
    "title": "Chris and Jez's Old Skool Artisan Software Workshop",
-   "video": "https://youtube.com/watch?v=S1smhuJBCvM"
+   "video": "https://youtube.com/watch?v=IJQwvyCZOxU"
 },{
    "duration": 4805,
    "edition": "2018",
@@ -244,6 +258,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 15,
    "speakers": [
       "Andy Balaam"
    ],
@@ -261,6 +276,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 16,
    "speakers": [
       "Jonathan Muller"
    ],
@@ -278,6 +294,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 17,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -295,6 +312,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 18,
    "speakers": [
       "Wojciech Basalaj"
    ],
@@ -312,6 +330,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 19,
    "speakers": [
       "Charley Bay"
    ],
@@ -329,6 +348,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 20,
    "speakers": [
       "Florian Gilcher"
    ],
@@ -346,6 +366,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 21,
    "speakers": [
       "Hadi Hariri"
    ],
@@ -363,6 +384,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 22,
    "speakers": [
       "Timur Doumler"
    ],
@@ -380,6 +402,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 23,
    "speakers": [
       "Detlef Vollmann"
    ],
@@ -391,12 +414,13 @@
    "title": "Finally Executors for C++",
    "video": "https://youtube.com/watch?v=Q8SWwKVg-mM"
 },{
-   "duration": 118,
+   "duration": 2265,
    "edition": "2018",
    "identifier": "#accu-2018-0024",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 24,
    "speakers": [
       "Arjan van Leeuwen"
    ],
@@ -404,9 +428,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/e5T5wUsUBvg/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/YprHjwdSLgw/0.jpg",
    "title": "How not to lead a team of software professionals",
-   "video": "https://youtube.com/watch?v=e5T5wUsUBvg"
+   "video": "https://youtube.com/watch?v=YprHjwdSLgw"
 },{
    "duration": 1226,
    "edition": "2018",
@@ -414,6 +438,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 25,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -431,6 +456,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 26,
    "speakers": [
       "Steve Holden"
    ],
@@ -448,6 +474,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 27,
    "speakers": [
       "Valentin Galea"
    ],
@@ -465,6 +492,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 28,
    "speakers": [
       "Jeffrey Mendelsohn"
    ],
@@ -482,6 +510,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 29,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -493,12 +522,13 @@
    "title": "Higher order functions for the rest of us.",
    "video": "https://youtube.com/watch?v=qL6zUn7iiLg"
 },{
-   "duration": 5363,
+   "duration": 4053,
    "edition": "2018",
    "identifier": "#accu-2018-0030",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 30,
    "speakers": [
       "Victor Ciura"
    ],
@@ -506,9 +536,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/yJLyANPHNaA/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/OMhzlcBl9Hc/0.jpg",
    "title": "Bootstrapping a Local C++ User Group",
-   "video": "https://youtube.com/watch?v=yJLyANPHNaA"
+   "video": "https://youtube.com/watch?v=OMhzlcBl9Hc"
 },{
    "duration": 1937,
    "edition": "2018",
@@ -516,6 +546,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 31,
    "speakers": [
       "Paul Grenyer"
    ],
@@ -533,6 +564,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 32,
    "speakers": [
       "John Lakos"
    ],
@@ -550,6 +582,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 33,
    "speakers": [
       "Dietmar Kuhl"
    ],
@@ -567,9 +600,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 34,
    "speakers": [
-      "Frances Buontempo ",
-      " Christopher Simons"
+      "Christopher Simons",
+      "Frances Buontempo"
    ],
    "tags": [
       "conference",
@@ -585,6 +619,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 35,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -602,6 +637,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 36,
    "speakers": [
       "Hubert Matthews"
    ],
@@ -619,6 +655,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 37,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -636,6 +673,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 38,
    "speakers": [
       "J. Daniel Garcia"
    ],
@@ -653,6 +691,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 39,
    "speakers": [
       "Jon Jagger"
    ],
@@ -670,6 +709,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 40,
    "speakers": [
       "Uberto Barbini"
    ],
@@ -687,6 +727,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 41,
    "speakers": [
       "Eoin Woods"
    ],
@@ -704,6 +745,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 42,
    "speakers": [
       "Lisa Lippincott"
    ],
@@ -721,6 +763,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 43,
    "speakers": [
       "Greg Law"
    ],
@@ -738,6 +781,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 44,
    "speakers": [
       "Mathieu Ropert"
    ],
@@ -755,6 +799,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 45,
    "speakers": [
       "Kate Gregory"
    ],
@@ -772,6 +817,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 46,
    "speakers": [
       "Alisdair Meredith"
    ],
@@ -789,6 +835,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 47,
    "speakers": [
       "Dom Davis"
    ],
@@ -806,6 +853,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 48,
    "speakers": [
       "Jon Kalb"
    ],
@@ -823,6 +871,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 49,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -840,6 +889,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 50,
    "speakers": [
       "Vigneshwer Dhinakaran"
    ],
@@ -857,6 +907,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 51,
    "speakers": [
       "Jon Jagger"
    ],
@@ -874,6 +925,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 52,
    "speakers": [
       "Dom Davis"
    ],
@@ -891,6 +943,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 53,
    "speakers": [
       "Benjamin Misell"
    ],
@@ -908,6 +961,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 54,
    "speakers": [
       "Gail Ollis"
    ],
@@ -925,6 +979,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 55,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -942,6 +997,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 56,
    "speakers": [
       "Jim Hague"
    ],
@@ -959,6 +1015,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 57,
    "speakers": [
       "Ahto Truu"
    ],
@@ -970,29 +1027,31 @@
    "title": "What are hash trees and why you should care",
    "video": "https://youtube.com/watch?v=qkO1Y0Bh74U"
 },{
-   "duration": 1732,
+   "duration": 1848,
    "edition": "2018",
    "identifier": "#accu-2018-0058",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 58,
    "speakers": [
-      "Jonathan 'theJPster' Pallant"
+      "Jonathan Pallant"
    ],
    "tags": [
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/6dcf3tOPOwo/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/PXaSUiGgyEw/0.jpg",
    "title": "Grease: A Message-Passing Approach to Protocol Stacks in Rust",
-   "video": "https://youtube.com/watch?v=6dcf3tOPOwo"
+   "video": "https://youtube.com/watch?v=PXaSUiGgyEw"
 },{
-   "duration": 4215,
+   "duration": 5606,
    "edition": "2018",
    "identifier": "#accu-2018-0059",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 59,
    "speakers": [
       "Alex Voicu"
    ],
@@ -1000,9 +1059,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/RoUYiHTsEFE/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/a_m440rZ5h8/0.jpg",
    "title": "HCC: Bringing Modern C++ to a GPU Near You",
-   "video": "https://youtube.com/watch?v=RoUYiHTsEFE"
+   "video": "https://youtube.com/watch?v=a_m440rZ5h8"
 },{
    "duration": 5107,
    "edition": "2018",
@@ -1010,6 +1069,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 60,
    "speakers": [
       "Jon Kalb"
    ],
@@ -1027,6 +1087,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 61,
    "speakers": [
       "Daniel James"
    ],
@@ -1044,6 +1105,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 62,
    "speakers": [
       "Luca Minudel"
    ],
@@ -1061,6 +1123,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 63,
    "speakers": [
       "Arne Mertz"
    ],
@@ -1078,9 +1141,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 64,
    "speakers": [
-      "Marshall Clow ",
-      " Jonathan Wakely"
+      "Jonathan Wakely",
+      "Marshall Clow"
    ],
    "tags": [
       "conference",
@@ -1096,6 +1160,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 65,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -1113,6 +1178,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 66,
    "speakers": [
       "Giovanni Asproni"
    ],
@@ -1130,9 +1196,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 67,
    "speakers": [
-      "Guy Davidson ",
-      " Duygu Cakmak"
+      "Duygu Cakmak",
+      "Guy Davidson"
    ],
    "tags": [
       "conference",
@@ -1148,6 +1215,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 68,
    "speakers": [
       "Vittorio Romeo"
    ],
@@ -1165,6 +1233,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 69,
    "speakers": [
       "Chris Oldwood"
    ],
@@ -1182,6 +1251,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 70,
    "speakers": [
       "Vigneshwer Dhinakaran"
    ],
@@ -1199,6 +1269,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 71,
    "speakers": [
       "CB Bailey"
    ],
@@ -1216,6 +1287,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 72,
    "speakers": [
       "Michael Wong"
    ],
@@ -1233,6 +1305,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 73,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -1250,6 +1323,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 74,
    "speakers": [
       "Schalk Cronje"
    ],
@@ -1267,6 +1341,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 75,
    "speakers": [
       "Frances Buontempo"
    ],
@@ -1284,6 +1359,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 76,
    "speakers": [
       "Odin Holmes"
    ],
@@ -1301,6 +1377,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 77,
    "speakers": [
       "Seb Rose"
    ],

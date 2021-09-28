@@ -4,7 +4,8 @@
    "identifier": "#code-dive-2016-0001",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 1,
    "speakers": [
       "Lukasz Ziobron"
    ],
@@ -21,7 +22,8 @@
    "identifier": "#code-dive-2016-0002",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 2,
    "speakers": [
       "Jacek Bochenek"
    ],
@@ -38,7 +40,8 @@
    "identifier": "#code-dive-2016-0003",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 3,
    "speakers": [
       "Vicente Botet"
    ],
@@ -55,7 +58,8 @@
    "identifier": "#code-dive-2016-0004",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 4,
    "speakers": [
       "Kamil Witecki"
    ],
@@ -72,7 +76,8 @@
    "identifier": "#code-dive-2016-0005",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 5,
    "speakers": [
       "Sean Parent"
    ],
@@ -89,7 +94,8 @@
    "identifier": "#code-dive-2016-0006",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 6,
    "speakers": [
       "Sean Parent"
    ],
@@ -106,7 +112,8 @@
    "identifier": "#code-dive-2016-0007",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 7,
    "speakers": [
       "Slawomir Zborowski"
    ],
@@ -123,7 +130,8 @@
    "identifier": "#code-dive-2016-0008",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 8,
    "speakers": [
       "Szymon Gutaj"
    ],
@@ -140,7 +148,8 @@
    "identifier": "#code-dive-2016-0009",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 9,
    "speakers": [
       "Piotr Padlewski"
    ],
@@ -157,7 +166,8 @@
    "identifier": "#code-dive-2016-0010",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 10,
    "speakers": [
       "Michael Wong"
    ],
@@ -174,9 +184,11 @@
    "identifier": "#code-dive-2016-0011",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 11,
    "speakers": [
-      "Piotr Padlewski  Jakub Staron"
+      "Jakub Staron",
+      "Piotr Padlewski"
    ],
    "tags": [
       "conference",
@@ -191,7 +203,8 @@
    "identifier": "#code-dive-2016-0012",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 12,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -208,7 +221,8 @@
    "identifier": "#code-dive-2016-0013",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 13,
    "speakers": [
       "Adam Badura"
    ],
@@ -225,11 +239,12 @@
    "identifier": "#code-dive-2016-0014",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 14,
    "speakers": [
-      "Konrad Grochowski ",
-      " Bartosz Papis ",
-      " Kamil Subzda"
+      "Bartosz Papis",
+      "Kamil Subzda",
+      "Konrad Grochowski"
    ],
    "tags": [
       "conference",
@@ -244,7 +259,8 @@
    "identifier": "#code-dive-2016-0015",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 15,
    "speakers": [
       "Andrzej Krzemienski"
    ],
@@ -261,7 +277,8 @@
    "identifier": "#code-dive-2016-0016",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 16,
    "speakers": [
       "Michal Los"
    ],
@@ -278,7 +295,8 @@
    "identifier": "#code-dive-2016-0017",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 17,
    "speakers": [
       "Bartosz Kwasniewski"
    ],
@@ -295,7 +313,8 @@
    "identifier": "#code-dive-2016-0018",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 18,
    "speakers": [
       "Mark Isaacson"
    ],
@@ -312,7 +331,8 @@
    "identifier": "#code-dive-2016-0019",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 19,
    "speakers": [
       "Agnieszka Szufarska"
    ],
@@ -329,7 +349,8 @@
    "identifier": "#code-dive-2016-0020",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 20,
    "speakers": [
       "Przemyslaw Bida"
    ],
@@ -346,7 +367,8 @@
    "identifier": "#code-dive-2016-0021",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 21,
    "speakers": [
       "Slawomir Zborowski"
    ],
@@ -363,7 +385,8 @@
    "identifier": "#code-dive-2016-0022",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 22,
    "speakers": [
       "Sebastian Malaca"
    ],
@@ -380,7 +403,8 @@
    "identifier": "#code-dive-2016-0023",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 23,
    "speakers": [
       "Dawid Borycki"
    ],
@@ -392,12 +416,13 @@
    "title": "Internet Of Things. Building Machine Vision System Supported By Artificial Intelligence",
    "video": "https://youtube.com/watch?v=HXhklOFknAM"
 },{
-   "duration": 768,
+   "duration": 3079,
    "edition": "2016",
    "identifier": "#code-dive-2016-0024",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 24,
    "speakers": [
       "Slawomir Zborowski"
    ],
@@ -405,16 +430,17 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/fRUcNVKQUcg/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/VOPDO_wTpXg/0.jpg",
    "title": "IT Support A.k.a. Disservice (LT)",
-   "video": "https://youtube.com/watch?v=fRUcNVKQUcg"
+   "video": "https://youtube.com/watch?v=VOPDO_wTpXg"
 },{
    "duration": 768,
    "edition": "2016",
    "identifier": "#code-dive-2016-0025",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 25,
    "speakers": [
       "Slawomir Zborowski"
    ],
@@ -431,7 +457,8 @@
    "identifier": "#code-dive-2016-0026",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 26,
    "speakers": [
       "Mariusz Gil"
    ],
@@ -448,7 +475,8 @@
    "identifier": "#code-dive-2016-0027",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 27,
    "speakers": [
       "Chandler Carruth"
    ],
@@ -465,7 +493,8 @@
    "identifier": "#code-dive-2016-0028",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 28,
    "speakers": [
       "Chandler Carruth"
    ],
@@ -482,7 +511,8 @@
    "identifier": "#code-dive-2016-0029",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 29,
    "speakers": [
       "Patrick Marsch"
    ],
@@ -499,7 +529,8 @@
    "identifier": "#code-dive-2016-0030",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 30,
    "speakers": [
       "Lukasz Ziobron"
    ],
@@ -511,12 +542,13 @@
    "title": "Modern C++ Quiz - Part 1 (LT)",
    "video": "https://youtube.com/watch?v=Bb5SvP0t3OY"
 },{
-   "duration": 4559,
+   "duration": 933,
    "edition": "2016",
    "identifier": "#code-dive-2016-0031",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 31,
    "speakers": [
       "Kamil Szatkowski"
    ],
@@ -524,16 +556,17 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/E36BUcTWo50/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/Bb5SvP0t3OY/0.jpg",
    "title": "Modern C++ Quiz - Part 2 (LT)",
-   "video": "https://youtube.com/watch?v=E36BUcTWo50"
+   "video": "https://youtube.com/watch?v=Bb5SvP0t3OY"
 },{
    "duration": 4450,
    "edition": "2016",
    "identifier": "#code-dive-2016-0032",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 32,
    "speakers": [
       "Odin Holmes"
    ],
@@ -550,7 +583,8 @@
    "identifier": "#code-dive-2016-0033",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 33,
    "speakers": [
       "Chandler Carruth"
    ],
@@ -567,7 +601,8 @@
    "identifier": "#code-dive-2016-0034",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 34,
    "speakers": [
       "Vicente Botet"
    ],
@@ -584,7 +619,8 @@
    "identifier": "#code-dive-2016-0035",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 35,
    "speakers": [
       "Patryk Malek"
    ],
@@ -601,7 +637,8 @@
    "identifier": "#code-dive-2016-0036",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 36,
    "speakers": [
       "Sebastian Malaca"
    ],
@@ -618,7 +655,8 @@
    "identifier": "#code-dive-2016-0037",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 37,
    "speakers": [
       "Zain Ul Abidin"
    ],
@@ -635,7 +673,8 @@
    "identifier": "#code-dive-2016-0038",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 38,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -652,7 +691,8 @@
    "identifier": "#code-dive-2016-0039",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 39,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -669,7 +709,8 @@
    "identifier": "#code-dive-2016-0040",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 40,
    "speakers": [
       "Mark Isaacson"
    ],
@@ -686,7 +727,8 @@
    "identifier": "#code-dive-2016-0041",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 41,
    "speakers": [
       "Bartosz Szurgot"
    ],
@@ -703,7 +745,8 @@
    "identifier": "#code-dive-2016-0042",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 42,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -720,7 +763,8 @@
    "identifier": "#code-dive-2016-0043",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 43,
    "speakers": [
       "Piotr Padlewski"
    ],
@@ -737,7 +781,8 @@
    "identifier": "#code-dive-2016-0044",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 44,
    "speakers": [
       "Piotr Padlewski"
    ],
@@ -754,7 +799,8 @@
    "identifier": "#code-dive-2016-0045",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 45,
    "speakers": [
       "Chandler Carruth"
    ],
@@ -771,7 +817,8 @@
    "identifier": "#code-dive-2016-0046",
    "language": "english",
    "level": 0,
-   "meeting": "code-dive",
+   "meeting": "code dive",
+   "number": 46,
    "speakers": [
       "Kamil Szatkowski"
    ],

@@ -8,7 +8,7 @@ $add tags conference live c++
 Saturday, September 23
  
 9:00am PDT
-#cppcon-2017-0001
+
 Lightning Talks
 #cppcon-2017-0002
 Concurrent Thinking in C++
@@ -106,7 +106,7 @@ Scott Meyers
 #cppcon-2017-0021
 The Programmer CEO: Tales From Starting a Company Aimed at C++ Developers
 Greg Law
-#cppcon-2017-0022
+
 Trainers Panel I
 Jon Kalb • Giuseppe D'Angelo • Stephen Dewhurst • Kate Gregory • Scott Meyers • Anthony Williams
 
@@ -231,7 +231,6 @@ Everything You Ever Wanted to Know about DLLs
 James McNellis
 
 10:05am PDT
-#cppcon-2017-0056
 Book Signing: Bjarne Stroustrup
 Bjarne Stroustrup
 
@@ -336,7 +335,6 @@ Emulating a BBC Micro in Javascript
 Matt Godbolt
 
 8:30am PDT
-#cppcon-2017-0083
 ISO SG14 Working Meeting FULL
 Herb Sutter • Michael Wong
 
@@ -428,7 +426,6 @@ There Will Be Build Systems: I Configure Your Milkshake
 Isabella Muerte
 
 3:30pm PDT
-#cppcon-2017-0108
 ISO SG14 Working Meeting FILLING
 Herb Sutter • Michael Wong
 
@@ -505,7 +502,7 @@ Herb Sutter
 //#cppcon-2017-0125
 //Lightning Talks
 //Michael Caisse
-#cppcon-2017-0126
+
 Trainers Panel II
 Jon Kalb • Michael Caisse • Nicolai Josuttis • Thomas McGuire • Dan Saks • Jason Turner
 
@@ -583,7 +580,7 @@ Jon Kalb • Bryce Adelstein Lelbach
 #cppcon-2017-0147
 AMD ROCm and the Heterogeneous System Architecture for HW accelerated C++ and high level languages
 Paul Blinzer
-#cppcon-2017-0148
+// #cppcon-2017-0148
 // not on youtube
 // C++ in the Internet of Things
 Brett Searles • Jelani Brandon • Sara Chipps • Lloyd Moore • Patrice Roy • Dan Saks • Ewerton Scaboro da Silva

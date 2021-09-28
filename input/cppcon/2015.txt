@@ -130,9 +130,9 @@ C++ Community Building Birds of a Feather
 Jon Kalb
 
 8:15am PDT
-#cppcon-2015-0028
-SG14 meeting Wednesday:Towards better support in C++ for Games and Finance
-Nicolas Guillemot • Sean Middleditch • Michael Wong
+//#cppcon-2015-0028
+//SG14 meeting Wednesday:Towards better support in C++ for Games and Finance
+//Nicolas Guillemot • Sean Middleditch • Michael Wong
 
 9:00am PDT
 #cppcon-2015-0029
@@ -142,7 +142,7 @@ Peter Sommerlad
 Organizational Leadership with Modern C++
 Kevin Kostrzewa • John Wyman
 #cppcon-2015-0031
-: What's New, And Proper Usage
+<functional>: What's New, And Proper Usage
 Stephan T. Lavavej
 #cppcon-2015-0032
 Single Threaded Functional to Massively Parellel Stochastic with AMP
@@ -168,10 +168,10 @@ Writing Good C++14 By Default
 Herb Sutter
 
 12:30pm PDT
-#cppcon-2015-0038
-Writing my own Content Management System in C++
-Jens Weller
-#cppcon-2015-0039
+//#cppcon-2015-0038
+//Writing my own Content Management System in C++
+//Jens Weller
+//#cppcon-2015-0039
 //Lightning Talks
 //Kate Gregory
 //#cppcon-2015-0040
@@ -429,9 +429,9 @@ Chandler Carruth
 //#cppcon-2015-0106
 //Lightning Talks
 //Kate Gregory
-#cppcon-2015-0107
-cppreference.com: the community wiki
-Sergey Zubkov
+//#cppcon-2015-0107
+//cppreference.com: the community wiki
+//Sergey Zubkov
 
 2:00pm PDT
 #cppcon-2015-0108
@@ -471,6 +471,7 @@ John Lakos
 // note: next seems to have no speaker
 #cppcon-2015-0118
 Secure C++ Programming
+Gwendolyn Hunt
 
 4:45pm PDT
 #cppcon-2015-0119

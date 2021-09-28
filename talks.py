@@ -30,43 +30,21 @@ def write_to_file( file, text ):
    with open( file, "w" ) as f:
       f.write( text )
 
+def read_from_file( file ):
+   with open( file, "r" ) as f:
+      return "".join( f.readlines())
+
 replacements = {
-   "•": "@",
-   "í": "i",
-   "á": "a",
-   "é": "e",
-   "á": "a",
-   "ł": "l",
-   "ñ": "n",
-   "’": "'",
-   "＜": "<",
-   "＞": ">",
-   "ň": "n",
-   "ř": "r",
-   "ý": "y",
-   "ń": "n",
-   "=": "=",
-   "ü": "u",
-   "“": "\"",
-   "”": "\"",
-   "ç": "c",
-   "–": "-",
-   "ć": "c",
-   "Á": "A",
-   "Ł": "L",
-   "ö": "o",
-   "Č": "C",
-   "ć": "c",
-   "ä": "a",
-   "ë": "e",
-   "ó": "o",
-   "ś": "s",
-   "ę": "e",
-   "ź": "z",
-   "î": "i",
-   "ą": "a",
-   "ă": "a",
-   "ț": "t",
+   "•": "@",      "í": "i",      "á": "a",      "é": "e",      "á": "a",
+   "ł": "l",      "ñ": "n",      "’": "'",      "＜": "<",      "＞": ">",
+   "ň": "n",      "ř": "r",      "ý": "y",      "ń": "n",      "=": "=",
+   "ü": "u",      "“": "'",      "”": "'",      "\"": "'",      "ç": "c",
+   "–": "-",      "ć": "c",      "Á": "A",      "Ł": "L",      "ö": "o",
+   "Č": "C",      "ć": "c",      "ä": "a",      "ë": "e",      "ó": "o",
+   "ś": "s",      "ę": "e",      "ź": "z",      "î": "i",      "ą": "a",
+   "ă": "a",      "ț": "t",      "ß": "ss",     "Š": "S",      "š": "s",
+   "ž": "z",      "`": "'",      "—": "-",      "Ş": "S",      "…": "...",
+   "ż": "z",      "′": "'",      "Ç": "C",      "À": "A",  
    "x": "x",
    "x": "x",
    "x": "x",
@@ -95,6 +73,24 @@ def force_ascii( s ):
    for c in s:
       if ord(c) < 128: r += c
    return r   
+   
+def make_list_of_strings( list, prefix = "   " ):
+   return ( ",\n" + prefix ).join( 
+      map( lambda x: '"%s"' % x.replace( '"', "'" ), sorted( list ) ) )
+   
+def make_js_data( name, list ):
+   return "var %s = [\n   %s\n]\n\n" % \
+      ( name, make_list_of_strings( list ) )
+   
+def make_quote( s ):
+   return '"%s"' % s
+   
+def make_js_pair( tag, value ):
+   return "%10s: %s" % ( tag, str( value ))
+   
+def make_list( list ):
+   return "[\n                     %s\n                  ]" % \
+      make_list_of_strings( list, "                     " )  
       
 
 # ===========================================================================
@@ -102,7 +98,8 @@ def force_ascii( s ):
 class talk:
    """
    the information of a single talk (all strings are ascii):
-      - identifier  : unique indentifier for this talk
+      - number      : unique ctl number for this talk
+      - identifier  : unique identifier for this talk
       - meeting     : meeting name 
       - edition     : edition (often just the year) of the meeting
       - title       : title of the talk
@@ -116,27 +113,29 @@ class talk:
    """
 
    def __init__( self, 
+         number      : int,
          identifier  : str, 
          meeting     : str, 
          edition     : str,
          title       : str,
-         speakers    : str, 
+         speakers    : list[ str ],
          video       : str, 
          thumbnail   : str, 
          duration    : str,
-         tags        : list[ str ] = [],
-         level       : int = 0,
-         language    : str = "english"
+         tags        : list[ str ],
+         level       : int,
+         language    : str
    ):
+      self.number      = number
       self.identifier  = identifier
       self.meeting     = meeting
       self.edition     = edition
       self.title       = title
-      self.speakers    = speakers
+      self.speakers    = sorted( speakers )
       self.video       = video
       self.thumbnail   = thumbnail
       self.duration    = duration
-      self.tags        = tags
+      self.tags        = sorted( tags[:] )
       self.level       = level
       self.language    = language
       
@@ -145,27 +144,22 @@ class talk:
          default = lambda o: o.__dict__, 
          sort_keys = True, 
          indent = 3 )      
-      
-      
-def pipo():      
-      
-   def __str__( self ):
-      return "(%s) %s : [%s]" % ( self.identifier, self.speakers, self.title )
-      
-   def html_line( self ):
-      s = ""
-      s += '%s %s (%s)<BR>\n' % \
-         ( self.conference, self.year, time_as_time( self.duration ))
-      if self.video == None:
-         s += '[no video] %s <BR>\n' % self.title
-      else:
-         s += '<A HREF="%s">%s</A><BR>\n' % ( self.video, self.title )
-      separator = ""
-      for speaker in self.speakers:
-         s += separator + speaker
-         separator = ", "
-      s += "<BR>\n<BR>\n"   
-      return s
+         
+   def to_js( self ):
+      return "   {\n      %s\n   }" %  ",\n      ".join( [
+         make_js_pair( "number",     str(        self.number     )),
+         make_js_pair( "identifier", make_quote( self.identifier )),
+         make_js_pair( "meeting",    make_quote( self.meeting    )),
+         make_js_pair( "edition",    make_quote( self.edition    )),
+         make_js_pair( "title",      make_quote( self.title      )),
+         make_js_pair( "speakers",   make_list(  self.speakers   )),
+         make_js_pair( "video",      make_quote( self.video      )),
+         make_js_pair( "thumbnail",  make_quote( self.thumbnail  )),
+         make_js_pair( "duration",   str(        self.duration   )),
+         make_js_pair( "tags",       make_list(  self.tags       )),
+         make_js_pair( "level",      str(        self.level      )),
+         make_js_pair( "language",   make_quote( self.language   ))
+      ])
 
       
 # ===========================================================================
@@ -173,33 +167,44 @@ def pipo():
 class talks:
    """
    all the talks, and some aggregate information:
-      - list        : (list of talks) the list of all talks
-      - dict        : (dict of string:talk) dictionary of all talks, indexed by indentifier
-      - meetings    : (list of strings) set of all meetings
-      - editions    : (list of strings) set of all editions
-      - speakers    : (list of strings) set of all speakers
-      - tags        : (list of strings) set of all tags
-      - languages   : (list of strings) set of all languages
+      - list        : all talks
+      - dict        : all talks, indexed by indentifier
+      - meetings    : all meetings
+      - editions    : all editions
+      - speakers    : all speakers
+      - tags        : all tags
+      - languages   : all languages
    """
    
    def __init__( self, file_name = None ):
       """
       create an empty talks object, optionally reading its content from a json file
       """
+      self.max_number   = 0
       self.list         = []
       self.dict         = dict()
       self.meetings     = set()
+      self.titles       = set()
       self.editions     = set()
       self.speakers     = set()
       self.tags         = set()
       self.languages    = set()
       if file_name != None:
-         self.read_json( file_name )
+         self.read_json( file_name, use_number = true )
          
-   def add( self, talk ):
+   def add( self, talk, use_number ):
       """
       add a single talk
       """   
+      if use_number:
+         if talk.number > self.max_number:
+            self.max_number = talk.number
+         else:   
+            print( "snark: duplicate number [%d]" % talk.number )
+            exit( -1 )          
+      else:
+         self.max_number += 1
+         talk.number = self.max_number
       if talk.identifier in self.dict:
          print( "snark: duplicate identifier [%s]" % talk.identifier )
          exit( -1 )
@@ -207,6 +212,7 @@ class talks:
       self.dict[ talk.identifier ] = talk
       self.meetings.add( talk.meeting )      
       self.editions.add( talk.edition )
+      self.titles.add( talk.title )
       self.speakers.update( talk.speakers ) 
       self.tags.update( talk.tags )  
       self.languages.update( talk.language )  
@@ -238,28 +244,50 @@ class talks:
       file.write( "]}" )     
       file.close()  
       
-   def read_json( self, file_name = "talks.json" ):
+   def read_json( self, files = "talks.json" ):
       """      
       read and add talks from a json file
       """
-      file = open( file_name, "r" )
-      x = json.loads( file.read() )
-      file.close()
-      for t in x[ "list" ]:
-         self.add( talk(
-            t[ "identifier" ],
-            t[ "meeting" ],
-            t[ "edition" ],
-            t[ "title" ],
-            t[ "speakers" ],
-            t[ "video" ],
-            t[ "thumbnail" ],
-            t[ "duration" ],
-            t[ "tags" ],
-            t[ "level" ],
-            t[ "language" ],
-         ) )
+      for file_name in glob.glob( files ):     
+         print( "   reading json file %s" % file_name )      
+         file = open( file_name, "r" )
+         x = json.loads( file.read() )
+         file.close()
+         for t in x[ "list" ]:
+            self.add( talk(
+               t.get( "number", 0 ),
+               t[ "identifier" ],
+               t[ "meeting" ],
+               t[ "edition" ],
+               t[ "title" ],
+               t[ "speakers" ],
+               t[ "video" ],
+               t[ "thumbnail" ],
+               t[ "duration" ],
+               t[ "tags" ],
+               t[ "level" ],
+               t[ "language" ],
+            ),
+               use_number = ( file_name == "talks.json" )
+            )
+
+   def write_javascript( self, file ):
+      t = ''
+      t += make_js_data( "meetings", self.meetings )
+      t += make_js_data( "editions", self.editions )
+      t += make_js_data( "speakers", self.speakers )
+      t += make_js_data( "titles",   self.titles )
+      t += make_js_data( "tags",     self.tags )
+      t += "const talks = [\n%s\n]\n\n" % \
+         ",\n".join( map( lambda x : x.to_js(), sorted( self.list, key=lambda x: x.title.lower() )))
+      write_to_file( file, t )   
       
+      t = ''
+      t += read_from_file( "index.js" )
+      t += read_from_file( file )
+      t += "\n</SCRIPT>\n</BODY>\n"
+      write_to_file( "index.html", t )
+
 
 # ===========================================================================
 
@@ -275,8 +303,8 @@ def renumber( file_name ):
    file = open( file_name, "r", encoding='utf-8', errors='replace' )
    nr = 0
    for line in file.readlines():
-      if line.startswith( "#locked" ):
-         print( "file has a #locked line - not renumbered" )
+      if line.startswith( "$locked" ):
+         print( "file has a $locked line - not renumbered" )
          exit( -1 )
       if line.startswith( "#" ):
          line = line[ : -1 ]
@@ -302,6 +330,7 @@ def search_youtube( s ):
    video_ids = re.findall( r"watch\?v=(\S{11})", html.read().decode() )
    return video_ids
 
+
 # ===========================================================================   
 
 def make_talk(
@@ -310,7 +339,8 @@ def make_talk(
       edition,
       title,
       speakers,
-      youtube
+      youtube,
+      tags
    ):
       """   
       return a talk object from the info found in a conference schedule
@@ -319,10 +349,10 @@ def make_talk(
       video = ""
       thumbnail = ""
       duration = ""
-      tags = []
       level = 0
       match = []
       language = "english"
+      meeting = meeting.replace( "-", " " ) # for c++-on-sea etc.
       
       title2 = title
       if title2.endswith( " I" ): title2 = '"%s"' % title2
@@ -348,6 +378,7 @@ def make_talk(
          duration    = pafy.new( video ).length
           
       return talk(
+         number      = 0,
          identifier  = identifier,
          meeting     = meeting, 
          edition     = edition,
@@ -368,8 +399,12 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
    found_talks = []    
    state = 0
    found = {}
+   tags = []
    for nr, line in lines:
-      if line.startswith( "#locked" ):
+      if line.startswith( "$set tags" ):
+         tags = line.split( " ")[ 2 : ] 
+         
+      elif line.startswith( "$locked" ):
          pass
          
       elif ( state == 0 ) and line.startswith( "#" ):
@@ -380,9 +415,28 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
          state = 2
          title = line[:]
          
-      # ccpcon 2016 has title-room-speakers
-      elif state == 2 and not line.endswith( ")" ):         
-         speakers = line[:]
+      # ccpcon 2016 has title-(room)-speakers
+      # youtube playlists have WORDT NU AFGESPEELD + spearks : title
+      elif state == 2 and ( title.startswith( "WORDT NU AFGESPEELD" ) or not line.endswith( ")" ) ):         
+      
+         if title.startswith( "WORDT NU AFGESPEELD" ):
+            line = line.strip()
+            if line.endswith( "[]" ):
+               # title - speakers - []
+               line = line[ : -2 ].strip()
+               if line.endswith( "-" ):
+                  line = line[ : -1 ].strip()
+               title, speakers = line.rsplit( " - ", 1 )
+               
+            else:
+               # speakers: title
+               speakers, title = line.split( ":", 1 )
+               
+         else:
+            speakers = line[:]
+
+         speakers = speakers.replace( ",", "@" )
+         speakers = speakers.replace( "&", "@" )
          state = 0
          
          if progress:
@@ -399,8 +453,9 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
             meeting     = meeting,
             edition     = edition,
             title       = title, 
-            speakers    = speakers.split( '@' ),
-            youtube     = youtube
+            speakers    = list( map( lambda s : s.strip(), speakers.split( '@' ))),
+            youtube     = youtube,
+            tags        = tags
          ))
          
    return found_talks   
@@ -453,9 +508,9 @@ def add_talks( talks, files, youtube, progress ):
       for t in new_talks:
          t.tags.extend( tags )
          if language != None: t.language = language
-         talks.add( t )
-      
-      
+         talks.add( t, use_number = False )
+
+
 # ===========================================================================
 
 def command_line_command( args, c, f ):
@@ -479,6 +534,13 @@ def command_line_command( args, c, f ):
       else:
          print( "%s command needs a <file>" % ( s ) )
          exit( -1 )
+
+# ===========================================================================         
+         
+def process( talks, files, youtube, progress ):         
+   for file_name in glob.glob( files + ".txt" ):
+      add_talks( talks, file_name, youtube, progress )      
+      talks.write_json( file_name.replace( ".txt", ".json" ) ) 
       
       
 # ===========================================================================
@@ -491,9 +553,12 @@ if __name__ == "__main__":
    if args == []:
       print( """commands:
          renumber <text_file>
+         process <text_file without text suffix>
+         read_text <text_file>
          read_json <json_file>
          write_json <json_file>
          write_html <html_file>
+         write_js <javascript_file>
       """ )   
       exit( -1 )
    
@@ -502,10 +567,12 @@ if __name__ == "__main__":
       old_args = args[ : ]
       
       command_line_command( args, "renumber",    lambda f, y, p: renumber( f ) )
+      command_line_command( args, "process",     lambda f, y, p: process( t, f, y, p ) )
+      command_line_command( args, "read_text",   lambda f, y, p: add_talks( t, f, y, p ) )
       command_line_command( args, "read_json",   lambda f, y, p: t.read_json( f ) )
       command_line_command( args, "write_json",  lambda f, y, p: t.write_json( f ) )
       command_line_command( args, "write_html",  lambda f, y, p: t.write_html( f ) )
-      command_line_command( args, "add",         lambda f, y, p: add_talks( t, f, y, p ) )
+      command_line_command( args, "write_js",    lambda f, y, p: t.write_javascript( f ) )
                
       if args == old_args:
          print( "unknown command %s" % args[ 0 ] )

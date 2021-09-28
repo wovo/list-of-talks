@@ -87,7 +87,7 @@ Kristóf Kerekes
 
 #marker-0021
 Easier said than done. Self-organized teams
-Izabela Krupa  Paweł Słowikowski
+Izabela Krupa @ Paweł Słowikowski
 
 #marker-0022
 East const but constexpr West

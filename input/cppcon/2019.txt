@@ -145,7 +145,7 @@ Book Signing: Bjarne Stroustrup
 Bjarne Stroustrup
 
 12:30 MDT
-#cppcon-2019-0034
+
 Trainers Panel I
 Jon Kalb • Ben Saks • Dan Saks • Klaus Iglberger • Stephen Dewhurst
 
@@ -287,7 +287,7 @@ Book Signing: Herb Sutter
 Herb Sutter
 
 12:30 MDT
-#cppcon-2019-0070
+//#cppcon-2019-0070
 CppCon Program Committee
 Bryce Adelstein Lelbach • Jon Kalb
 #cppcon-2019-0071
@@ -395,7 +395,7 @@ Tom Poole
 //#cppcon-2019-0098
 //Lightning Talks
 //Phil Nash
-#cppcon-2019-0099
+
 Tool Time
 Peter Bindels
 
@@ -543,7 +543,7 @@ Joe Bialek • Shayne Hiet-Block
 #cppcon-2019-0134
 Type punning in modern C++
 Timur Doumler
-#cppcon-2019-0135
+
 ISO SG14 Working Meeting
 Herb Sutter • Michael Wong
 
@@ -782,10 +782,10 @@ The Smart Pointers I Wish I Had
 Matthew Fleming
 
 12:00 MDT
-#cppcon-2019-0193
+//#cppcon-2019-0193
 CppCon 2020 Planning Committee Work Session
 Bob Steagall
-#cppcon-2019-0194
+//#cppcon-2019-0194
 //Lightning Talks
 //Phil Nash
 //Open Content Sessions: TBA

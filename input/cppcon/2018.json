@@ -5,6 +5,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 1,
    "speakers": [
       "Bob Steagall"
    ],
@@ -23,10 +24,11 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 2,
    "speakers": [
-      "Andrei Alexandrescu ",
-      " Kate Gregory ",
-      " Scott Meyers"
+      "Andrei Alexandrescu",
+      "Kate Gregory",
+      "Scott Meyers"
    ],
    "tags": [
       "conference",
@@ -43,6 +45,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 3,
    "speakers": [
       "Bjarne Stroustrup"
    ],
@@ -61,6 +64,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 4,
    "speakers": [
       "Boris Kolpackov"
    ],
@@ -79,6 +83,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 5,
    "speakers": [
       "Bryce Adelstein Lelbach"
    ],
@@ -97,6 +102,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 6,
    "speakers": [
       "Victor Ciura"
    ],
@@ -115,6 +121,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 7,
    "speakers": [
       "Christopher Di Bella"
    ],
@@ -133,6 +140,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 8,
    "speakers": [
       "Michael Price"
    ],
@@ -151,6 +159,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 9,
    "speakers": [
       "Arno Schoedl"
    ],
@@ -169,12 +178,13 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 10,
    "speakers": [
-      "Jon Kalb ",
-      " Nicolai Josuttis ",
-      " Scott Meyers ",
-      " Michael Caisse ",
-      " Stephen Dewhurst"
+      "Jon Kalb",
+      "Michael Caisse",
+      "Nicolai Josuttis",
+      "Scott Meyers",
+      "Stephen Dewhurst"
    ],
    "tags": [
       "conference",
@@ -191,6 +201,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 11,
    "speakers": [
       "Titus Winters"
    ],
@@ -209,6 +220,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 12,
    "speakers": [
       "Walter E. Brown"
    ],
@@ -227,6 +239,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 13,
    "speakers": [
       "Alisdair Meredith"
    ],
@@ -245,6 +258,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 14,
    "speakers": [
       "Gilang Hamidy"
    ],
@@ -263,6 +277,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 15,
    "speakers": [
       "Matthew Butler"
    ],
@@ -281,6 +296,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 16,
    "speakers": [
       "Phil Nash"
    ],
@@ -299,6 +315,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 17,
    "speakers": [
       "Simon Brand"
    ],
@@ -317,6 +334,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 18,
    "speakers": [
       "Olivier Giroux"
    ],
@@ -335,6 +353,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 19,
    "speakers": [
       "Arthur O'Dwyer"
    ],
@@ -353,6 +372,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 20,
    "speakers": [
       "Titus Winters"
    ],
@@ -371,6 +391,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 21,
    "speakers": [
       "Alisdair Meredith"
    ],
@@ -389,6 +410,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 22,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -407,6 +429,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 23,
    "speakers": [
       "Matthew Butler"
    ],
@@ -425,6 +448,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 24,
    "speakers": [
       "Simon Brand"
    ],
@@ -443,6 +467,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 25,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -461,9 +486,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 26,
    "speakers": [
-      "Gordon Brown ",
-      " Michael Wong"
+      "Gordon Brown",
+      "Michael Wong"
    ],
    "tags": [
       "conference",
@@ -480,6 +506,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 27,
    "speakers": [
       "Tony Wasserka"
    ],
@@ -498,6 +525,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 28,
    "speakers": [
       "James McNellis"
    ],
@@ -516,6 +544,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 29,
    "speakers": [
       "Andrei Alexandrescu"
    ],
@@ -534,6 +563,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 30,
    "speakers": [
       "Jason Turner"
    ],
@@ -552,6 +582,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 31,
    "speakers": [
       "Anastasiia Kazakova"
    ],
@@ -570,15 +601,16 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 32,
    "speakers": [
-      "Jon Kalb ",
-      " Marshall Clow ",
-      " Olivier Giroux ",
-      " Howard Hinnant ",
-      " Bjarne Stroustrup ",
-      " Herb Sutter ",
-      " Ville Voutilainen ",
-      " Titus Winters"
+      "Bjarne Stroustrup",
+      "Herb Sutter",
+      "Howard Hinnant",
+      "Jon Kalb",
+      "Marshall Clow",
+      "Olivier Giroux",
+      "Titus Winters",
+      "Ville Voutilainen"
    ],
    "tags": [
       "conference",
@@ -595,6 +627,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 33,
    "speakers": [
       "Matthew Fleming"
    ],
@@ -613,6 +646,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 34,
    "speakers": [
       "Kate Gregory"
    ],
@@ -631,6 +665,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 35,
    "speakers": [
       "Hana Dusikova"
    ],
@@ -649,6 +684,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 36,
    "speakers": [
       "Steven Simpson"
    ],
@@ -667,6 +703,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 37,
    "speakers": [
       "Borislav Stanimirov"
    ],
@@ -685,6 +722,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 38,
    "speakers": [
       "Arno Lepisk"
    ],
@@ -703,6 +741,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 39,
    "speakers": [
       "Bob Steagall"
    ],
@@ -721,6 +760,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 40,
    "speakers": [
       "Victor Ciura"
    ],
@@ -739,6 +779,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 41,
    "speakers": [
       "Mark Elendt"
    ],
@@ -751,27 +792,28 @@
    "title": "Patterns and Techniques Used in the Houdini 3D Graphics Application",
    "video": "https://youtube.com/watch?v=2YXwg0n9e7E"
 },{
-   "duration": 3597,
+   "duration": 4266,
    "edition": "2018",
    "identifier": "#cppcon-2018-0054",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 42,
    "speakers": [
-      "Jason Turner ",
-      " Peter Bindels ",
-      " Robert Maynard ",
-      " Isabella Muerte ",
-      " Jussi Pakkanen"
+      "Isabella Muerte",
+      "Jason Turner",
+      "Jussi Pakkanen",
+      "Peter Bindels",
+      "Robert Maynard"
    ],
    "tags": [
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/7DTlWPgX6zs/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/ZeU6OPaGxwM/0.jpg",
    "title": "Make World: The Most Miserable Place In C++",
-   "video": "https://youtube.com/watch?v=7DTlWPgX6zs"
+   "video": "https://youtube.com/watch?v=ZeU6OPaGxwM"
 },{
    "duration": 3374,
    "edition": "2018",
@@ -779,9 +821,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 43,
    "speakers": [
-      "Bryce Adelstein Lelbach ",
-      " Jon Kalb"
+      "Bryce Adelstein Lelbach",
+      "Jon Kalb"
    ],
    "tags": [
       "conference",
@@ -798,10 +841,11 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 44,
    "speakers": [
-      "Michal Dominiak ",
-      " Steve Carroll ",
-      " Kai Nelson"
+      "Kai Nelson",
+      "Michal Dominiak",
+      "Steve Carroll"
    ],
    "tags": [
       "conference",
@@ -818,6 +862,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 45,
    "speakers": [
       "Samy Al Bahra"
    ],
@@ -836,10 +881,11 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 46,
    "speakers": [
-      "Paul McKenney ",
-      " Maged Michael ",
-      " Michael Wong"
+      "Maged Michael",
+      "Michael Wong",
+      "Paul McKenney"
    ],
    "tags": [
       "conference",
@@ -856,6 +902,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 47,
    "speakers": [
       "Dan Saks"
    ],
@@ -874,6 +921,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 48,
    "speakers": [
       "Ben Deane"
    ],
@@ -892,9 +940,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 49,
    "speakers": [
-      "Simon Brand ",
-      " Phil Nash"
+      "Phil Nash",
+      "Simon Brand"
    ],
    "tags": [
       "conference",
@@ -911,6 +960,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 50,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -929,6 +979,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 51,
    "speakers": [
       "Patrice Roy"
    ],
@@ -947,6 +998,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 52,
    "speakers": [
       "Greg Law"
    ],
@@ -965,6 +1017,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 53,
    "speakers": [
       "Fabian Renn-Giles"
    ],
@@ -983,9 +1036,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 54,
    "speakers": [
-      "Jon Cohen ",
-      " Matt Kulukundis"
+      "Jon Cohen",
+      "Matt Kulukundis"
    ],
    "tags": [
       "conference",
@@ -993,7 +1047,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/THDpfWG5T7Y/0.jpg",
-   "title": "Touring the \"C++ Tip of the Week\" Series",
+   "title": "Touring the 'C++ Tip of the Week' Series",
    "video": "https://youtube.com/watch?v=THDpfWG5T7Y"
 },{
    "duration": 1310,
@@ -1002,6 +1056,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 55,
    "speakers": [
       "Simon Brand"
    ],
@@ -1020,6 +1075,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 56,
    "speakers": [
       "Arthur O'Dwyer"
    ],
@@ -1038,6 +1094,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 57,
    "speakers": [
       "Patricia Aas"
    ],
@@ -1056,6 +1113,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 58,
    "speakers": [
       "Andrew Nelson"
    ],
@@ -1074,6 +1132,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 59,
    "speakers": [
       "Stephen Dewhurst"
    ],
@@ -1092,6 +1151,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 60,
    "speakers": [
       "Jean-Louis Leroy"
    ],
@@ -1110,6 +1170,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 61,
    "speakers": [
       "Kostya Serebryany"
    ],
@@ -1128,6 +1189,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 62,
    "speakers": [
       "Tony Wasserka"
    ],
@@ -1146,6 +1208,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 63,
    "speakers": [
       "Erik Valkering"
    ],
@@ -1164,6 +1227,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 64,
    "speakers": [
       "Tom Poole"
    ],
@@ -1182,6 +1246,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 65,
    "speakers": [
       "Serge Guelton"
    ],
@@ -1200,6 +1265,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 66,
    "speakers": [
       "Guy Davidson"
    ],
@@ -1218,6 +1284,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 67,
    "speakers": [
       "Richard Powell"
    ],
@@ -1236,9 +1303,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 68,
    "speakers": [
-      "Barbara Geller ",
-      " Ansel Sermersheim"
+      "Ansel Sermersheim",
+      "Barbara Geller"
    ],
    "tags": [
       "conference",
@@ -1255,6 +1323,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 69,
    "speakers": [
       "Nathan Sidwell"
    ],
@@ -1273,6 +1342,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 70,
    "speakers": [
       "Robert Leahy"
    ],
@@ -1285,34 +1355,13 @@
    "title": "The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++",
    "video": "https://youtube.com/watch?v=hdRpCo94_C4"
 },{
-   "duration": 3691,
-   "edition": "2018",
-   "identifier": "#cppcon-2018-0085",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Odin Holmes ",
-      " Ben Saks ",
-      " Dan Saks ",
-      " Brett Searles ",
-      " Andrew Sloss"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/POa_V15je8Y/0.jpg",
-   "title": "Embedded C++",
-   "video": "https://youtube.com/watch?v=POa_V15je8Y"
-},{
    "duration": 3307,
    "edition": "2018",
    "identifier": "#cppcon-2018-0086",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 71,
    "speakers": [
       "Phil Nash"
    ],
@@ -1331,6 +1380,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 72,
    "speakers": [
       "Bob Steagall"
    ],
@@ -1349,6 +1399,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 73,
    "speakers": [
       "Kris Jusiak"
    ],
@@ -1367,6 +1418,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 74,
    "speakers": [
       "Victor Ciura"
    ],
@@ -1385,6 +1437,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 75,
    "speakers": [
       "Patricia Aas"
    ],
@@ -1403,6 +1456,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 76,
    "speakers": [
       "Jon Cohen"
    ],
@@ -1421,6 +1475,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 77,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -1439,6 +1494,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 78,
    "speakers": [
       "Kate Gregory"
    ],
@@ -1457,11 +1513,12 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 79,
    "speakers": [
-      "Kate Gregory ",
-      " Lloyd Moore ",
-      " Aaron R Robinson ",
-      " Brett Searles"
+      "Aaron R Robinson",
+      "Brett Searles",
+      "Kate Gregory",
+      "Lloyd Moore"
    ],
    "tags": [
       "conference",
@@ -1472,12 +1529,13 @@
    "title": "Mixing Managed and Unmanaged Code",
    "video": "https://youtube.com/watch?v=lFQUrhOo1e8"
 },{
-   "duration": 968,
+   "duration": 30827,
    "edition": "2018",
    "identifier": "#cppcon-2018-0098",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 80,
    "speakers": [
       "Hannes Sowa"
    ],
@@ -1486,9 +1544,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/LrUNK1EO8GQ/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/P6iZa388Pj4/0.jpg",
    "title": "Lesser known Linux Kernel APIs",
-   "video": "https://youtube.com/watch?v=LrUNK1EO8GQ"
+   "video": "https://youtube.com/watch?v=P6iZa388Pj4"
 },{
    "duration": 1908,
    "edition": "2018",
@@ -1496,6 +1554,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 81,
    "speakers": [
       "Jean-Louis Leroy"
    ],
@@ -1514,6 +1573,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 82,
    "speakers": [
       "Boris Kolpackov"
    ],
@@ -1532,6 +1592,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 83,
    "speakers": [
       "Richard Powell"
    ],
@@ -1550,6 +1611,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 84,
    "speakers": [
       "Louis Dionne"
    ],
@@ -1568,6 +1630,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 85,
    "speakers": [
       "Nir Friedman"
    ],
@@ -1586,6 +1649,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 86,
    "speakers": [
       "Robert Ramey"
    ],
@@ -1604,9 +1668,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 87,
    "speakers": [
-      "Steve Carroll ",
-      " Marian Luparu"
+      "Marian Luparu",
+      "Steve Carroll"
    ],
    "tags": [
       "conference",
@@ -1623,6 +1688,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 88,
    "speakers": [
       "Robert Schumacher"
    ],
@@ -1641,6 +1707,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 89,
    "speakers": [
       "Fred Tingaud"
    ],
@@ -1659,6 +1726,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 90,
    "speakers": [
       "Morris Hafner"
    ],
@@ -1677,6 +1745,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 91,
    "speakers": [
       "James Bennett"
    ],
@@ -1695,6 +1764,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 92,
    "speakers": [
       "Alastair Rankine"
    ],
@@ -1713,6 +1783,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 93,
    "speakers": [
       "Rong Lu"
    ],
@@ -1731,6 +1802,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 94,
    "speakers": [
       "Jussi Pakkanen"
    ],
@@ -1749,6 +1821,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 95,
    "speakers": [
       "Juan Manuel Martinez Caamano"
    ],
@@ -1767,6 +1840,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 96,
    "speakers": [
       "Niek J. Bouman"
    ],
@@ -1785,6 +1859,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 97,
    "speakers": [
       "William Clements"
    ],
@@ -1803,6 +1878,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 98,
    "speakers": [
       "Rishi Wani"
    ],
@@ -1821,6 +1897,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 99,
    "speakers": [
       "Nicole Mazzuca"
    ],
@@ -1839,6 +1916,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 100,
    "speakers": [
       "Gor Nishanov"
    ],
@@ -1857,6 +1935,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 101,
    "speakers": [
       "Jonathan Boccara"
    ],
@@ -1875,6 +1954,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 102,
    "speakers": [
       "Serge Guelton"
    ],
@@ -1893,6 +1973,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 103,
    "speakers": [
       "Michael Caisse"
    ],
@@ -1911,6 +1992,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 104,
    "speakers": [
       "Pablo Halpern"
    ],
@@ -1929,6 +2011,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 105,
    "speakers": [
       "Michael Gopshtein"
    ],
@@ -1947,9 +2030,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 106,
    "speakers": [
-      "Timur Doumler ",
-      " Dmitry Kozhevnikov"
+      "Dmitry Kozhevnikov",
+      "Timur Doumler"
    ],
    "tags": [
       "conference",
@@ -1966,6 +2050,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 107,
    "speakers": [
       "Marc Goodner"
    ],
@@ -1978,37 +2063,19 @@
    "title": "Cross-platform C++ development is challenging - let tools help!",
    "video": "https://youtube.com/watch?v=wxQwlVgaH4o"
 },{
-   "duration": 3823,
-   "edition": "2018",
-   "identifier": "#cppcon-2018-0127",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "speakers": [
-      "Timur Doumler ",
-      " Ed Davies"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/boPEO2auJj4/0.jpg",
-   "title": "C++ Audio Meetup",
-   "video": "https://youtube.com/watch?v=boPEO2auJj4"
-},{
    "duration": 5576,
    "edition": "2018",
    "identifier": "#cppcon-2018-0128",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 108,
    "speakers": [
-      "Ian Bearman ",
-      " Chandler Carruth ",
-      " Xiang Fan ",
-      " Brett Searles ",
-      " Michael Wong"
+      "Brett Searles",
+      "Chandler Carruth",
+      "Ian Bearman",
+      "Michael Wong",
+      "Xiang Fan"
    ],
    "tags": [
       "conference",
@@ -2025,10 +2092,11 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 109,
    "speakers": [
-      "Nicolai Josuttis ",
-      " Jon Kalb ",
-      " Phil Nash"
+      "Jon Kalb",
+      "Nicolai Josuttis",
+      "Phil Nash"
    ],
    "tags": [
       "conference",
@@ -2045,6 +2113,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 110,
    "speakers": [
       "Simon Brand"
    ],
@@ -2063,6 +2132,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 111,
    "speakers": [
       "Peter Bindels"
    ],
@@ -2081,8 +2151,9 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 112,
    "speakers": [
-      "#cppcon-2018-0133"
+      "Billy O'Neal"
    ],
    "tags": [
       "conference",
@@ -2093,12 +2164,32 @@
    "title": "Inside Visual C++' Parallel Algorithms",
    "video": "https://youtube.com/watch?v=nOpwhTbulmk"
 },{
+   "duration": 3509,
+   "edition": "2018",
+   "identifier": "#cppcon-2018-0133",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 113,
+   "speakers": [
+      "Elmar Westphal"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Xd4NVV-Uy0I/0.jpg",
+   "title": "Using Template Magic to Automatically Generate Hybrid CPU/GPU-Code",
+   "video": "https://youtube.com/watch?v=Xd4NVV-Uy0I"
+},{
    "duration": 3692,
    "edition": "2018",
    "identifier": "#cppcon-2018-0134",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 114,
    "speakers": [
       "Marc Gregoire"
    ],
@@ -2117,6 +2208,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 115,
    "speakers": [
       "Arthur O'Dwyer"
    ],
@@ -2135,6 +2227,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 116,
    "speakers": [
       "Victor Ciura"
    ],
@@ -2153,6 +2246,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 117,
    "speakers": [
       "Stoyan Nikolov"
    ],
@@ -2171,6 +2265,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 118,
    "speakers": [
       "Herb Sutter"
    ],
@@ -2189,6 +2284,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 119,
    "speakers": [
       "Peter Goldsborough"
    ],
@@ -2201,26 +2297,27 @@
    "title": "Machine Learning with C++ BoF",
    "video": "https://youtube.com/watch?v=auRPXMMHJzc"
 },{
-   "duration": 292,
+   "duration": 3798,
    "edition": "2018",
    "identifier": "#cppcon-2018-0140",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 120,
    "speakers": [
-      "Jon Kalb ",
-      " Rainer Grimm ",
-      " Dan Saks ",
-      " Jason Turner"
+      "Dan Saks",
+      "Jason Turner",
+      "Jon Kalb",
+      "Rainer Grimm"
    ],
    "tags": [
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/fSB57PiXpRw/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/DHOlsEd0eDE/0.jpg",
    "title": "Trainers Panel II",
-   "video": "https://youtube.com/watch?v=fSB57PiXpRw"
+   "video": "https://youtube.com/watch?v=DHOlsEd0eDE"
 },{
    "duration": 3750,
    "edition": "2018",
@@ -2228,12 +2325,13 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 121,
    "speakers": [
-      "Patricia Aas ",
-      " Matthew Butler ",
-      " Eva Conti ",
-      " Matt Miller ",
-      " Michael Wong"
+      "Eva Conti",
+      "Matt Miller",
+      "Matthew Butler",
+      "Michael Wong",
+      "Patricia Aas"
    ],
    "tags": [
       "conference",
@@ -2250,6 +2348,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 122,
    "speakers": [
       "Geoffrey Romer"
    ],
@@ -2259,7 +2358,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/s5PCh_FaMfM/0.jpg",
-   "title": "What do you mean \"thread-safe\"?",
+   "title": "What do you mean 'thread-safe'?",
    "video": "https://youtube.com/watch?v=s5PCh_FaMfM"
 },{
    "duration": 3319,
@@ -2268,6 +2367,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 123,
    "speakers": [
       "Vincent Reverdy"
    ],
@@ -2286,6 +2386,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 124,
    "speakers": [
       "Arvid Gerstmann"
    ],
@@ -2304,6 +2405,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 125,
    "speakers": [
       "Fedor Pikus"
    ],
@@ -2322,6 +2424,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 126,
    "speakers": [
       "Mathieu Ropert"
    ],
@@ -2340,6 +2443,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 127,
    "speakers": [
       "JF Bastien"
    ],
@@ -2358,9 +2462,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 128,
    "speakers": [
-      "Matthias Gehre ",
-      " Gabor Horvath"
+      "Gabor Horvath",
+      "Matthias Gehre"
    ],
    "tags": [
       "conference",
@@ -2377,6 +2482,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 129,
    "speakers": [
       "Adi Shavit"
    ],
@@ -2395,6 +2501,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 130,
    "speakers": [
       "Mike Shah"
    ],
@@ -2413,6 +2520,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 131,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -2431,9 +2539,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 132,
    "speakers": [
-      "Nicolas Fleury ",
-      " Mathieu Nayrolles"
+      "Mathieu Nayrolles",
+      "Nicolas Fleury"
    ],
    "tags": [
       "conference",
@@ -2450,6 +2559,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 133,
    "speakers": [
       "Anna Gringauze"
    ],
@@ -2468,6 +2578,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 134,
    "speakers": [
       "Michal Dominiak"
    ],
@@ -2486,6 +2597,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 135,
    "speakers": [
       "Kevin Carpenter"
    ],
@@ -2504,6 +2616,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 136,
    "speakers": [
       "Viktor Kirilov"
    ],
@@ -2522,6 +2635,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 137,
    "speakers": [
       "Gabor Horvath"
    ],
@@ -2540,6 +2654,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 138,
    "speakers": [
       "Damien Buhl"
    ],
@@ -2558,6 +2673,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 139,
    "speakers": [
       "Andrei Zlate-Podani"
    ],
@@ -2576,6 +2692,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 140,
    "speakers": [
       "Jeff Trull"
    ],
@@ -2594,6 +2711,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 141,
    "speakers": [
       "Jefferson Amstutz"
    ],
@@ -2612,6 +2730,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 142,
    "speakers": [
       "Marshall Clow"
    ],
@@ -2630,6 +2749,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 143,
    "speakers": [
       "Valentin Galea"
    ],
@@ -2648,6 +2768,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 144,
    "speakers": [
       "Stephan T. Lavavej"
    ],
@@ -2666,6 +2787,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 145,
    "speakers": [
       "Andrew Sutton"
    ],
@@ -2684,6 +2806,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 146,
    "speakers": [
       "Greg Falcon"
    ],
@@ -2702,6 +2825,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 147,
    "speakers": [
       "Bob Steagall"
    ],
@@ -2720,13 +2844,14 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 148,
    "speakers": [
-      "Manuel Klimek ",
-      " Boris Kolpackov ",
-      " Paddy McDonald ",
-      " Robert Schumacher ",
-      " Brett Searles ",
-      " Titus Winters"
+      "Boris Kolpackov",
+      "Brett Searles",
+      "Manuel Klimek",
+      "Paddy McDonald",
+      "Robert Schumacher",
+      "Titus Winters"
    ],
    "tags": [
       "conference",
@@ -2743,10 +2868,11 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 149,
    "speakers": [
-      "Jon Kalb ",
-      " Phil Nash ",
-      " Herb Sutter"
+      "Herb Sutter",
+      "Jon Kalb",
+      "Phil Nash"
    ],
    "tags": [
       "conference",
@@ -2763,6 +2889,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 150,
    "speakers": [
       "Norman Birkett"
    ],
@@ -2781,6 +2908,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 151,
    "speakers": [
       "Jeff Trull"
    ],
@@ -2799,6 +2927,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 152,
    "speakers": [
       "Thomas Rodgers"
    ],
@@ -2817,6 +2946,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 153,
    "speakers": [
       "John Woolverton"
    ],
@@ -2835,6 +2965,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 154,
    "speakers": [
       "Jason Turner"
    ],
@@ -2853,6 +2984,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 155,
    "speakers": [
       "Timur Doumler"
    ],
@@ -2871,6 +3003,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 156,
    "speakers": [
       "John Lakos"
    ],
@@ -2889,6 +3022,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 157,
    "speakers": [
       "Yu Qi"
    ],
@@ -2907,6 +3041,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 158,
    "speakers": [
       "Odin Holmes"
    ],
@@ -2925,6 +3060,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 159,
    "speakers": [
       "Matt Godbolt"
    ],
@@ -2943,6 +3079,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 160,
    "speakers": [
       "Sean Parent"
    ],
@@ -2961,6 +3098,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 161,
    "speakers": [
       "Alan Talbot"
    ],
@@ -2979,6 +3117,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 162,
    "speakers": [
       "JeanHeyd Meneide"
    ],
@@ -2997,6 +3136,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 163,
    "speakers": [
       "Hyrum Wright"
    ],
@@ -3015,6 +3155,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 164,
    "speakers": [
       "Bob Steagall"
    ],
@@ -3033,6 +3174,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 165,
    "speakers": [
       "Ben Deane"
    ],
@@ -3051,6 +3193,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 166,
    "speakers": [
       "Titus Winters"
    ],
@@ -3069,6 +3212,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 167,
    "speakers": [
       "Adi Shavit"
    ],
@@ -3087,6 +3231,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 168,
    "speakers": [
       "Ilya Biryukov"
    ],
@@ -3105,6 +3250,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 169,
    "speakers": [
       "Juan Pedro Bolivar Puente"
    ],
@@ -3123,6 +3269,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 170,
    "speakers": [
       "Vinnie Falco"
    ],
@@ -3135,15 +3282,35 @@
    "title": "Get rich quick! Using Boost.Beast WebSockets and Networking TS",
    "video": "https://youtube.com/watch?v=7FQwAjELMek"
 },{
+   "duration": 5255,
+   "edition": "2018",
+   "identifier": "#cppcon-2018-0195",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 171,
+   "speakers": [
+      "Chandler Carruth"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_f7O3IfIR2k/0.jpg",
+   "title": "Spectre: Secrets, Side-Channels, Sandboxes, and Security",
+   "video": "https://youtube.com/watch?v=_f7O3IfIR2k"
+},{
    "duration": 3374,
    "edition": "2018",
    "identifier": "#cppcon-2018-0196",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 172,
    "speakers": [
-      "Bryce Adelstein Lelbach ",
-      " Andrew Sutton"
+      "Andrew Sutton",
+      "Bryce Adelstein Lelbach"
    ],
    "tags": [
       "conference",
@@ -3160,6 +3327,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 173,
    "speakers": [
       "Phil Nash"
    ],
@@ -3178,6 +3346,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 174,
    "speakers": [
       "Jason Turner"
    ],
@@ -3196,6 +3365,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 175,
    "speakers": [
       "David Faure"
    ],
@@ -3214,6 +3384,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 176,
    "speakers": [
       "Klaus Iglberger"
    ],
@@ -3232,6 +3403,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 177,
    "speakers": [
       "Christopher Di Bella"
    ],
@@ -3250,9 +3422,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 178,
    "speakers": [
-      "Ben Saks ",
-      " Dan Saks"
+      "Ben Saks",
+      "Dan Saks"
    ],
    "tags": [
       "conference",
@@ -3269,9 +3442,10 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 179,
    "speakers": [
-      "Gordon Brown ",
-      " Michael Wong"
+      "Gordon Brown",
+      "Michael Wong"
    ],
    "tags": [
       "conference",
@@ -3288,6 +3462,7 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
+   "number": 180,
    "speakers": [
       "Arthur O'Dwyer"
    ],

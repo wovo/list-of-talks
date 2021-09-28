@@ -1,10 +1,11 @@
 { "list": [{
-   "duration": 3387,
+   "duration": 1226,
    "edition": "2017",
    "identifier": "#accu-2017-0001",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 1,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -12,9 +13,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ELwTKHiKZS4/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/e2ZQyYr0Oi0/0.jpg",
    "title": "Moving to C++17: The New Language and Library Features",
-   "video": "https://youtube.com/watch?v=ELwTKHiKZS4"
+   "video": "https://youtube.com/watch?v=e2ZQyYr0Oi0"
 },{
    "duration": 5292,
    "edition": "2017",
@@ -22,6 +23,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 2,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -39,9 +41,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 3,
    "speakers": [
-      "Seb Rose ",
-      " Jon Jagger"
+      "Jon Jagger",
+      "Seb Rose"
    ],
    "tags": [
       "conference",
@@ -57,6 +60,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 4,
    "speakers": [
       "Brad Chamberlain"
    ],
@@ -74,6 +78,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 5,
    "speakers": [
       "Russ Miles"
    ],
@@ -91,6 +96,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 6,
    "speakers": [
       "Dietmar Kuhl"
    ],
@@ -108,6 +114,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 7,
    "speakers": [
       "Timur Doumler"
    ],
@@ -125,6 +132,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 8,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -142,6 +150,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 9,
    "speakers": [
       "Chris Oldwood"
    ],
@@ -159,6 +168,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 10,
    "speakers": [
       "Peter Smith"
    ],
@@ -176,6 +186,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 11,
    "speakers": [
       "Marshall Clow"
    ],
@@ -193,6 +204,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 12,
    "speakers": [
       "Frank Birbacher"
    ],
@@ -210,6 +222,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 13,
    "speakers": [
       "Roger Orr"
    ],
@@ -227,6 +240,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 14,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -244,6 +258,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 15,
    "speakers": [
       "Alan Griffiths"
    ],
@@ -261,6 +276,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 16,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -278,6 +294,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 17,
    "speakers": [
       "Louis Dionne"
    ],
@@ -289,12 +306,13 @@
    "title": "Metaprogramming in C++14",
    "video": "https://youtube.com/watch?v=Oc4enqNH-Mc"
 },{
-   "duration": 1398,
+   "duration": 296,
    "edition": "2017",
    "identifier": "#accu-2017-0018",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 18,
    "speakers": [
       "Neil Horlock"
    ],
@@ -302,9 +320,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/Z4eEDIUAN20/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/O6EUO9PO540/0.jpg",
    "title": "Time gentlemen please",
-   "video": "https://youtube.com/watch?v=Z4eEDIUAN20"
+   "video": "https://youtube.com/watch?v=O6EUO9PO540"
 },{
    "duration": 4384,
    "edition": "2017",
@@ -312,6 +330,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 19,
    "speakers": [
       "Andy Balaam"
    ],
@@ -323,23 +342,24 @@
    "title": "How to write a programming language",
    "video": "https://youtube.com/watch?v=82-XjMzKaC8"
 },{
-   "duration": 1813,
+   "duration": 6746,
    "edition": "2017",
    "identifier": "#accu-2017-0020",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 20,
    "speakers": [
-      "Robert Chatley ",
-      " Jon Jagger"
+      "Jon Jagger",
+      "Robert Chatley"
    ],
    "tags": [
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/wHbeqwxM3JI/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/QXf0zQeqc3k/0.jpg",
    "title": "C++ Countdown Pub Quiz",
-   "video": "https://youtube.com/watch?v=wHbeqwxM3JI"
+   "video": "https://youtube.com/watch?v=QXf0zQeqc3k"
 },{
    "duration": 3234,
    "edition": "2017",
@@ -347,6 +367,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 21,
    "speakers": [
       "Brad Chamberlain"
    ],
@@ -364,6 +385,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 22,
    "speakers": [
       "Guy Davidson"
    ],
@@ -381,6 +403,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 23,
    "speakers": [
       "John Lakos"
    ],
@@ -398,6 +421,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 24,
    "speakers": [
       "Peter Hilton"
    ],
@@ -415,6 +439,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 25,
    "speakers": [
       "Austin Bingham"
    ],
@@ -432,6 +457,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 26,
    "speakers": [
       "Greg Law"
    ],
@@ -449,6 +475,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 27,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -466,6 +493,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 28,
    "speakers": [
       "Mathias Gaunard"
    ],
@@ -483,6 +511,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 29,
    "speakers": [
       "Robert Smallshire"
    ],
@@ -500,6 +529,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 30,
    "speakers": [
       "Dmitry Kandalov"
    ],
@@ -517,6 +547,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 31,
    "speakers": [
       "Sergey Ignatchenko"
    ],
@@ -534,6 +565,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 32,
    "speakers": [
       "Arne Mertz"
    ],
@@ -551,6 +583,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 33,
    "speakers": [
       "Hubert Matthews"
    ],
@@ -562,12 +595,13 @@
    "title": "The C++ Type System Is Your Friend",
    "video": "https://youtube.com/watch?v=MCiVdu7gScs"
 },{
-   "duration": 349,
+   "duration": 84,
    "edition": "2017",
    "identifier": "#accu-2017-0034",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 34,
    "speakers": [
       "Michel Grootjans"
    ],
@@ -575,9 +609,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/zEJn6eQO6FE/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/Q-h--bFYUAU/0.jpg",
    "title": "Why limiting your work in progress will speed up your project",
-   "video": "https://youtube.com/watch?v=zEJn6eQO6FE"
+   "video": "https://youtube.com/watch?v=Q-h--bFYUAU"
 },{
    "duration": 5243,
    "edition": "2017",
@@ -585,6 +619,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 35,
    "speakers": [
       "Jim Hague"
    ],
@@ -602,6 +637,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 36,
    "speakers": [
       "Stephen Kelly"
    ],
@@ -619,6 +655,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 37,
    "speakers": [
       "Fran Buontempo"
    ],
@@ -636,6 +673,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 38,
    "speakers": [
       "Greg Law"
    ],
@@ -653,6 +691,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 39,
    "speakers": [
       "Dirk Haun"
    ],
@@ -670,6 +709,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 40,
    "speakers": [
       "Dom Davis"
    ],
@@ -687,6 +727,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 41,
    "speakers": [
       "Ahto Truu"
    ],
@@ -704,9 +745,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 42,
    "speakers": [
-      "Christopher Simons ",
-      " Pedro Ferreira"
+      "Christopher Simons",
+      "Pedro Ferreira"
    ],
    "tags": [
       "conference",
@@ -722,6 +764,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 43,
    "speakers": [
       "Odin Holmes"
    ],
@@ -739,6 +782,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 44,
    "speakers": [
       "Elliot Goodrich"
    ],
@@ -756,6 +800,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 45,
    "speakers": [
       "Samathy Barratt"
    ],
@@ -773,6 +818,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 46,
    "speakers": [
       "Seb Rose"
    ],
@@ -790,9 +836,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 47,
    "speakers": [
-      "Petr Kudriavtsev ",
-      " Vladimir Voskresensky"
+      "Petr Kudriavtsev",
+      "Vladimir Voskresensky"
    ],
    "tags": [
       "conference",
@@ -808,6 +855,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 48,
    "speakers": [
       "Sergey Nepomnyachiy"
    ],
@@ -825,6 +873,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 49,
    "speakers": [
       "Jon Jagger"
    ],
@@ -842,6 +891,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 50,
    "speakers": [
       "J Daniel Garcia"
    ],
@@ -859,6 +909,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 51,
    "speakers": [
       "Nigel Lester"
    ],
@@ -876,6 +927,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 52,
    "speakers": [
       "Sergei Sadovnikov"
    ],
@@ -893,6 +945,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 53,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -910,6 +963,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 54,
    "speakers": [
       "Charles Bailey"
    ],
@@ -927,6 +981,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 55,
    "speakers": [
       "Steven Simpson"
    ],
@@ -944,6 +999,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 56,
    "speakers": [
       "Paul Cunnell"
    ],
@@ -955,12 +1011,13 @@
    "title": "Introduction to Blockchain technology, and how to build something useful with it",
    "video": "https://youtube.com/watch?v=qOVAbKKSH10"
 },{
-   "duration": 1663,
+   "duration": 6632,
    "edition": "2017",
    "identifier": "#accu-2017-0057",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 57,
    "speakers": [
       "Diego Rodriguez-Losada"
    ],
@@ -968,9 +1025,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/xvqH_ck-5Q8/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/j00-uFBrJu4/0.jpg",
    "title": "5 years creating FOSS dev tools for C and C++: the untold",
-   "video": "https://youtube.com/watch?v=xvqH_ck-5Q8"
+   "video": "https://youtube.com/watch?v=j00-uFBrJu4"
 },{
    "duration": 5509,
    "edition": "2017",
@@ -978,6 +1035,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 58,
    "speakers": [
       "Dominic Robinson"
    ],
@@ -995,6 +1053,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 59,
    "speakers": [
       "Burkhard Kloss"
    ],
@@ -1012,6 +1071,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 60,
    "speakers": [
       "Matthew Dodkins"
    ],
@@ -1029,6 +1089,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 61,
    "speakers": [
       "Ingve Vormestrand"
    ],
@@ -1046,6 +1107,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 62,
    "speakers": [
       "Arjan van Leeuwen"
    ],
@@ -1063,6 +1125,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 63,
    "speakers": [
       "Vittorio Romeo"
    ],
@@ -1080,6 +1143,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 64,
    "speakers": [
       "Seb Rose"
    ],
@@ -1097,6 +1161,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 65,
    "speakers": [
       "Niall Douglas"
    ],
@@ -1114,6 +1179,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 66,
    "speakers": [
       "Tim Boddy"
    ],
@@ -1131,6 +1197,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 67,
    "speakers": [
       "Roger Orr"
    ],
@@ -1148,6 +1215,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 68,
    "speakers": [
       "Anthony Williams"
    ],
@@ -1165,6 +1233,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 69,
    "speakers": [
       "Dirk Haun"
    ],
@@ -1182,6 +1251,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 70,
    "speakers": [
       "Phil Nash"
    ],
@@ -1193,12 +1263,13 @@
    "title": "Functional C++ For Fun And Profit",
    "video": "https://youtube.com/watch?v=8hW-LT8qFT0"
 },{
-   "duration": 234,
+   "duration": 1141,
    "edition": "2017",
    "identifier": "#accu-2017-0071",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 71,
    "speakers": [
       "Jason McGuiness"
    ],
@@ -1206,9 +1277,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/fEnnmpdZllQ/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/HuHQRcIgFwI/0.jpg",
    "title": "Knuth, Amdahl: I spurn thee!",
-   "video": "https://youtube.com/watch?v=fEnnmpdZllQ"
+   "video": "https://youtube.com/watch?v=HuHQRcIgFwI"
 },{
    "duration": 5253,
    "edition": "2017",
@@ -1216,6 +1287,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 72,
    "speakers": [
       "Odin Holmes"
    ],
@@ -1233,9 +1305,10 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 73,
    "speakers": [
-      "James Turner ",
-      " Giuseppe D'Angelo"
+      "Giuseppe D'Angelo",
+      "James Turner"
    ],
    "tags": [
       "conference",
@@ -1245,12 +1318,13 @@
    "title": "Introduction to Qt 3D",
    "video": "https://youtube.com/watch?v=1S_AVHaVsLA"
 },{
-   "duration": 598,
+   "duration": 715,
    "edition": "2017",
    "identifier": "#accu-2017-0074",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 74,
    "speakers": [
       "Sven Rosvall"
    ],
@@ -1258,9 +1332,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/i4fd2Va3Jtg/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/CnLE0C-5ElY/0.jpg",
    "title": "Practical Code Review using tools",
-   "video": "https://youtube.com/watch?v=i4fd2Va3Jtg"
+   "video": "https://youtube.com/watch?v=CnLE0C-5ElY"
 },{
    "duration": 4901,
    "edition": "2017",
@@ -1268,6 +1342,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 75,
    "speakers": [
       "Jez Higgins"
    ],
@@ -1279,12 +1354,13 @@
    "title": "A Browse Through ES2016",
    "video": "https://youtube.com/watch?v=Px4_gglU-e4"
 },{
-   "duration": 4732,
+   "duration": 882,
    "edition": "2017",
    "identifier": "#accu-2017-0076",
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 76,
    "speakers": [
       "Steve Love"
    ],
@@ -1292,9 +1368,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/El26kw9INbc/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/l95DsKm5fbY/0.jpg",
    "title": "Got To Test Them All",
-   "video": "https://youtube.com/watch?v=El26kw9INbc"
+   "video": "https://youtube.com/watch?v=l95DsKm5fbY"
 },{
    "duration": 4234,
    "edition": "2017",
@@ -1302,6 +1378,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
+   "number": 77,
    "speakers": [
       "Herb Sutter"
    ],

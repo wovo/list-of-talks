@@ -1,9 +1,19 @@
+#locked
+
+$add meeting meeting-c++
+$add edition 2018
+$add language english
+$add tags conference live c++
+
+
 Registration
 9:30
 Welcome Message
 10:00
-Keynote - Andrei Alexandrescu
-"What is the next big paradigm?"
+
+#marker-0001
+What is the next big paradigm?
+Andrei Alexandrescu
 
 12:00
 Lunchbreak
@@ -24,18 +34,22 @@ Track E
 Bernstein
 13:15
  
+#marker-0002
 Better C++14 Reflections Without Macros, Markup nor External Tooling
 Antony Polukhin
 
  
+#marker-0003
 The Hitchhiker's Guide to Faster Builds
 Viktor Kirilov
 
  
+// #marker-0004
 A Little Order: Delving into the STL sorting algorithms
 Fred Tingaud
 
  
+#marker-0005
 Clean(er) Code for Large Scale Legacy Applications
 Arne Mertz
 
@@ -44,18 +58,22 @@ Social Meetup
 short break
 14:30
  
+#marker-0006
 Data-oriented design in practice
 Stoyan Nikolov
 
  
+#marker-0007
 Modern approach to template meta-programming
 Ivan Cukic
 
  
+#marker-0008
 Engineering Software: Integral Types
 Andrei Zlate-Podani
 
  
+#marker-0009
 Recent Developments and Future Outlook of Qt
 Lars Knoll
 
@@ -64,18 +82,22 @@ Diversity meeting
 This coffee break is sponsored by:mcpp/sponsoren/flowtraders_200.png
 16:00
  
+#marker-0010
 Regular Types and Why Do I Care ?
 Victor Ciura
 
  
+#marker-0011
 std::variant and the Power of Pattern Matching
 Nikolai Wuttke
 
  
+#marker-0012
 Building a C++ Reflection System in One Weekend Using Clang and LLVM
 Arvid Gerstmann
 
  
+#marker-0013
 Statistical Scientific programming: challenges in converting R to C++
 Olivia Quinet
 
@@ -84,18 +106,22 @@ Qt meeting
 short break
 17:15
  
+#marker-0014
 Taming Dynamic Memory - An Introduction to Custom Allocators
 Andreas Weis
 
  
+#marker-0015
 Dealing with aliasing using contracts
 Gábor Horváth
 
  
+#marker-0016
 How to write more reliable code?
 Egor Bredikhin
 
  
+#marker-0017
 Standardising a linear algebra library
 Guy Davidson
 
@@ -109,8 +135,10 @@ Day 2 - 16th November
 10:00
 Good Morning Meeting C++!
 10:30
-Keynote - Lisa Lippincott
-"The truth of a Procedure"
+
+#marker-0018
+The truth of a Procedure
+Lisa Lippincott
 
 12:00
 Lunchbreak
@@ -131,18 +159,22 @@ Track E
 Bernstein
 13:15
  
+#marker-0019
 Benchmarking C++. From video games to trading.
 Alexander Radchenko
 
  
+#marker-0020
 Coroutine TS: A new way of thinking
 Andreas Reischuck
 
  
+#marker-0021
 Cross-platform C++ development is challenging - let tools help!
 Marc Goodner
 
  
+#marker-0022
 High performance data structures in Boost
 Boris Schäling
 
@@ -151,18 +183,22 @@ Jobsearch & Hiring
 short break
 14:30
  
+#marker-0023
 Option(al) Is Not A Failure
 Phil Nash
 
  
+#marker-0024
 Structured fuzzing for real-world projects
 Réka Nikolett Kovács
 
  
+#marker-0025
 More Modern CMake - Working with CMake 3.12 and later
 Deniz Bahadir
 
  
+#marker-0026
 Text Formatting For a Future Range-Based Standard Library
 Arno Schoedl
 
@@ -171,40 +207,48 @@ Audio meeting
 coffee break
 16:00
  
+#marker-0027
 Writing Cache-Friendly C++
 Jonathan Müller
 
  
+#marker-0028
 Higher Order Functions for Ordinary Developers
 Björn Fahller
 
  
+#marker-0029
 boost.tmp: your DSL for Metaprogramming
 Odin Holmes
 
 This talk is a replacement for Instrumenting C++ code for effective monitoring by Steven Simpson
 
  
+#marker-0030
 C++, QML, and static reflection
 Manuel Sánchez
 
-#include meeting
+//#include meeting0031
 17:00
 short break
 17:15
  
+#marker-0032
 C++ Concepts and Ranges - How to use them?
 Mateusz Pusz
 
  
+#marker-0033
 Socializing with {fmt}
 Daniela Engert
 
  
+#marker-0034
 Clean integral code
 Walther Zwart
 
  
+#marker-0035
 Twenty years of extending C++: What have we learned?
 David Millington
 
@@ -230,18 +274,22 @@ Track E
 Bernstein
 9:00
  
+#marker-0036
 Initialization in modern C++
 Timur Doumler
 
  
+#marker-0037
 pinned_vector: A Contiguous Container without Pointer Invalidation
-Miro Knejp, Jakob Schweißhelm
+Miro Knejp @ Jakob Schweißhelm
 
  
+#marker-0038
 These Aren't the COM Objects You're Looking For
 Victor Ciura
 
  
+#marker-0039
 Breadcrumbs won’t help – how not to get lost in a lambda forest
 Christian Hofmann
 
@@ -250,20 +298,24 @@ embedded meeting
 short break
 10:20
  
+#marker-0040
 C++ Mixins: Customization Through Compile Time Composition
 Odin Holmes
 
  
+#marker-0041
 Compile Time Regular Expressions
 Hana Dusíková
 
 Instead of Sane and safe C++ class types by Peter Sommerlad. Who unfortunately could not attend due to sickness.
 
  
+#marker-0042
 Continuable - asynchronous programming with allocation aware futures
 Denis Blank
 
  
+#marker-0043
 Best Practices for Concurrency
 Rainer Grimm
 
@@ -272,18 +324,22 @@ General User Group Meeting
 short break
 11:40
  
+#marker-0044
 Time Travel Debugging, or, Making Even the Hardest Problems Easy to Debug
 James McNellis
 
  
+#marker-0045
 Policy-based design in C++20
 Goran Arandjelovic
 
  
+#marker-0046
 Alice's Adventures in Template Land
 Jonathan O'Connor
 
  
+#marker-0047
 Teaching old compilers new tricks: Transpiling from C++17 to C++11
 Tony Wasserka
 
@@ -295,8 +351,10 @@ Meeting C++ Update
 15:30
 Coffeebreak
 16:00
-Keynote - Nicolai Josuttis
-"50 shades of C++"
+
+//#marker-0048
+50 shades of C++
+Nicolai Josuttis
 
 ~17:30
 The End - See you next year!

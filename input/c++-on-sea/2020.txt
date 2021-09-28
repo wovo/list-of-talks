@@ -3,7 +3,7 @@
 $add meeting c++-on-sea
 $add edition 2020
 $add language english
-$add tags conference live c++
+$add tags conference online c++
 
 main()
 const west
@@ -198,7 +198,7 @@ live music
 
 17:00
 #c++-on-sea-2020-0030
-Keynote: Bridge to NewThingia: How to answer "why will yours succeed, when X, Y, and Z have failed?"
+Keynote: Bridge to NewThingia: How to answer 'why will yours succeed, when X, Y, and Z have failed?'
 Herb Sutter
 
 

@@ -210,11 +210,11 @@ Nicolai Josuttis
 
 #c++-on-sea-2019-0034
 A Day of Deliberate Practice
-Jon Jagger & Kevlin Henney
+Jon Jagger @ Kevlin Henney
 
 #c++-on-sea-2019-0035
 Low-latency C++
-David Gross & Walther Zwart
+David Gross @ Walther Zwart
 
 10:30
 Refreshments break (15 mins)
